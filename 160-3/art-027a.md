@@ -1,0 +1,3 @@
+# Art. 27a Wiederwahl
+1 Nach Ablauf einer vierjährigen Amtsdauer unterliegt der Pfarrer der periodischen Wiederwahl. Der Wahltermin für die Wiederwahl wird spätestens sechs Monate vorher vom Kirchgemeinderat bekanntgegeben. Ein Wahlgang findet jedoch nur statt, wenn dies spätestens drei Monate vor dem bekanntgegebenen Wahltermin vom Kirchgemeinderat beschlossen oder innert der gleichen Frist von zehn Prozent der Stimmberechtigten schriftlich verlangt wird. Andernfalls erklärt der Kirchgemeinderat den Pfarrer als in stiller Wahl wiedergewählt und widerruft den angesetzten Wahlgang.
+2 Muss nach der vorliegenden Bestimmung eine Wahl durchgeführt werden, so erfolgt sie geheim.
