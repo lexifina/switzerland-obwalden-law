@@ -5,4 +5,3 @@
 4 Die Kantonsbeiträge betragen 40 Prozent der Nettokosten der Einwohnergemeinde.
 5 Der Regierungsrat definiert die kantonalen Vorgaben in Ausführungsbestimmungen.
 3.2.2. Frühe Sprachförderung
-3.2.2a. Kindergarten und Primarschule
