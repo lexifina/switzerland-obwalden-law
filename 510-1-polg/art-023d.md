@@ -1,2 +1,0 @@
-# Art. 23d Präventive verdeckte Ermittlung a. Definition
-1 Verdeckte Ermittlung liegt vor, wenn Angehörige der Polizei oder Drittpersonen unter Verwendung einer durch Urkunden abgesicherten falschen Identität (Legende) durch täuschendes Verhalten zu Personen Kontakte knüpfen mit dem Ziel, ein Vertrauensverhältnis aufzubauen und in ein kriminelles Umfeld einzudringen, um besonders schwere Straftaten zu verhindern (Art. 286 Abs. 2 der Strafprozessordnung).
