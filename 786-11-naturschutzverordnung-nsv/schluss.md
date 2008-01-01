@@ -1,0 +1,8 @@
+Weitere Informationen zum Erlass
+Ursprüngliche Fundstelle: OGS 1991, 4
+geändert durch:
+- die Verordnung zum Baugesetz (BauV) vom 7. Juli 1994, in Kraft seit 1. September 1994 (OGS 1995, 23),
+- den Nachtrag vom 6. Juni 1997, in Kraft seit 1. August 1997 (OGS 1997, 81),
+- das Gesetz über die Bereinigung der amtlichen Gesetzessammlung (Bereinigungsgesetz II) vom 15. März 2007, in Kraft seit 1. August 2007 (OGS 2007, 13),
+- den Nachtrag vom 25. Oktober 2007, in Kraft seit 15. Dezember 2007 (OGS 2007, 69),
+- das Gesetz über die Umsetzung der Neuverteilung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA) vom 29. Juni 2007, in Kraft seit 1. Januar 2008 (OGS 2007, 38)
