@@ -1,0 +1,2 @@
+# Art. 3a An- und Abmeldung ausländischer Personen
+1 Für das An- und Abmelden ausländischer Personen bzw. das Zustellen der erforderlichen Akten an die Abteilung Migration innert zehn Tagen hat die Einwohnergemeinde Anspruch auf eine pauschale Abgeltung. Für jede ausländische Person mit einer Aufenthalts- oder Niederlassungsbewilligung überweist der Kanton der Einwohnergemeinde jährlich eine Gebühr von Fr. 8. –. Massgebend ist die Jahresstatistik des Bundesamtes für Migration.
