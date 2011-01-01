@@ -1,0 +1,4 @@
+# Art. 11c Elektronische Gesetzesdatenbank a. Formlose Berichtigung und Anpassungen durch die Staatskanzlei
+1 Die Staatskanzlei berichtigt in der elektronischen Gesetzesdatenbank formlos nicht sinnverändernde Fehler wie Grammatik-, Rechtschreib- und inhaltlich bedeutungslose Darstellungsfehler; sie passt Verweise, Fundstellen oder Abkürzungen formlos an.
+2 Ebenfalls formlos berichtigt werden Texte mit sinnverändernden Fehlern und Formulierungen, die in der amtlichen Gesetzessammlung richtig veröffentlich wurden.
+3 Ändern sich in Rechtstexten enthaltene Bezeichnungen von Departementen und Amtsstellen aufgrund von Änderungen der Gesetzgebung oder Organisationsentscheiden des Regierungsrats, so passt die Staatskanzlei die Bezeichnungen in der elektronischen Gesetzesdatenbank formlos an. Die Departemente melden neue Bezeichnungen und die betroffenen Erlasse der Staatskanzlei.
