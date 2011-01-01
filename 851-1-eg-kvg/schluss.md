@@ -1,0 +1,15 @@
+Informationen zum Erlass
+Ursprüngliche Fundstelle: OGS 1999, 64
+geändert durch
+- Nachtrag vom 16. Dezember 1999, in Kraft seit1. Januar 2000 (OGS 1999, 124),
+- Nachtrag vom 26. Januar 2001, in Kraft seit 1. Januar2001 (OGS 2001, 7),
+- das Gesetz über die Aufgabenteilung zwischen Kanton und Gemeinden (Finanzpaket) vom 20. September 2001, in Kraft seit 1. Januar 2002 (OGS 2001, 83),
+- Nachtrag vom 21. Februar 2003, in Kraft rückwirkend seit 1. Januar 2003 (OGS 2003, 7),
+- Nachtrag vom 18. Dezember 2003, in Kraft seit 1. Januar 2004 (OGS 2003, 62),
+- Nachtrag vom 28. Januar 2005, in Kraft rückwirkend seit 1. Januar 2005 (OGS 2005, 11),
+- das Einführungsgesetz zur Änderung des Strafgesetzbuches und des Jugendstrafrechts(Einführungsgesetz zum AT StGB) vom 14. Oktober 2005, in Kraft seit1. Januar 2007 (OGS 2005, 61, OGS 2006, 91),
+- Nachtrag vom 26. Januar 2007, in Kraft rückwirkend seit 1. Januar 2007 (OGS 2007, 5),
+- Nachtrag vom 25. Januar 2008,in Kraft rückwirkend seit 1. Januar 2008 (OGS 2008, 12),
+- Nachtrag vom 4. Dezember2008, in Kraft seit 1. Januar 2009 (OGS 2008, 108),
+- das Gesetz über die Justizreformvom 21. Mai 2010, in Kraft seit 1. Januar 2011 (OGS 2010, 33 Ziff. I. 15. und OGS 2010, 41),
+- Nachtrag vom 27. Januar 2011, in Kraft rückwirkend seit 1. Januar 2011(OGS 2011, 10 und 17)
