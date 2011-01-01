@@ -1,0 +1,7 @@
+# Art. 22a Beiträge des Kantons
+1 Der Kanton gewährt leistungsorientierte Beiträge an Organisationen der Hilfe und Pflege zu Hause, mit welchen die Einwohnergemeinden gemeinsam eine Leistungsvereinbarung abgeschlossen haben. Beiträge werden namentlich geleistet für:
+a. die ambulante Grundversorgung gemäss Krankenpflege-Leistungsverordnung ;
+b. die hauswirtschaftlichen Dienstleistungen.
+2 Der Kanton gewährt der kantonalen Spitexträgerorganisation einen Pauschalbeitrag an die leistungsunabhängigen Grundleistungen.
+3 Der Kanton gewährt Beiträge an Organisationen, die Mahlzeitendienste anbieten, wenn die Dienstleistungen im Rahmen einer Leistungsvereinbarung mit den Einwohnergemeinden erbracht werden.
+4 Der Regierungsrat legt die Höhe der Beiträge nach Anhören der Einwohnergemeinden in Ausführungsbestimmungen fest und regelt die Abrechnungsmodalitäten.
