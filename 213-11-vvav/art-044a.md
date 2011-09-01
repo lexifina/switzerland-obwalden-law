@@ -1,0 +1,2 @@
+# Art. 44a Übergangsbestimmung
+1 Bestehende öffentlich-rechtliche Verträge mit Personen, welche im Geometerregister eingetragen sein müssen, gelten weiterhin, sofern die Eintragung im Geometerregister innert der Frist von Art. 41 Abs. 4 der Verordnung vom 21. Mai 2008 über die Ingenieur-Geometerinnen und Ingenieur-Geometer erfolgt. Andernfalls sind die öffentlich-rechtlichen Verträge zum nächstmöglichen Termin zu beenden.
