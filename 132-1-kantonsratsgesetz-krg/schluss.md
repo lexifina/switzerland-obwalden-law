@@ -1,0 +1,9 @@
+Informationen zum Erlass:
+Urspüngliche Fundstelle: OGS 2005, 27 und 34;
+geändert durch:
+- das Gesetz über den Datenschutz (Datenschutzgesetz) vom 25. Januar 2008, in Kraft seit 1. November 2008 (OGS 2008, 14, 29 und 59),
+- den Nachtrag vom 26. Juni 2009, in Kraft seit 1. Juli 2009 (OGS 2009, 34 und 39),
+- den Nachtrag vom 11. März 2010, in Kraft seit 1. Mai 2010 (OGS 2010, 15 und 19),
+- das Gesetz über die Justizreform vom 21. Mai 2010, in Kraft seit 1. Januar 2011 (OGS 2010, 33 Ziff. I. 4. und OGS 2010, 41),
+- Art. 105 des Finanzhaushaltsgesetzes vom 11. März 2010, in Kraft seit 1. Januar 2012 (OGS 2010, 13 und 20),
+- Nachtrag vom 15. März 2012, in Kraft seit 1. Juli 2012 (OGS 2012, 15 und 27)
