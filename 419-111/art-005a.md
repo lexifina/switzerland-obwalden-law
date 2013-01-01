@@ -1,0 +1,2 @@
+# Art. 5a Finanzielle Leistungsfähigkeit der Eltern
+1 Die finanzielle Leistungsfähigkeit der Eltern im Sinne von Art. 9 Abs. 2 der Stipendienverordnung wird berücksichtigt, wenn der Bewerber die massgebende Altersgrenze im Zeitpunkt des Eingabetermins für Gesuche um Ausbildungsbeiträge im Herbst bzw. Frühling noch nicht erreicht hat. Er wird dann für die zwei darauffolgenden Semester elternabhängig eingestuft.
