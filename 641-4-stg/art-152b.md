@@ -1,0 +1,3 @@
+# Art. 152b Anlagekosten bei land- und forstwirtschaftlichen Grundstücken
+1 Die für die Grundstückgewinnsteuer massgeblichen Anlagekosten von land- und forstwirtschaftlichen Grundstücken des Geschäftsvermögens entsprechen dem Buchwert zuzüglich der bisher vorgenommenen Abschreibungen gemäss Art. 20 Abs. 6 dieses Gesetzes.
+2 Der in diesen Anlagekosten enthaltene Erwerbspreis ist jedoch nicht massgebend, soweit das Grundstück durch eine steueraufschiebende Veräusserung erworben worden ist. In solchen Fällen ist derjenige Erwerbspreis massgebend, welcher der letzten steuerbegründenden Veräusserung zugrunde lag.

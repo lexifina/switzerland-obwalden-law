@@ -1,0 +1,3 @@
+# Art. 39b Liquidationsgewinne
+1 Wird die selbstständige Erwerbstätigkeit nach dem vollendeten 55. Altersjahr oder wegen Unfähigkeit zur Weiterführung infolge Invalidität definitiv aufgegeben, so ist die Summe der in den letzten zwei Geschäftsjahren realisierten stillen Reserven getrennt vom übrigen Einkommen nach Art. 40 Abs. 2 und 3 dieses Gesetzes zu besteuern. Einkaufsbeiträge gemäss Art. 35 Abs. 1 Bst. d dieses Gesetzes sind abziehbar.
+2 Absatz 1 gilt auch für den überlebenden Ehegatten, die anderen Erben und die Vermächtnisnehmer, sofern sie das übernommene Unternehmen nicht fortführen; die steuerliche Abrechnung erfolgt spätestens fünf Kalenderjahre nach Ablauf des Todesjahres des Erblassers.
