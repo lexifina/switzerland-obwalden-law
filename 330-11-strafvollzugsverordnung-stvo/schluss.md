@@ -1,0 +1,11 @@
+Informationen zum Erlass
+Ursprüngliche Fundstelle: OGS 1991, 34
+geändert durch
+- Nachtrag vom 19. Oktober 1990, in Kraft seit 1. Mai 1991 (ABl 1990, 1112),
+- Nachtrag zur Verordnung über die Strafrechtspflege (Strafprozessordnung) vom 19. Dezember 1996, in Kraft seit 15. Februar 1997 (OGS 1997, 49),
+- Nachtrag vom 26. Mai 2000, in Kraft seit 1. September 2000 (OGS 2000, 33),
+- das Einführungsgesetz zur Änderung des Strafgesetzbuches und des Jugendstrafrechts (Einführungsgesetz zum AT StGB) vom 14. Oktober 2005, in Kraft seit 1. Januar 2007 (OGS 2005, 61),
+- das Gesetz über die Bereinigung der amtlichen Gesetzessammlung (Bereinigungsgesetz II) vom 15. März 2007, in Kraft seit 1. August 2007 (OGS 2007, 13),
+- das Polizeigesetz vom 11. März 2010, in Kraft seit 1. Januar 2011 (OGS 2010, 14 und 53),
+- das Gesetz über die Justizreform vom 21. Mai 2010, in Kraft seit 1. Januar 2011 (OGS 2010, 33 Ziff. III. 13., OGS 2010, 41),
+- den Anhang zum Nachtrag zum Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 3. Mai 2012, in Kraft seit 1. Januar 2013 (OGS 2012, 29 und 43)

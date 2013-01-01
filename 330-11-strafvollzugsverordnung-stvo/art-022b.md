@@ -1,0 +1,3 @@
+# Art. 22b c. Halbgefangenschaft
+1 Eine Freiheitsstrafe von sechs Monaten bis zu einem Jahr wird in der Form der Halbgefangenschaft vollzogen, wenn nicht zu erwarten ist, dass die verurteilte Person flieht oder weitere Straftaten begeht. Dabei setzt die verurteilte Person ihre Arbeit oder Ausbildung ausserhalb der Vollzugseinrichtung fort und verbringt ihre Ruhe- und Freizeit in der Vollzugseinrichtung.
+2 Freiheitsstrafen von weniger als sechs Monaten und nach Anrechnung der Untersuchungshaft verbleibende Reststrafen von weniger als sechs Monaten werden in der Regel in der Form der Halbgefangenschaft vollzogen.
