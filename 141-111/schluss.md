@@ -1,0 +1,19 @@
+Informationen zum Erlass
+Ursprüngliche Fundstelle: OGS 1999, 33
+geändert durch
+- Nachtrag vom 2. November 1999, in Kraft seit 1. Januar 2000 (OGS 1999, 109),
+- Nachtrag vom 12. Dezember 2000, in Kraft seit 1. Januar 2001 (OGS 2000, 57),
+- Nachtrag vom 10. Dezember 2002, in Kraft seit 1. Januar 2003 (OGS 2002, 74 und 77),
+- Nachtrag vom 18. März 2003, in Kraft rückwirkend seit 1. Januar 2003 (OGS 2003, 14),
+- Nachtrag vom 7. September 2004, in Kraft seit 1. Januar 2005 (OGS 2004, 53),
+- Nachtrag vom 31. August 2005, in Kraft seit 1. Januar 2006 (OGS 2005, 54),
+- Nachtrag vom 5. September 2006, in Kraft seit 1. Januar 2007 (OGS 2006, 67),
+- Nachtrag vom 11. September 2007, in Kraft seit 1. Januar 2008 (OGS 2007, 58),
+- die AB über Anpassungen im Lohnsystem des Staatspersonals und der Lehrpersonen vom 9. September 2008, in Kraft seit 1. Januar 2009 (OGS 2008, 72),
+- die AB über die Anpassung des Verordnungsrechts des Regierungsrats zur Umsetzung der Rechtsweggarantie sowie der Bundesrechtspflege vom 25. November 2008, in Kraft seit 1. Januar 2009 (OGS 2008, 99),
+- Nachtrag vom 15. September 2009, in Kraft seit 1. Januar 2010 (OGS 2009, 45),
+- die AB über Anpassungen im Lohnsystem des Staatspersonals und der Lehrpersonen vom 21. September 2010, in Kraft seit 1. Januar 2011 (OGS 2010, 58),
+- Nachtrag vom 22. November 2011, in Kraft seit 1. Januar 2012 (OGS 2011, 67),
+- Nachtrag vom 4. Dezember 2012, in Kraft seit 1. Januar 2013 (OGS 2012, 73)
+Anhänge
+Anhang 1: Anhänge
