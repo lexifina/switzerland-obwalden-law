@@ -1,0 +1,7 @@
+# Art. 12bis Liste über Lehrpersonen ohne Unterrichtsberechtigung
+1 Die EDK führt eine Liste über Lehrpersonen, denen im Rahmen eines kantonalen Entscheides die Unterrichtsberechtigung oder die Berufsausübungsbewilligung entzogen wurde. Die Kantone sind verpflichtet, die Personendaten gemäss Abs. 2 dem Generalsekretariat der EDK nach Rechtskraft des entsprechenden Entscheides mitzuteilen.
+2 Die Liste enthält den Namen der Lehrperson, das Datum des Diploms oder der Berufsausübungsbewilligung, das Datum der Entzugsverfügung, die Entzugsbehörde und die Dauer des Entzugs, gegebenenfalls das Datum des Entzugs des Lehrdiploms. Kantonale und kommunale Behörden im Bildungsbereich erhalten auf schriftliche Anfrage hin Auskunft über eine allfällige Eintragung, wenn sie ein berechtigtes Interesse nachweisen und sich die Anfrage auf eine bestimmte Person bezieht.
+3 Den betroffenen Lehrpersonen wird vom Eintrag und von der Löschung des Eintrags Kenntnis gegeben. Das Einsichtsrecht der betroffenen Lehrperson ist jederzeit gewährleistet.
+4 Nach Ablauf der Entzugsdauer, bei Wiedererteilung der Unterrichtsberechtigung oder nach Vollendung des 70. Altersjahrs wird der Eintrag gelöscht.
+5 Betroffene Lehrpersonen können sich gegen den Listeneintrag innert 30 Tagen seit Zustellung des Eintragungsbescheides bei der Rekurskommission gemäss Art. 10 Abs. 2 schriftlich und begründet beschweren.
+6 Im Übrigen finden die Grundsätze des Datenschutzrechtes des Kantons Bern sinngemäss Anwendung.
