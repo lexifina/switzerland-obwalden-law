@@ -1,0 +1,4 @@
+# Art. 3b Durchsuchungen
+1 Die Polizei kann Besucherinnen und Besucher im Rahmen von Zutrittskontrollen zu Sportveranstaltungen oder beim Besteigen von Fantransporten bei einem konkreten Verdacht durch Personen gleichen Geschlechts auch unter den Kleidern am ganzen Körper nach verbotenen Gegenständen durchsuchen. Die Durchsuchungen müssen in nicht einsehbaren Räumen erfolgen. Eigentliche Untersuchungen des Intimbereichs erfolgen unter Beizug von medizinischem Personal.
+2 Die Behörden können private Sicherheitsunternehmen, die vom Veranstalter mit den Zutrittskontrollen zu den Sportstätten und zu den Fantransporten beauftragt sind, ermächtigen, Personen unabhängig von einem konkreten Verdacht über den Kleidern durch Personen gleichen Geschlechts am ganzen Körper nach verbotenen Gegenständen abzutasten.
+3 Der Veranstalter informiert die Besucherinnen und Besucher seiner Sportveranstaltung über die Möglichkeit von Durchsuchungen.
