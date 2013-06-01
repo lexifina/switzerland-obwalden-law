@@ -1,0 +1,4 @@
+# Art. 10b Zulagen für Führungs- und Zusatzaufgaben
+1 Prorektoren und Prorektorinnen an der Kantonsschule und am Berufs- und Weiterbildungszentrum sowie Gruppenleiter und Gruppenleiterinnen bei der Kantonspolizei erhalten für ihre Führungsaufgabe (mit Verbleib in der angestammten Funktionsstufe) eine Zulage von Fr. 500.– monatlich.
+2 Stellvertreter und Stellvertreterinnen der Gruppenleitung bei der Kriminal- sowie bei der Verkehrs- und Sicherheitspolizei erhalten (mit Verbleib in der angestammten Funktionsstufe) eine Zulage von Fr. 200.– monatlich.
+3 Bei Vakanzen in Führungspositionen oder Arbeitsausfall von Mitarbeitenden infolge Krankheit oder Unfall von mehr als einem Monat kann einem Mitarbeiter oder einer Mitarbeiterin durch den Departementsvorsteher oder die Departementsvorsteherin unter Einbezug des Personalamts eine befristete Zulage abgestuft bis höchstens Fr. 500.– pro Monat bewilligt werden.
