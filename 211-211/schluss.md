@@ -6,3 +6,4 @@ geändert durch
 - die Ausführungsbestimmungen über die Anpassung des Verordnungsrechts des Regierungsrats an die Justizreform im Bereich der Zivil- und Strafrechtspflege (Ausführungsbestimmungen zur Justizreform) vom 6. Dezember 2010, in Kraft seit 1. Januar 2011 (OGS 2010, 86),
 - die AB zur V betreffend die Einführung des Kindes- und Erwachsenenschutzrechts vom 26. Juni 2012, in Kraft seit 1. Januar 2013 (OGS 2012, 48)
 - das Kinder- und Jugendförderungsgesetz vom 6. Dezember 2012, in Kraft seit 1. Februar 2013 (OGS 2012, 69 und OGS 2013, 2)
+- Nachtrag vom 19. November 2013, in Kraft seit 1. Januar 2014 (OGS 2013, 48)
