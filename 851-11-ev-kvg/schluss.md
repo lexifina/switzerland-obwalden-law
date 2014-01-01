@@ -8,4 +8,5 @@ geändert durch
 - Nachtrag vom 26. Januar 2007, in Kraft rückwirkend seit 1. Januar 2007 (OGS 2007, 6),
 - Nachtrag vom 25. Januar 2008, in Kraft rückwirkend seit 1. Januar 2008 (OGS 2008, 13),
 - Nachtrag zum Einführungsgesetz zum Krankenversicherungsgesetz vom 27. Januar 2011, in Kraft rückwirkend seit 1. Januar 2011 (OGS 2011, 10 und 17),
-- Nachtrag zum Steuergesetz vom 1. Juli 2011, in Kraft seit 1. Januar 2012 (OGS 2011, 86 und 59)
+- Nachtrag zum Steuergesetz vom 1. Juli 2011, in Kraft seit 1. Januar 2012 (OGS 2011, 86 und 59),
+- Nachtrag zum Einführungsgesetz zum Krankenversicherungsgesetz vom 25. April 2013, in Kraft seit 1. Januar 2014 (OGS 2013, 27 und 32)

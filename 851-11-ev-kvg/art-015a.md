@@ -1,0 +1,4 @@
+# Art. 15a Amts- und Rechtshilfe
+1 Die Behörden und Amtsstellen des Kantons und der Gemeinden sowie die Ausgleichskassen erteilen der zuständigen kantonalen Stelle für die Prämienverbilligung gemäss Art. 3 dieser Verordnung auf Ersuchen hin kostenlos alle erforderlichen Auskünfte. Sie können die kantonale Stelle von sich aus darauf aufmerksam machen, wenn sie vermuten, dass die Prämienverbilligung unrechtmässig ausbezahlt wird. Die gleiche Pflicht zur Amtshilfe haben Organe von Körperschaften und Anstalten, soweit sie die Aufgaben der öffentlichen Verwaltung wahrnehmen.
+2 Die Steuerverwaltung hat der zuständigen kantonalen Stelle für die Prämienverbilligung die notwendigen Daten zugänglich zu machen. Sie kann dies durch ein Abrufeverfahren regeln.
+3 Im Übrigen sind die Bestimmungen des kantonalen Datenschutzgesetzes sinngemäss anwendbar.
