@@ -6,4 +6,5 @@ geändert durch
 - Nachtrag vom 12. Mai 2009, in Kraft seit 1. August 2009 (OGS 2009, 25),
 - Nachtrag vom 17. März 2009, in Kraft seit 1. Januar 2010 (OGS 2009, 16),
 - die Ausführungsbestimmungen über die Kantonsschule (Organisationsstatut) vom 20. Juni 2011, in Kraft seit 1. August 2011 (OGS 2011, 35),
-- die AB zur V betreffend die Einführung des Kindes- und Erwachsenenschutzrechts vom 26. Juni 2012, in Kraft seit 1. Januar 2013 (OGS 2012, 48)
+- die AB zur V betreffend die Einführung des Kindes- und Erwachsenenschutzrechts vom 26. Juni 2012, in Kraft seit 1. Januar 2013 (OGS 2012, 48),
+- Nachtrag vom 26. März 2013, in Kraft seit 1. Januar 2014 (OGS 2013, 22)
