@@ -1,3 +1,3 @@
-## 1. Grundsatz
-## 2. Verfahren
-## 3. Schlussbestimmungen
+## 1. Grundsatz und Voraussetzungen
+## 2. Beiträge
+## 3. Verfahren
