@@ -1,4 +1,5 @@
-## 1. Ausbildungsbeiträge
-## 2. Organe
-## 3. Freiplätze
-## 4. Schlussbestimmungen
+## 1. Allgemeine Bestimmungen
+## 2. Beitragsvoraussetzungen
+## 3. Ausbildungsbeiträge
+## 4. Verfahren und Organisation
+## 5. Schluss- und Übergangsbestimmungen
