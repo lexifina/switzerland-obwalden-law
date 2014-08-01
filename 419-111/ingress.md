@@ -1,5 +1,5 @@
-# Ausführungsbestimmungen über Ausbildungsbeiträge
-vom 30.06.1992
+# Ausführungsbestimmungen über die Ausrichtung von Ausbildungsbeiträgen
+vom 10.06.2014
 Der Regierungsrat des Kantons Obwalden,
-gestützt auf Artikel 19 der Verordnung über Ausbildungsbeiträge (Stipendienverordnung) vom 23. April 1992,
+gestützt auf Artikel 21 der Stipendienverordnung vom 16. April 2014
 beschliesst:

@@ -1,5 +1,5 @@
-## 1. Organisation
-## 2. Voraussetzungen für Ausbildungsbeiträge
-## 3. Stipendien
-## 4. Studiendarlehen
-## 5. Schlussbestimmungen
+## 1. Beitragsberechtigte Ausbildungen
+## 2. Berechnung des finanziellen Bedarfs
+## 3. Ausbildungsbeiträge
+## 4. Verzinsung und Rückzahlung der Darlehen
+## 5. Verfahren
