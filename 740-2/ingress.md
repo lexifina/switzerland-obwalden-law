@@ -1,6 +1,5 @@
-# Gesetz über die Regelung der Abflussverhältnisse des Sarnersees zur Hochwassersicherheit des Sarneraatals
-vom 31.05.2007
+# Gesetz über die Planung, den Bau und die Finanzierung des Projekts Hochwassersicherheit Sarneraatal
+vom 16.04.2014
 Der Kantonsrat des Kantons Obwalden,
-in Ausführung von Artikel 2 und Artikel 12 Absatz 2 des Bundesgesetzes über den Wasserbau vom 21. Juni 1991 und in Ergänzung des kantonalen Wasserbaugesetzes vom 31. Mai 2001,
-gestützt auf Artikel 31 Absatz 3, Artikel 37 und 60 der Kantonsverfassung vom 19. Mai 1968,
+gestützt auf Artikel 31 Absatz 3, Artikel 37, 42, 59 Absatz 1 Buchstabe b, Artikel 60 und 70 Ziffer 5 der Kantonsverfassung vom 19. Mai 1968 sowie Artikel 36, 37 Absatz 2 und Artikel 38 des Finanzhaushaltsgesetzes vom 11. März 2010,
 beschliesst:
