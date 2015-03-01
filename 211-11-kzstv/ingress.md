@@ -1,4 +1,5 @@
 # Zivilstandsverordnung
+(kZStV)
 vom 25.06.2004
 Der Kantonsrat des Kantons Obwalden,
 in Ausführung von Artikel 39 ff. und Artikel 103 des Schweizerischen Zivilgesetzbuchs vom 10. Dezember 1907 sowie der eidgenössischen Zivilstandsverordnung vom 28. April 2004,

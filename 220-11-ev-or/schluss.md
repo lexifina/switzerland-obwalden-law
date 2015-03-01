@@ -9,4 +9,5 @@ geändert durch
 - das Gesetz über die Bereinigung der amtlichen Gesetzessammlung (Bereinigungsgesetz II) vom 15. März 2007, in Kraft seit 1. August 2007 (OGS 2007, 13 und 25),
 - das Einführungsgesetz zum Partnerschaftsgesetz vom 25. Oktober 2007, in Kraft seit 1. Januar 2008 (OGS 2007, 65 und 78),
 - die Ausführungsbestimmungen über die Umsetzung der Rechtsweggarantie sowie der Bundesrechtspflege (Übergangsrechtliche Anpassung von Erlassen) vom 25. November 2008, in Kraft seit 1. Januar 2009 (OGS 2008, 98),
-- das Gesetz über die Justizreform vom 21. Mai 2010, inKraft seit 1. Januar 2011 (OGS 2010, 33 Ziff. III. 11., OGS 2010, 41)
+- das Gesetz über die Justizreform vom 21. Mai 2010, in Kraft seit 1. Januar 2011 (OGS 2010, 33 Ziff. III. 11., OGS 2010, 41),
+- das Gesetz über die Anpassungen im Anschluss an die Evaluation der Justizreform (Bereinigungen), Botschaft und Vorlage des Regierungsrats und des Obergerichts vom 17. Juni 2014, Kantonsratssitzungen vom 23. Oktober und 4. Dezember 2014 (22.14.03), vom Eidgenössischen Justiz- und Polizeidepartement EJPD am 20. Februar 2015 als nicht genehmigungsbedürftig erklärt, in Kraft seit 1. März 2015 (OGS 2014, 55 und 2015, 5)
