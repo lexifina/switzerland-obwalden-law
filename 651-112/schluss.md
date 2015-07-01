@@ -11,4 +11,5 @@ geändert durch
 - Nachtrag vom 29. Mai 2007, in Kraft seit 1. Juli 2007 (OGS 2007, 30),
 - Nachtrag vom 2. Juni 2009, in Kraft seit 1. Juli 2009 (OGS 2009, 30),
 - Nachtrag vom 7. Juni 2011, in Kraft seit 1. Juli 2011 (OGS 2011, 34),
-- Nachtrag vom 26. Mai 2014, in Kraft seit 1. Juli 2014 (OGS 2014, 26)
+- Nachtrag vom 26. Mai 2014, in Kraft seit 1. Juli 2014 (OGS 2014, 26),
+- Nachtrag vom 2. Juni 2015, in Kraft seit 1. Juli 2015 (OGS 2015, 33)
