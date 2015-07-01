@@ -33,5 +33,5 @@
 #### 8.1.5. Verfahren
 ### 8.2. Haushaltsprüfung der Gemeinde
 ### 8.3. Gemeindefinanzaufsicht
-### 8.4. Haushaltsprüfung bei Korporationen, bei Privaten, die Staatsaufgaben erfüllen, sowie Gesellschaften
+### 8.4. Haushaltsprüfung bei Korporationen, Gemeinde- oder Zweckverbänden, bei Dritten, die öffentliche Aufgaben erfüllen, sowie Gesellschaften
 ## 9. Übergangs- und Schlussbestimmungen
