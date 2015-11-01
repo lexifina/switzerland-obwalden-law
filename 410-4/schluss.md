@@ -6,6 +6,7 @@ geändert durch
 Anhang geändert (Art. 12ter) durch
 - Beschluss der GDK vom 8. März 2012, in Kraft seit 1. Januar 2013 (OGS 2013, 37),
 - Beschluss der GDK vom 26. Juni 2014, in Kraft seit 1. September 2014 (OGS 2014, 34),
-- Beschluss der GDK vom 9. April 2015, in Kraft seit 1. Mai 2015 (OGS 2015, 24)
+- Beschluss der GDK vom 9. April 2015, in Kraft seit 1. Mai 2015 (OGS 2015, 24),
+- Beschluss der GDK vom 22. Oktober 2015, in Kraft seit 1. November 2015 (OGS 2015, 57)
 Anhänge
 Anhang 1 : Anhang Anhang 2: Beitrittsbeschluss (KRB)
