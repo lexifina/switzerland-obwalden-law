@@ -1,3 +1,1 @@
-# Art. 10a Kompensation des rückläufigen Kantonsanteils an der Mineralölsteuer
-1 Zur Kompensation des rückläufigen Kantonsanteils an den nicht werkgebundenen Beiträgen aus dem Ertrag der Mineralölsteuer wird ab 1. Januar 2014 zusätzlich ein jährlicher Kantonsbeitrag von 1 Million Franken zur Verteilung an die beitragsberechtigten Körperschaften zur Verfügung gestellt.
-2 Die Kompensationsleistung wird erbracht bis der Beschluss über das Ergänzungsnetz des Sachplanes Verkehr des Bundes rechtskräftig ist und die damit verbundene Vergrösserung des Hauptstrassennetzes im Kanton Obwalden mit der Aufklassierung der Panoramastrasse (Giswil – Sörenberg) umgesetzt ist, so dass sich die Kompensation in Folge der erwarteten Aufstockung des Mineralölsteueranteils durch das geänderte Verteilkriterium der Hauptstrassenlänge erübrigt.
+# Art. 10a …
