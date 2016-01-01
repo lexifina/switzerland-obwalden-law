@@ -7,6 +7,7 @@ geändert durch
 - Nachtrag vom 26. November 2002, in Kraft rückwirkend ab 1. Januar 2002 (OGS 2002, 70),
 - Nachtrag vom 5. Dezember 2006, in Kraft seit 1. Januar 2007 (OGS 2006, 85),
 - Nachtrag vom 9. Dezember 2008, in Kraft seit 1. Januar 2009 (OGS 2008, 121),
-- Nachtrag vom 18. Oktober 2011, in Kraft rückwirkend ab 1. Januar 2011 (OGS 2011, 54)
+- Nachtrag vom 18. Oktober 2011, in Kraft rückwirkend ab 1. Januar 2011 (OGS 2011, 54),
+- Nachtrag vom 1. Dezember 2015, in Kraft seit 1. Januar 2016 (OGS 2015, 66)
 Anhänge
-Anhang 1: Anhang
+Anhang 1 : Anhang
