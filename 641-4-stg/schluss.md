@@ -19,4 +19,5 @@ geändert durch
 - Nachtrag vom 28. Oktober 2010, in Kraft seit 1. Januar 2011 (OGS 2010, 64, OGS 2010, 79),
 - Nachtrag vom 1. Juli 2011, in Kraft seit 1. Januar 2012 (OGS 2011, 86, OGS 2011, 59),
 - den Anhang zum Nachtrag zum Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 3. Mai 2012, in Kraft seit 1. Januar 2013 (OGS 2012, 29, OGS 2012, 43),
-- Gesetz über die Anpassungen im Anschluss an die Evaluation der Justizreform (Rechtspflegebehörden) vom 4. Dezember 2014, Botschaft und Vorlage des Regierungsrats und des Obergerichts vom 17. Juni 2014, Kantonsratssitzungen vom 23. Oktober und 4. Dezember 2014 (22.14.03), in Kraft seit 1. März 2015 (OGS 2014, 54 und 2015, 6)
+- Gesetz über die Anpassungen im Anschluss an die Evaluation der Justizreform (Rechtspflegebehörden) vom 4. Dezember 2014, Botschaft und Vorlage des Regierungsrats und des Obergerichts vom 17. Juni 2014, Kantonsratssitzungen vom 23. Oktober und 4. Dezember 2014 (22.14.03), in Kraft seit 1. März 2015 (OGS 2014, 54 und 2015, 6),
+- Nachtrag vom 27. Mai 2015, Botschaft und Vorlage des Regierungsrats vom 3. Februar 2015, Kantonsratssitzungen vom 23. April und 27. Mai 2015 (22.14.06), in Kraft seit 1. Januar 2016 (OGS 2015, 30 und 41)

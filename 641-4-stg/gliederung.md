@@ -193,3 +193,4 @@
 ### 10.5. Übergangs- und Schlussbestimmungen zum Nachtrag vom 21. September 2000
 ### 10.6. Übergangs- und Schlussbestimmungen zum Nachtrag vom 14. Oktober 2005
 ### 10.7. Übergangs- und Schlussbestimmungen zum Nachtrag vom 28. Oktober 2010
+### 10.8. Übergangs- und Schlussbestimmungen zum Nachtrag vom 27. Mai 2015

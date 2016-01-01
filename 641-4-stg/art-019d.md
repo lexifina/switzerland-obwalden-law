@@ -1,0 +1,2 @@
+# Art. 19d Anteilsmässige Besteuerung
+1 Hatte der Steuerpflichtige nicht während der gesamten Zeitspanne zwischen Erwerb und Entstehen des Ausübungsrechts der gesperrten Mitarbeiteroptionen gemäss Art. 19b Abs. 3 dieses Gesetzes steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz, so werden die geldwerten Vorteile daraus anteilsmässig im Verhältnis zwischen der gesamten zu der in der Schweiz verbrachten Zeitspanne besteuert.
