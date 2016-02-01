@@ -1,17 +1,22 @@
 ## 1. Allgemeine Bestimmungen
-## 2. Öffentliche Gesundheitspflege
-### 2.1. Grundsätze der Aufgabenteilung zwischen Kanton und Gemeinden
+## 2. Öffentliches Gesundheitswesen
+### 2.1. Grundsätze der Aufgabenteilung zwischen Kanton und Einwohnergemeinden
 ### 2.2. Organisation und Zuständigkeit
-## 3. Kantonsspital, Heime, Kliniken und Organisationen der Hilfe und Pflege zu Hause
+## 3. Kantonsspital, Heime, Kliniken und Organisationen der Hilfe und Pflege zu Hause; Organisation und Zuständigkeit
 ### 3.1. Kantonsspital
-### 3.2. Spitalversorgung Engelberg
-### 3.3. Pflege- und Betagtenheime
-### 3.4. Organisationen der Hilfe und Pflege zu Hause
-## 4. Berufe der Gesundheitspflege
+### 3.2. Pflege- und Betagtenheime
+### 3.3. Organisationen der Krankenpflege und Hilfe zu Hause
+## 4. Berufe des Gesundheitswesens
 ### 4.1. Allgemeine Bestimmungen
-### 4.2. Besondere Bestimmungen für Ärzte, Zahnärzte, Tierärzte, Apotheker und Chiropraktoren
-## 5. Heilmittel
-## 6. Bewilligungspflichtige Einrichtungen
-## 7. Rechte und Pflichten der Patienten
-## 8. Bestattung
-## 9. Schluss- und Übergangsbestimmungen
+### 4.2. Rechte und Pflichten bei der Berufsausübung
+## 5. Bewilligungspflichtige Einrichtungen
+## 6. Rechte und Pflichten der Patienten und Patientinnen
+### 6.1. Allgemeines
+### 6.2. Zwangsmassnahmen
+### 6.3. Forschung, Fortpflanzungsmedizin, Transplantation, Obduktion
+## 7. Bestattung
+## 8. Gesundheitsförderung und Prävention
+## 9. Heilmittel
+## 10. Aufsicht, Befugnisse der Aufsichtsbehörden und Verwaltungs- und Disziplinarmassnahmen
+## 11. Strafbestimmungen und Rechtsschutz
+## 12. Schluss- und Übergangsbestimmungen

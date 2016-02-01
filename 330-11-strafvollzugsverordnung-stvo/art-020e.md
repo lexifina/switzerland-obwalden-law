@@ -1,0 +1,3 @@
+# Art. 20e h. Massnahmenindizierte Zwangsmedikation
+1 Die zuständige Behörde kann gegenüber Personen, an denen eine richterlich angeordnete stationäre therapeutische Massnahme gemäss Art. 59 StGB beziehungsweise eine richterlich angeordnete ambulante Massnahme gemäss Art. 63 StGB zu vollziehen ist, eine dem Zweck der Massnahme entsprechende Zwangsmedikation verfügen, soweit dies zur erfolgversprechenden Durchführung dieser Massnahme unter forensisch-psychiatrischen Gesichtspunkten unumgänglich ist.
+2 Die massnahmeindizierte Zwangsmedikation ist nur zulässig, wenn sie durch einen forensisch-psychiatrischen Arzt oder eine forensisch-psychiatrische Ärztin empfohlen wird.
