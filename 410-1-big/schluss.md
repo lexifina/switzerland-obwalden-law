@@ -7,6 +7,7 @@ geändert durch
 - das Gesetz über die Justizreform vom 21. Mai 2010, in Kraft seit 1. Januar 2011 (OGS 2010, 33 Ziff. I. 10., OGS 2010, 41),
 - den Nachtrag vom 28. Oktober 2010 (Mensa und Mittagsverpflegung), rückwirkend in Kraft seit 1. August 2010 (OGS 2010, 62 und 80),
 - den Nachtrag vom 28. Oktober 2010 (Sonderpädagogische Massnahmen), in Kraft seit 1. Januar 2011 (OGS 2010, 63 und 81),
-- den Anhang zum Nachtrag zum Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 3. Mai 2012, in Kraft seit 1. Januar 2013 (OGS 2012, 29 und 43)
+- den Anhang zum Nachtrag zum Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 3. Mai 2012, in Kraft seit 1. Januar 2013 (OGS 2012, 29 und 43),
+- Kulturgesetz vom 10. März 2016 (OGS 2016, 17), Botschaft und Vorlage des Regierungsrats vom 23. Juni 2015, Kantonsratssitzungen vom 28. Januar und 10. März 2016 (22.15.04), in Kraft seit 1. Juli 2016 (OGS 2016, 23)
 Anhänge
 Anhang 1: Anhang: Die Gliederung des Bildungswesens
