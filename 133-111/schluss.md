@@ -21,3 +21,4 @@ geändert durch:
 - Kinder- und Jugendförderungsgesetz vom 6. Dezember 2012, in Kraft seit 1. Februar 2013 (OGS 2012, 69 und 2013, 2)
 - Ausführungsbestimmungen zum Bundesgesetz über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten vom 21. Mai 2013, in Kraft seit 1. Januar 2014 (OGS 2013, 28),
 - Nachtrag vom 25. Oktober 2016, in Kraft seit 1. November 2016 (OGS 2016, 56)
+- Ausführungsbestimmungen über das Konsolidierung- und Aufgabenüberprüfungspaket vom 8. November 2016 (OGS 2016, 64)
