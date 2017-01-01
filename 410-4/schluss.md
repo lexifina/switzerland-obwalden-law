@@ -3,6 +3,7 @@ Beitritt: KRB über den Beitritt zur interkantonalen Vereinbarung über die Aner
 Ursprüngliche Fundstelle: OGS 1995, 38
 geändert durch
 - Nachtrag vom 16. Juni 2005, vom Vorstand der EDK am 6. Dezember 2007 auf 1. Januar 2008 in Kraft gesetzt (OGS 2006, 21 und 22),
+- Nachtrag vom 24. Oktober/21. November 2013, Zustimmungsbeschluss des Regierungsrats vom 25. März 2014, vom Vorstand der EDK am 12. Mai 2017 rückwirkend auf den 1. Januar 2017 in Kraft gesetzt (OGS 2017, 27)
 Anhang geändert (Art. 12ter) durch
 - Beschluss der GDK vom 8. März 2012, in Kraft seit 1. Januar 2013 (OGS 2013, 37),
 - Beschluss der GDK vom 26. Juni 2014, in Kraft seit 1. September 2014 (OGS 2014, 34),
