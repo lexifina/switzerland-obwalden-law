@@ -1,4 +1,5 @@
 # Ausführungsbestimmungen zum Polizeigesetz
+(AB PolG)
 vom 23.08.2010
 Der Regierungsrat des Kantons Obwalden,
 in Ausführung von Artikel 219 Absatz 5 der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO) vom 5. Oktober 2007,
