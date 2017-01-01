@@ -7,7 +7,7 @@ c. bei Bojenplätzen eine Fläche von 30 m².
 3 Als gedeckte Fläche gilt die Grösse des Dachs.
 4 Die Abgaben betragen je nach See (bebaute Fläche und Standfläche in Fr./m²):
 gedeckt ungedeckt
-Sarnersee 9.– 4.50
-Alpnachersee 12.– 6.–
-Lungerersee 5.– 2.50
+Sarnersee 9.50 5.–
+Alpnachersee 13.– 6.50
+Lungerersee 5.50 2.50
 5 Von der Abgabepflicht sind Anlagen ausgenommen, die kostenlos dem Gemeingebrauch dienen oder die öffentlichen Zwecken dienen und der Allgemeinheit zugänglich sind, wie Landestege für Kursschiffe und Flosse.

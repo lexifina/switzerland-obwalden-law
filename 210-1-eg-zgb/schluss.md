@@ -24,4 +24,5 @@ geändert durch:
 - das Gesetz über die Justizreform vom 21. Mai 2010, in Kraft seit 1. Januar 2011 (OGS 2010, 33 Ziff. I. 7. und OGS 2010, 41),
 - Nachtrag vom 3. Mai 2012, in Kraft seit 1. August 2012 (OGS 2012, 29 und 43),
 - die Ausführungsbestimmungen zur Ergänzung des Gesetzes über die Justizreform (Übergangsrechtliche Anpassung von Erlassen) vom 4. Dezember 2012, in Kraft seit 1. Januar 2013 (OGS 2012, 75)
-- das Gesetz über die Anpassungen aufgrund der Evaluation der Justizreform vom 4. Dezember 2014, Botschaft und Vorlage des Regierungsrats und des Obergerichts vom 17. Juni 2014, Kantonsratssitzungen vom 23. Oktober und 4. Dezember 2014 (22.14.03), in Kraft seit 1. März 2015 (OGS 2014, 52 und 2015, 3)
+- das Gesetz über die Anpassungen aufgrund der Evaluation der Justizreform vom 4. Dezember 2014, Botschaft und Vorlage des Regierungsrats und des Obergerichts vom 17. Juni 2014, Kantonsratssitzungen vom 23. Oktober und 4. Dezember 2014 (22.14.03), in Kraft seit 1. März 2015 (OGS 2014, 52 und 2015, 3),
+- das Gesetz über das Konsolidierungs- und Aufgabenüberprüfungspaket vom 19. Mai 2016 (OGS 2016, 35), Botschaft und Vorlage des Regierungsrats vom 15. Dezember 2015, Kantonsratssitzungen vom 14. April und 19. Mai 2016 (22.15.07), in Kraft seit 1. Januar 2017 (OGS 2016, 35 und 44)
