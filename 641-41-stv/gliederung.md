@@ -8,7 +8,7 @@
 ### 1.4. Sachliche Bemessung
 ## 2. Besteuerung der juristischen Personen
 ## 3. Quellensteuern für natürliche und juristische Personen
-## 4. Erbschafts- und Schenkungssteuern
+## 4. …
 ## 5. Grundstückgewinn- und Handänderungssteuer
 ## 6. Verfahrensrecht
 ### 6.1. Steuerbehörden

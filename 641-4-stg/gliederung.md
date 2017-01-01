@@ -93,13 +93,13 @@
 #### 4.2.5. Empfänger von Vorsorgeleistungen
 #### 4.2.6. Begriffsbestimmung
 #### 4.2.7. Abgegoltene Steuer
-## 5. Erbschafts- und Schenkungssteuern
-### 5.1. Steuerobjekt
-### 5.2. Steuerpflicht
-### 5.3. Steuerbemessung
-### 5.4. Steuerberechnung
-### 5.5. Bezug
-### 5.6. Haftung
+## 5. …
+### 5.1. …
+### 5.2. …
+### 5.3. …
+### 5.4. …
+### 5.5. …
+### 5.6. …
 ## 6. Grundsteuern (Grundstückgewinn- und Handänderungssteuern)
 ### 6.1. Allgemeine Bestimmungen
 ### 6.2. Grundstückgewinnsteuer
@@ -194,3 +194,4 @@
 ### 10.6. Übergangs- und Schlussbestimmungen zum Nachtrag vom 14. Oktober 2005
 ### 10.7. Übergangs- und Schlussbestimmungen zum Nachtrag vom 28. Oktober 2010
 ### 10.8. Übergangs- und Schlussbestimmungen zum Nachtrag vom 27. Mai 2015
+### 10.9. Übergangs- und Schlussbestimmungen zum Nachtrag vom 14. April 2016
