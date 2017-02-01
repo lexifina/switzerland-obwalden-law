@@ -1,5 +1,6 @@
-# Ausführungsbestimmungen zum Bundesgesetz über den Verkehr mit Giften
-vom 24.09.1973
+# Ausführungsbestimmungen zur Chemikaliengesetzgebung
+vom 20.12.2016
 Der Regierungsrat des Kantons Obwalden,
-gestützt auf Artikel 21 des Bundesgesetzes über den Verkehr mit Giften (Giftgesetz) vom 21. März 1969 und die dazugehörige Vollziehungsverordnung vom 23. Dezember 1971,
+in Ausführung der Artikel 31 und 32 des Bundesgesetzes über den Schutz vor gefährlichen Stoffen und Zubereitungen (Chemikaliengesetz, ChemG) vom 15. Dezember 2000,
+gestützt auf Artikel 75 Ziffer 1 der Kantonsverfassung vom 19. Mai 1968,
 beschliesst:
