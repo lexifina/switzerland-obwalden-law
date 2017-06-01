@@ -1,0 +1,5 @@
+# Art. 168h Öffentlich-rechtliche Eigentumsbeschränkungen
+1 Die durch Verwaltungsverfügung oder durch einen verwaltungsrechtlichen Vertrag für ein einzelnes, privates Grundstück angeordneten öffentlich-rechtlichen Eigentumsbeschränkungen gemäss Art. 129 Abs. 1 der Grundbuchverordnung sind im Grundbuch anzumerken. Bei den übrigen öffentlich-rechtlichen Eigentumsbeschränkungen ist die Anmerkung nicht zwingend.
+2 Für die Anmeldung öffentlich-rechtlicher Eigentumsbeschränkungen zur Anmerkung oder Löschung im Grundbuch ist die Behörde des Gemeinwesens oder der Trägerschaft der betreffenden öffentlichen Aufgabe zuständig, welche sie verfügt oder mitveranlasst hat.
+3 Die Kosten gehen zulasten des Veranlassers des Verwaltungsverfahrens. Wird die öffentlich-rechtliche Eigentumsbeschränkung aufgrund eines verwaltungsrechtlichen Vertrags im Grundbuch angemerkt, so erfolgt die Kostentragung nach der spezifischen Interessenlage.
+4 Der Regierungsrat kann weitere Anmerkungstatbestände gemäss Art. 129 Abs. 3 der Grundbuchverordnung erlassen. Er erstellt diesfalls eine Liste mit sämtlichen Anmerkungstatbeständen und teilt sie dem Bund mit.
