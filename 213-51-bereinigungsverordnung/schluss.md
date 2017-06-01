@@ -1,9 +1,6 @@
 Informationen zum Erlass
-Ursprüngliche Fundstelle: OGS 1986, 83
-geändert durch
-- Nachtrag vom 25. März 1993, in Kraft seit 1. Juli 1993 (OGS 1993, 84),
-- Nachtrag vom 11. September 1997, vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 3. November 1997, in Kraft seit 1. Januar 1998 (OGS 1997, 94),
-- das Einführungsgesetz zur Änderung des Strafgesetzbuches und des Jugendstrafrechts (Einführungsgesetz zum AT StGB) vom 14. Oktober 2005, in Kraft seit 1. Januar 2007 (OGS 2005, 61),
-- das Gesetz über die Bereinigung der amtlichen Gesetzessammlung (Bereinigungsgesetz II) vom 15. März 2007, in Kraft seit 1. August 2007 (OGS 2007, 13 und 25),
-- das Gesetz über die Justizreform vom 21. Mai 2010, in Kraft seit 1. Januar 2011 (OGS 2010, 33 Ziff. III. 9., OGS 2010, 41),
-- das Geoinformationsgesetz vom 1. Juli 2011, in Kraft seit 1. September 2011 (OGS 2011, 36 Anhang Ziff. II.3., OGS 2011, 46)
+Ursprüngliche Fundstelle: OGS 2016, 80
+Ursprüngliches Inkrafttreten: 1. Juni 2017 (OGS 2017, 26)
+Vorlage und Botschaft des Regierungsrats vom 16. August 2017, Kantonsratssitzungen vom 26. Oktober und 1. Dezember 2016 (23.16.06), vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 16. Februar 2017
+Aufgehobener Erlass:
+Verordnung über die Bereinigung der dinglichen Rechte und die Einführung des eidgenössischen Grundbuches (Bereinigungsverordnung) vom 6. September 1985 (OGS 1986, 83, OGS 1997, 94, OGS 2005, 61, OGS 2007, 13 und 25, OGS 2010, 33 Ziff. III. 9., OGS 2010, 41, OGS 2011, 36 Anhang Ziff. II.3., OGS 2011, 46)

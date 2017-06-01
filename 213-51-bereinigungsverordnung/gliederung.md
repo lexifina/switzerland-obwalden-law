@@ -5,7 +5,6 @@
 ### 2.3. Dienstbarkeiten und Grundlasten
 ### 2.4. Grundpfandrechte
 ### 2.5. Abschluss des Bereinigungsverfahrens
-## 3. Anlage des eidgenössischen Grundbuches
-## 4. Ausführungsbestimmungen über das Miteigentum und Stockwerkeigentum
-## 5. Kosten der Einführung des eidgenössischen Grundbuches
-## 6. Schlussbestimmungen
+## 3. Anlage des eidgenössischen Grundbuchs
+## 4. Kosten der Einführung des eidgenössischen Grundbuchs
+## 5. Schlussbestimmungen

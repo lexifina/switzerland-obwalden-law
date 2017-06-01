@@ -1,2 +1,0 @@
-# Art. 4b Nach neuem Recht entstandene Grundstücke
-1 Für die aufgrund der Bestimmungen des Zivilgesetzbuches entstandenen Grundstücke, insbesondere für die Stockwerkeigentumseinheiten, sind die Art. 5 bis 35 sowie 45 bis 55 dieser Verordnung nur anwendbar, wenn die bestehenden Eintragungen schwerwiegende Mängel aufweisen, so dass sie in dieser Form nicht ins eidgenössische Grundbuch übertragen werden können.

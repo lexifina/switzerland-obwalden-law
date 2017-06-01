@@ -1,4 +1,0 @@
-# Art. 35a Kraftloserklärung durch das Bereinigungsamt
-1 Für Altgülten, die seit mindestens zehn Jahren vermisst werden und für die während dieser Zeit keine Zinsen gefordert wurden, erlässt das Bereinigungsamt einen Aufruf im Amtsblatt an allfällige Gläubiger, sich innert einer Frist von drei Monaten zu melden und die Forderung unter Vorweisung des Pfandtitels geltend zu machen.
-2 Der Aufruf enthält die alte und, sofern abweichend, die neue Bezeichnung des Unterpfandes, den letzten registrierten Gläubiger, das Datum der Errichtung und der Protokollierung im Gültenprotokoll sowie den gegenwärtigen Grundeigentümer.
-3 Erfolgt innert der festgesetzten Frist keine Vorweisung der Pfandtitel, verfügt das Bereinigungsamt deren Kraftloserklärung. Bei den Einträgen im Grundbuch und alten Gültenprotokoll wird auf die Kraftloserklärung hingewiesen. Pfandrechte, deren Titel kraftlos erklärt wurden, werden nicht ins eidgenössische Grundbuch übertragen.
