@@ -1,5 +1,7 @@
 ## 1. Geltungsbereich und Zuständigkeiten
 ## 2. Einbürgerungsverfahren im Allgemeinen
+### 2.1. Vorverfahren
+### 2.2. Hauptverfahren
 ## 3. Einbürgerungsverfahren an der Gemeindeversammlung
 ### 3.1. Gemeinsame Bestimmungen
 ### 3.2. Vor der Gemeindeversammlung

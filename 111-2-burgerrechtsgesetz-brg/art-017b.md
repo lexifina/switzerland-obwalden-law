@@ -1,0 +1,2 @@
+# Art. 17b Bearbeitung von Personendaten
+1 Die kantonalen und kommunalen Behörden können zur Erfüllung ihrer Aufgaben gemäss der eidgenössischen und kantonalen Bürgerrechtsgesetzgebung Personendaten bearbeiten, einschliesslich der Persönlichkeitsprofile und der besonders schützenswerten Daten über die religiösen Ansichten, die politischen Tätigkeiten, die Gesundheit, über Massnahmen der sozialen Hilfe und über administrative oder strafrechtliche Verfolgungen und Sanktionen.
