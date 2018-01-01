@@ -16,4 +16,5 @@ geändert durch:
 - Nachtrag zur Kantonsverfassung (Ergänzung der Unvereinbarkeitsregelung) vom 16. Dezember 2007, in Kraft seit 16. Dezember 2007 (OGS 2007, 95),
 - Nachtrag vom 3. Dezember 2009, von der Bundeskanzlei genehmigt am 13. Januar 2010, in Kraft seit 1. Februar 2010 (OGS 2009, 53),
 - Nachtrag zum Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 3. Mai 2012, in Kraft seit 1. Januar 2013 (OGS 2012, 29 und 43),
-- Gesetz über die Anpassungen im Anschluss an die Evaluation der Justizreform (Rechtspflegebehörden) vom 4. Dezember 2014, Botschaft und Vorlage des Regierungsrats und des Obergerichts vom 17. Juni 2014, Kantonsratssitzungen vom 23. Oktober und 4. Dezember 2014 (22.14.03), in Kraft seit 1. März 2015 (OGS 2014, 54 und 2015, 6)
+- Gesetz über die Anpassungen im Anschluss an die Evaluation der Justizreform (Rechtspflegebehörden) vom 4. Dezember 2014, Botschaft und Vorlage des Regierungsrats und des Obergerichts vom 17. Juni 2014, Kantonsratssitzungen vom 23. Oktober und 4. Dezember 2014 (22.14.03), in Kraft seit 1. März 2015 (OGS 2014, 54 und 2015, 6),
+- Nachtrag vom 30. Juni 2017, Botschaft und Vorlage des Regierungsrats vom 4. April 2017, Kantonsratssitzungen vom 31. Mai und 30. Juni 2017 (22.17.02), von der Bundeskanzlei genehmigt am 15. August 2017, in Kraft seit 1. Januar 2018 (OGS 2017, 42 und 56)

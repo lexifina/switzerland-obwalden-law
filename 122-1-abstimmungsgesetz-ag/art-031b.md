@@ -1,16 +1,12 @@
-# Art. 31b Ungültige Stimm- und Wahlzettel
-1 Nicht gültig sind:
-a. Stimm- und Wahlzettel, die nicht abgestempelt sind, sowie nicht amtliche Stimm- und Wahlzettel;
-b. Stimm- und Wahlzettel, die anders als handschriftlich ausgefüllt sowie planmässig eingesammelt, ausgefüllt oder abgeändert worden sind;
-c. Stimm- und Wahlzettel, die den Willen des Stimmenden nicht eindeutig erkennen lassen;
-d. Stimm- und Wahlzettel, die ehrverletzende Äusserungen oder offensichtliche Kennzeichnungen enthalten;
-e. Wahlzettel, die mehr Namen enthalten, als Sitze zu vergeben sind.
+# Art. 31b Ungültige Stimm- und Wahlzettel a. im Allgemeinen
+1 Stimm- und Wahlzettel sind ungültig, wenn sie:
+a. nicht amtlich sind;
+b. nicht für diese Abstimmung oder Wahl bestimmt sind;
+c. anders als handschriftlich ausgefüllt oder abgeändert sind;
+d. den Willen des Stimmenden nicht eindeutig erkennen lassen;
+e. ehrverletzende Äusserungen oder offensichtliche Kennzeichnungen enthalten;
 f. …
-2 Eine brieflich abgegebene Stimme ist überdies ungültig, wenn:
-a. sie nach Urnenschluss beim Stimmbüro eintrifft;
-b. der Stimmrechtsausweis nicht beiliegt;
-c. der Stimmrechtsausweis nicht unterzeichnet ist;
-d. der Stimm- oder Wahlzettel nicht in einem neutralen oder im amtlichen anonymisierten Rücksendekuvert ist.
-3 Als leer gilt ein Stimm- oder Wahlzettel, auf dem sich keine Stimme befindet.
-4 …
-5 Enthält das Rücksendekuvert für eine Abstimmung oder Wahl keinen Stimm- oder Wahlzettel, so wird dies als „nicht gestimmt“ oder „nicht gewählt“ gewertet.
+g. planmässig eingesammelt, ausgefüllt oder abgeändert sind;
+h. bei der persönlichen Stimmabgabe nicht abgestempelt sind;
+i. bei Wahlen mehr Namen enthalten, als Sitze zu vergeben sind.
+2–5 …

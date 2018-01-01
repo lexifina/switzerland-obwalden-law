@@ -10,4 +10,5 @@ geändert durch
 - Gesetz über die Aufgabenteilung zwischen Kanton und Gemeinden (Finanzpaket) vom 20. September 2001, in Kraft seit 1. Januar 2002 (OGS 2001, 83),
 - Nachtrag vom 23. Oktober 2003, von der Bundeskanzlei genehmigt am 2. Dezember 2003, in Kraft seit 1. Januar 2004 (OGS 2003, 38),
 - Gesetz über die Harmonisierung der amtlichen Register (kantonales Registerharmonisierungsgesetz) vom 4. Dezember 2008, von der Bundeskanzlei genehmigt am 14. Januar 2009, in Kraft seit 15. Januar 2009 (OGS 2008, 109),
-- Nachtrag zum Abstimmungsgesetz vom 3. Dezember 2009, von der Bundeskanzlei genehmigt am 13. Januar 2010, in Kraft seit 1. Februar 2010 (OGS 2009, 53)
+- Nachtrag zum Abstimmungsgesetz vom 3. Dezember 2009, von der Bundeskanzlei genehmigt am 13. Januar 2010, in Kraft seit 1. Februar 2010 (OGS 2009, 53),
+- Nachtrag zum Abstimmungsgesetz vom 30. Juni 2017, Botschaft und Vorlage des Regierungsrats vom 4. April 2017, Kantonsratssitzungen vom 31. Mai und 30. Juni 2017 (22.17.02), von der Bundeskanzlei genehmigt am 15. August 2017, in Kraft seit 1. Januar 2018 (OGS 2017, 42 und 56)
