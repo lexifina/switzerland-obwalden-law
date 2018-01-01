@@ -1,5 +1,6 @@
-## 1. Sprachstandsanalyse
-## 1a. Prüfung der staatsbürgerlichen Grundkenntnisse
-## 2. Informationsveranstaltung
-## 3. Kosten
-## 4. Schluss- und Übergangsbestimmungen
+## 1. Informationsveranstaltung
+## 2. Sprachstandsanalyse
+## 3. Prüfung der staatsbürgerlichen Grundkenntnisse
+## 4. Führungsberichte
+## 5. Kosten
+## 6. Schlussbestimmungen

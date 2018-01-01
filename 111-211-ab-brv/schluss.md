@@ -1,4 +1,5 @@
 Informationen zum Erlass
-Ursprüngliche Fundstelle: OGS 2011, 63
-geändert durch
-- Nachtrag vom 11. Dezember 2012, in Kraft seit 1. Januar 2013 (OGS 2012, 79)
+Ursprüngliche Fundstelle: OGS 2017, 69
+Ursprüngliches Inkrafttreten: 1. Januar 2018
+Aufgehobener Erlass:
+AB zur Bürgerrechtsverordnung vom 8. November 2011 (OGS 2011, 63, OGS 2012, 79)
