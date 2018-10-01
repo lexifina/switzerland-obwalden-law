@@ -1,3 +1,4 @@
-# Art. 3b b. Widerhandlungen und Wiederherstellung
-1 Widerhandlungen gegen die Vorschriften von Art. 3a Abs. 2 dieser Ausführungsbestimmungen sind nach Art. 34 Bst. d der Verordnung über den Natur- und Landschaftsschutz (Naturschutzverordnung) strafbar.
-2 Entstehen durch eine Widerhandlung Schäden, wie insbesondere eine Beeinträchtigung der Reinrassigkeit der Dunklen Europäischen Biene, so kann die fehlbare Person in sinngemässer Anwendung von Art. 35 der Verordnung über den Natur- und Landschaftsschutz (Naturschutzverordnung) zur Wiederherstellung des ursprünglichen Zustands bzw. zum Ersatz des entstandenen Schadens verhalten werden.
+# Art. 3b b. Überwachung der Schutzzone
+1 Die Kontrolle der Schutzzone obliegt dem Amt für Wald und Landschaft. Dieses ist berechtigt, jederzeit im Schutzgebiet aufgestellte Völker zu kontrollieren und bei Zweifel betreffend Reinrassigkeit eine DNA-Analyse auf Kosten des Imkers oder der Imkerin zu verfügen.
+2 Völker, welche nach erfolgter Analyse nicht als reinrassig gelten, müssen unverzüglich aus dem Schutzgebiet verbracht werden, ansonsten kann das Amt für Wald und Landschaft deren Vernichtung anordnen.
+3 Das Amt für Wald und Landschaft ist berechtigt, seine Kontrollaufgaben im Rahmen des Schutzes der Dunklen Europäischen Biene geeigneten Personen aus dem Kreise des Bienenzüchtervereines Obwalden zu übertragen. Hierzu schlägt der Bienenzüchterverein geeignete Personen vor, welche vom Amt für Wald und Landschaft eingesetzt werden.

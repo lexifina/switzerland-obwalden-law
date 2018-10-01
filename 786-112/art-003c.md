@@ -1,0 +1,3 @@
+# Art. 3c c. Widerhandlungen und Wiederherstellung
+1 Widerhandlungen gegen die Vorschriften von Art. 3a Abs. 1a und 2 und Art. 3b Abs. 2 dieser Ausführungsbestimmungen sind nach Art. 34 Bst. d der Verordnung über den Natur- und Landschaftsschutz (Naturschutzverordnung) strafbar.
+2 Entstehen durch eine Widerhandlung Schäden, wie insbesondere eine Beeinträchtigung der Reinrassigkeit der Dunklen Europäischen Biene, so kann die fehlbare Person in sinngemässer Anwendung von Art. 35 der Verordnung über den Natur- und Landschaftsschutz (Naturschutzverordnung) zur Wiederherstellung des ursprünglichen Zustands bzw. zum Ersatz des entstandenen Schadens verhalten werden.
