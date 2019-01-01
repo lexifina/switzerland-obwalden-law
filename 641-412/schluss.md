@@ -10,6 +10,7 @@ Geändert durch:
 - Nachtrag vom 9. Dezember 2008, in Kraft seit 1. Januar 2009 (OGS 2008, 121),
 - Nachtrag vom 18. Oktober 2011, in Kraft rückwirkend ab 1. Januar 2011 (OGS 2011, 54),
 - Nachtrag vom 1. Dezember 2015, in Kraft seit 1. Januar 2016 (OGS 2015, 66),
-- Nachtrag vom 18. Oktober 2016, in Kraft seit 1. Januar 2017 (OGS 2016, 57)
+- Nachtrag vom 18. Oktober 2016, in Kraft seit 1. Januar 2017 (OGS 2016, 57),
+- Nachtrag vom 18. Dezember 2018, in Kraft seit 1. Januar 2019 (OGS 2018, 56)
 Anhänge
 Anhang 1 : Anhang
