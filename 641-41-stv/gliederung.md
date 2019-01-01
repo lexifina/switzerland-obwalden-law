@@ -16,7 +16,8 @@
 ### 6.3. Veranlagungsverfahren
 ### 6.4. Rekursverfahren vor der kantonalen Steuerrekurskommission
 ### 6.5. Berichtigung von Rechnungsfehlern und Schreibversehen
-### 6.6. Bezug und Sicherung der Steuern
+### 6.6. Inventar
+### 6.7 Bezug und Sicherung der Steuern
 ## 7. Steuerstrafrecht
 ## 8. Schlussbestimmungen
 ### 8.1. Kostentragung und zuständige Behörden

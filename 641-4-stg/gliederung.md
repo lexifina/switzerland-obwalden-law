@@ -40,7 +40,7 @@
 ##### 2.3.2.5. Ansprüche aus rückkaufsfähigen Lebensversicherungen
 #### 2.3.3. Abzug von Schulden
 #### 2.3.4. Steuerberechnung
-#### 2.3.5. Mindeststeuern auf Grundstücken
+#### 2.3.5. Minimalsteuern auf Grundstücken
 ### 2.4. …
 ### 2.5. Ausgleich der kalten Progression
 ### 2.6. Zeitliche Bemessung
@@ -195,3 +195,4 @@
 ### 10.7. Übergangs- und Schlussbestimmungen zum Nachtrag vom 28. Oktober 2010
 ### 10.8. Übergangs- und Schlussbestimmungen zum Nachtrag vom 27. Mai 2015
 ### 10.9. Übergangs- und Schlussbestimmungen zum Nachtrag vom 14. April 2016
+### 10.10 Übergangs- und Schlussbestimmungen zum Nachtrag vom 5. Dezember 2018
