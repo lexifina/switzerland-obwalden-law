@@ -14,4 +14,5 @@ geändert durch:
 - den Nachtrag zum Kantonsratsgesetz vom 26. Juni 2009, in Kraft seit 1. Juli 2009 (OGS 2009, 34),
 - das Gesetz über die Justizreform vom 21. Mai 2010, in Kraft seit 1. Januar 2011, Art. 65 in Kraft seit 1. Juli 2010 (OGS 2010, 33 Ziff. I.1. und OGS 2010, 41),
 - Art. 105 und 106 des Finanzhaushaltsgesetzes vom 11. März 2010, in Kraft seit 1. Januar 2012 (OGS 2010, 13 und 20)
-- das Gesetz über die Anpassungen aufgrund der Evaluation der Justizreform vom 4. Dezember 2014, Botschaft und Vorlage des Regierungsrats und des Obergerichts vom 17. Juni 2014, Kantonsratssitzungen vom 23. Oktober und 4. Dezember 2014 (22.14.03), in Kraft seit 1. März 2015 (OGS 2014, 52 und 2015, 3)
+- das Gesetz über die Anpassungen aufgrund der Evaluation der Justizreform vom 4. Dezember 2014, Botschaft und Vorlage des Regierungsrats und des Obergerichts vom 17. Juni 2014, Kantonsratssitzungen vom 23. Oktober und 4. Dezember 2014 (22.14.03), in Kraft seit 1. März 2015 (OGS 2014, 52 und 2015, 3),
+- Nachtrag vom 17. Dezember 2018 (OGS 2018, 44), Botschaft und Vorlage des Regierungsrats vom 13. November 2018, Kantonsratssitzungen vom 5. und 17. Dezember 2018 (22.18.08), in Kraft seit 1. Januar 2019 (OGS 2019, 3)
