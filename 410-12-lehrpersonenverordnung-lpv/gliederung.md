@@ -1,5 +1,5 @@
 ## 1. Allgemeine Bestimmungen
-## 2. Lehrbewilligung und beruflicher Auftrag
+## 2. Lehrbewilligung, besoldetes Pensum und beruflicher Auftrag
 ## 3. Arbeitszeit, Ferien, Urlaub
 ## 4. Beurteilung
 ## 5. Entlöhnung, Sozialleistungen, Versicherungen
