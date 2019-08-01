@@ -1,7 +1,6 @@
-Informationen zum Erlass
-Ursprüngliche Fundstelle: OGS 2012, 56
-geändert durch:
-- Nachtrag vom 9. April 2013, in Kraft seit Schuljahr 2013/2014 (OGS 2013, 43)
-- Nachtrag vom 11. November 2013, in Kraft seit Schuljahr 2014/2015 (OGS 2014, 1)
+Informationen zur Vereinbarung
+Ursprüngliche Fundstelle: OGS 2019, 37
+Ursprüngliches Inkrafttreten: 1. August 2019
+Aufgehobene Vereinbarung: Leistungsvereinbarung mit dem Kloster und der Stiftsschule Engelberg über die Aufnahme und Ausbildung von Schülerinnen und Schülern aus dem Kanton Obwalden vom 26. Juni 2012 (OGS 2012, 56, OGS 2013, 43, OGS 2014, 1)
 Anhänge
-Anhang 1: Kantonsratsbeschluss über die Genehmigung der Vereinbarung über die Aufnahme von Schülern aus dem Kanton Obwalden in die Stiftsschule Engelberg vom 26. April 1979
+Anhang 1: Anhang
