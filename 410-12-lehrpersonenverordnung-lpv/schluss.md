@@ -9,6 +9,7 @@ geändert durch
 - Nachtrag vom 22. November 2011, in Kraft seit 1. Januar 2012 (OGS 2011, 68),
 - Nachtrag vom 4. Dezember 2012, in Kraft seit 1. Januar 2013 (OGS 2012, 70),
 - Nachtrag vom 10. Dezember 2013, in Kraft seit 1. Januar 2014 (OGS 2013, 51),
-- Nachtrag vom 29. Juni 2018 (OGS 2014, 24), Botschaft und Vorlage des Regierungsrats vom 27. März 2018, Kantonsratsprotokoll vom 25. Mai und 29. Juni 2018 (23.18.04), in Kraft seit 1. August 2019 (OGS 2018, 29)
+- Nachtrag vom 29. Juni 2018 (OGS 2014, 24), Botschaft und Vorlage des Regierungsrats vom 27. März 2018, Kantonsratsprotokoll vom 25. Mai und 29. Juni 2018 (23.18.04), in Kraft seit 1. August 2019 (OGS 2018, 29),
+- Nachtrag zum Bildungsgesetz vom 29. Juni 2018 (OGS 2018, 26), Botschaft und Vorlage des Regierungsrats vom 27. März 2018, Kantonsratssitzungen vom 25. Mai und 29. Juni 2018 (22.18.04), in Kraft seit 1. Januar 2020 (OGS 2018, 28)
 Anhänge
 Anhang 1 : Anhang
