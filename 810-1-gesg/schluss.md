@@ -14,3 +14,5 @@ Aufgehobene Erlasse:
 - Spitalverordnung vom 24. Oktober 1991; GDB 830.11 (OGS 1991, 78, OGS 1993, 145, OGS 1999, 81, OGS 2001, 9, OGS 2003, 64, OGS 2007, 13, OGS 2012, 29),
 - Verordnung über Patientenrechte vom 24. Oktober 1991; GDB 830.31 (OGS 1991, 82, OGS 2012, 29),
 - Verordnung über die Förderung der Betagtenbetreuung vom 27. Juni 2008; GDB 830.42 (OGS 1008, 52)
+Geändert durch:
+- Nachtrag vom 28. Juni 2019 (OGS 2019, 33), Botschaft und Vorlage des Regierungsrats vom 9. April 2019, Kantonsratssitzungen vom 23. Mai und 28.Juni 2019 (22.19.06), in Kraft seit 1. Januar 2020 (OGS 2019, 40)
