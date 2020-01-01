@@ -1,7 +1,7 @@
 # Art. 7a Anrechenbares Einkommen
 1 Das anrechenbare Einkommen errechnet sich wie folgt:
 a. das Total der Einkünfte (Art. 18 bis 20, Art. 21, Art. 22 Abs. 1, Art. 22a, Art. 23, Art. 24 (ohne Kapitalleistungen aus Vorsorge gemäss Art. 40 StG), Art. 25, Art. 29 bis 34 und Art. 35 Abs. 1 Bst. d (ohne Einkäufe) und f StG);
-b. unter Abzug der Berufsauslagen bei unselbstständiger Erwerbstätigkeit (Art. 28 StG);
+b. unter Abzug der Berufsauslagen bei unselbstständiger Erwerbstätigkeit (Art. 28 und Art. 35 Abs. 1 Bst. o StG);
 c. unter Abzug der Unterhaltsbeiträge und dauernden Lasten (Art. 35 Abs. 1 Bst. b und c StG);
 d. unter Abzug der Versicherungsprämien und Zinsen von Sparkapitalien (Art. 35 Abs. 1 Bst. g StG);
 e. unter Abzug der Krankheits-, Unfall- und Invaliditätskosten (Art. 35 Abs. 1 Bst. h und i StG);

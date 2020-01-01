@@ -11,5 +11,7 @@ geändert durch
 - Nachtrag zum Steuergesetz vom 1. Juli 2011, in Kraft seit 1. Januar 2012 (OGS 2011, 86 und 59),
 - Nachtrag zum Einführungsgesetz zum Krankenversicherungsgesetz vom 25. April 2013, in Kraft seit 1. Januar 2014 (OGS 2013, 27 und 32),
 - Nachtrag vom 12. März 2015, Bericht und Vorlage des Regierungsrats vom 3. Februar 2015, Kantonsratssitzung vom 12. März 2015 (23.15.02), in Kraft seit 1. April 2015 (OGS 2015, 10),
-- Nachtrag vom 6. Dezember 2017 (OGS 2017, 64), Botschaft und Vorlage des Regierungsrats vom 17. Oktober 2017, Sitzung des Kantonsrats vom 6. Dezember 2017 (23.17.05), in Kraft seit 1. Januar 2018
+- Nachtrag vom 6. Dezember 2017 (OGS 2017, 64), Botschaft und Vorlage des Regierungsrats vom 17. Oktober 2017, Sitzung des Kantonsrats vom 6. Dezember 2017 (23.17.05), in Kraft seit 1. Januar 2018,
+- Nachtrag zum Einführungsgesetz zum Krankenversicherungsgesetz vom 28. Juni 2019 (OGS 2019, 28), Botschaft und Vorlage des Regierungsrats vom 2. April 2019, Kantonsratssitzungen vom 23. Mai und 28. Juni 2019 (22.19.02), in Kraft seit 1. Januar 2020 (OGS 2019, 28),
+- Nachtrag vom 28. Juni 2019 (OGS 2019, 29), Botschaft und Vorlage des Regierungsrats vom 2. April 2019, Kantonsratssitzungen vom 23. Mai und 28. Juni 2019 (23.19.05), in Kraft seit 1. Januar 2020 (OGS 2019, 29)
 Die Änderung der Verordnung durch den Nachtrag zum Einführungsgesetz zum Krankenversicherungsgesetz vom 28. Januar 2016 (OGS 2016, 9 und OGS 2016, 18 und 26) wurde an der Volksabstimmung vom 25. September 2016 (OGS 2016, 15, 52, 53 und 54) abgelehnt.
