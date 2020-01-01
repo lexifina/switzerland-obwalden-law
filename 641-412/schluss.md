@@ -12,5 +12,6 @@ Geändert durch:
 - Nachtrag vom 1. Dezember 2015, in Kraft seit 1. Januar 2016 (OGS 2015, 66),
 - Nachtrag vom 18. Oktober 2016, in Kraft seit 1. Januar 2017 (OGS 2016, 57),
 - Nachtrag vom 18. Dezember 2018, in Kraft seit 1. Januar 2019 (OGS 2018, 56)
+- Nachtrag vom 29. Oktober 2019, in Kraft seit 1. Januar 2020 (OGS 2019, 52)
 Anhänge
-Anhang 1 : Anhang
+Anhang 1 : Pauschalansätze für Berufskosten
