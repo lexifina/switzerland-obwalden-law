@@ -65,7 +65,7 @@
 #### 3.2.2. Steuerberechnung
 ##### 3.2.2.1. Kapitalgesellschaften und Genossenschaften
 ##### 3.2.2.2. Gesellschaften mit Beteiligungen
-##### 3.2.2.3. Domizilgesellschaften
+##### 3.2.2.3. …
 ##### 3.2.2.4. Vereine, Stiftungen, Korporationen, Teilsamen, Alpgenossenschaften und übrige juristische Personen
 ##### 3.2.2.5. Kollektive Kapitalanlagen
 #### 3.2.3. Steueranteile
@@ -196,3 +196,4 @@
 ### 10.8. Übergangs- und Schlussbestimmungen zum Nachtrag vom 27. Mai 2015
 ### 10.9. Übergangs- und Schlussbestimmungen zum Nachtrag vom 14. April 2016
 ### 10.10 Übergangs- und Schlussbestimmungen zum Nachtrag vom 5. Dezember 2018
+### 10.11 Übergangs- und Schlussbestimmungen zum Nachtrag vom 28. Juni 2019
