@@ -1,4 +1,5 @@
 # Ausführungsbestimmungen über Kosten für Polizeidienste
+(AB KfP)
 vom 11.01.2005
 Der Regierungsrat des Kantons Obwalden,
 in Ausführung des Allgemeinen Gebührengesetzes vom 21. April 2005 und von Artikel 16 Absatz 3 der Gebührenordnung für die Rechtspflege vom 28. September 1973,
