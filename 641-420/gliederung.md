@@ -1,6 +1,6 @@
-## 1. Steuerperiode 2018
-### 1.1. Steuererklärung 2018
-## 2. Steuerperiode 2019
+## 1. Steuerperiode 2019
+### 1.1. Steuererklärung 2019
+## 2. Steuerperiode 2020
 ### 2.1. Hauptveranlagung
 ### 2.2. Berechnungsgrundlagen
 ### 2.3. Fälligkeit, Verzugszins sowie Ausgleichszins
