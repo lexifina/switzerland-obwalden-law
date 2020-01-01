@@ -5,3 +5,4 @@ b. im Einspracheverfahren, wenn sie mutwillig eine unzulässige oder offensichtl
 c. im Rechtsmittelverfahren, wenn sie unterliegt oder auf ihr Rechtsmittel nicht eingetreten wurde.
 2 Der Rückzug eines Rechtsmittels oder eines Rechtsbehelfs wird einer Abweisung gleichgestellt.
 3 Kosten, die eine Partei durch pflichtwidriges Verhalten im Verfahren oder verspätetes Vorbringen von Tatsachen und Beweismitteln verursacht, gehen zu ihren Lasten, auch wenn sie obsiegt.
+4 Die Mehrkosten für einen begründeten Entscheid nach Art. 11 Abs. 2a dieser Verordnung sind von derjenigen Partei oder Vorinstanz zu tragen, die um die Begründung ersucht hat.
