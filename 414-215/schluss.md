@@ -6,4 +6,5 @@ geändert durch
 - die Ausführungsbestimmungen über die Bereinigung des Verordnungsrechts des Regierungsrats vom 1. Mai 2007, in Kraft seit 1. August 2007 (OGS 2007, 26 und 35)
 - das Einführungsgesetz zum Partnerschaftsgesetz vom 25. Oktober 2007, in Kraft seit 1. Januar 2008 (OGS 2007, 65)
 - Nachtrag vom 12. August 2008, in Kraft rückwirkend seit 1. August 2008 (OGS 2008, 61)
-- Nachtrag vom 20. Dezember 2011, in Kraft rückwirkend seit 1. August 2011 (OGS 2011, 82)
+- Nachtrag vom 20. Dezember 2011, in Kraft rückwirkend seit 1. August 2011 (OGS 2011, 82),
+- Nachtrag vom 28. April 2020, in Kraft seit 11. Mai 2020 (OGS 2020, 13)
