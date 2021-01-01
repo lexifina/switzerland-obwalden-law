@@ -23,4 +23,5 @@ geändert durch:
 - Nachtrag vom 25. Oktober 2016, in Kraft seit 1. November 2016 (OGS 2016, 56),
 - Ausführungsbestimmungen über das Konsolidierung- und Aufgabenüberprüfungspaket vom 8. November 2016 (OGS 2016, 64),
 - Nachtrag vom 10. April 2018, in Kraft seit 1. Mai 2018 (OGS 2018, 7),
-- Ausführungsbestimmungen zur eidgenössischen Wappenschutzgesetzgebung vom 28. Januar 2020, in Kraft seit 1. März 2020 (OGS 2020, 2)
+- Ausführungsbestimmungen zur eidgenössischen Wappenschutzgesetzgebung vom 28. Januar 2020, in Kraft seit 1. März 2020 (OGS 2020, 2),
+- AB zum Einführungsgesetz zum Geldspielgesetz vom 22. Dezember 2020, in Kraft seit 1.1.2021 (OGS 2021, 2)
