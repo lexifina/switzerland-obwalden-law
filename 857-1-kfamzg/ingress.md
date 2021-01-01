@@ -1,4 +1,5 @@
 # Gesetz über die Familienzulagen
+(kFamZG)
 vom 29.05.2008
 Der Kantonsrat des Kantons Obwalden,
 in Ausführung des Bundesgesetzes über die Familienzulagen (FamZG) vom 24. März 2006,
