@@ -7,7 +7,7 @@
 ### 1.3. Vermögenssteuer
 ### 1.4. Sachliche Bemessung
 ## 2. Besteuerung der juristischen Personen
-## 3. Quellensteuern für natürliche und juristische Personen
+## 3. …
 ## 4. …
 ## 5. Grundstückgewinn- und Handänderungssteuer
 ## 6. Verfahrensrecht

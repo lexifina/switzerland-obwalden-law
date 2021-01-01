@@ -3,3 +3,4 @@
 2 Für die Gewährung der Amtshilfe im Sinne der Art. 178 bis 179a dieses Gesetzes können Daten einzeln, auf Listen oder auf elektronischen Datenträgern übermittelt werden. Die Daten können auch mittels eines Abrufverfahrens zugänglich gemacht werden. Die Vorsteherin oder der Vorsteher der kantonalen Steuerverwaltung regelt Art und Umfang des Datenabrufs sowie die Zugriffsberechtigungen.
 3 Besonders schützenswerte Personendaten dürfen nur durch ein Abrufverfahren zugänglich gemacht werden, wenn es zur Erfüllung einer gesetzlichen Aufgabe unentbehrlich ist.
 4 Im Übrigen sind, soweit dieses Gesetz keine abweichenden Vorschriften enthält, die Bestimmungen des kantonalen Datenschutzgesetzes sinngemäss anwendbar.
+5 Die Steuerverwaltung und die Behörden nach Art. 178 dieses Gesetzes sind berechtigt, die Versichertennummer der Alters- und Hinterlassenenversicherung nach den Bestimmungen des AHVG für die Erfüllung ihrer gesetzlichen Aufgaben systematisch zu verwenden.
