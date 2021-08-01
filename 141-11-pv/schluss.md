@@ -7,5 +7,6 @@ geändert durch:
 - Nachtrag vom 5. Mai 2006, in Kraft seit 1. Juli 2006 (OGS 2006, 34),
 - Nachtrag vom 30. April 2009, in Kraft rückwirkend seit 1. Januar 2009 (OGS 2009, 22),
 - Nachtrag vom 1. Dezember 2011, in Kraft seit 1. Januar 2012 (OGS 2011, 70, OGS 2012, 1),
-- Nachtrag vom 17. Dezember 2018 (OGS 2018, 46), Botschaft und Vorlage des Regierungsrats vom 13. November 2018, Kantonsratssitzungen vom 5. und 17. Dezember 2018 (22.18.05), in Kraft seit 1. Januar 2019 (OGS 2019, 5)
+- Nachtrag vom 17. Dezember 2018 (OGS 2018, 46), Botschaft und Vorlage des Regierungsrats vom 13. November 2018, Kantonsratssitzungen vom 5. und 17. Dezember 2018 (22.18.05), in Kraft seit 1. Januar 2019 (OGS 2019, 5),
+- Nachtrag vom 27. Mai 2021 (OGS 2021, 20), Botschaft und Vorlage des Regierungsrats vom 22. März 2021, Kantonsratssitzungen vom 27. Mai 2021 (22.21.01), in Kraft seit 1. August 2021 (OGS 2021, 27)
 Der Nachtrag vom 11. September 2008 (Vaterschaftsurlaub; OGS 2008, 71, OGS 2009, 67) wurde an der Volksabstimmung vom 8. Februar 2009 (OGS 2009, 11) abgelehnt
