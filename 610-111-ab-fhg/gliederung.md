@@ -8,4 +8,4 @@
 ## 2. Kosten und Leistungsrechnung
 ## 3. Konsolidierung
 ## 4. Controlling
-## 5. Internes Kontrollsystem (IKS)
+## 5. …
