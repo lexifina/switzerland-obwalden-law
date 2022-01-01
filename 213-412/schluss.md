@@ -1,7 +1,4 @@
 Informationen zum Erlass
-Ursprüngliche Fundstelle: OGS 2003, 19
-Ursprüngliches Inkrafttreten: 1. Juni 2003
-Aufgehobener Erlass:
-AB über den Zugriff auf Daten des EDV-Grundbuchs vom 15. Juni 1999 (OGS 1999, 85)
-Geändert durch
-AB über das Grundbuch vom 14. März 2017 (OGS 2017, 28)
+Ursprünglicher Fundort: OGS 2021, 44
+Ursprüngliches Inkrafttreten: 1. Januar 2022
+Aufgehobener Erlass: Ausführungsbestimmungen über den Zugriff auf Daten des EDV-Grundbuchs vom 20. Mai 2003 (OGS 2003, 19, OGS 2017, 28)
