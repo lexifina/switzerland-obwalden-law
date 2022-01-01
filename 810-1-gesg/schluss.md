@@ -13,6 +13,9 @@ Aufgehobene Erlasse:
 - Heilmittelverordnung vom 24. Oktober 1991; GDB 814.21 (OGS 1991, 80, OGS 1993, 97, OGS 2005, 29),
 - Spitalverordnung vom 24. Oktober 1991; GDB 830.11 (OGS 1991, 78, OGS 1993, 145, OGS 1999, 81, OGS 2001, 9, OGS 2003, 64, OGS 2007, 13, OGS 2012, 29),
 - Verordnung über Patientenrechte vom 24. Oktober 1991; GDB 830.31 (OGS 1991, 82, OGS 2012, 29),
-- Verordnung über die Förderung der Betagtenbetreuung vom 27. Juni 2008; GDB 830.42 (OGS 1008, 52)
+- Verordnung über die Förderung der Betagtenbetreuung vom 27. Juni 2008; GDB 830.42 (OGS 1008, 52).
+Durch den Nachtrag vom 25. Juni 2021 aufgehobener Erlass:
+- Verordnung zum Bundesgesetz über die Betäubungsmittel und die psychotropen Stoffe (Betäubungsmittelverordnung) vom 25. November 1952 (OGS 1958, 43, OGS 1980, 5, OGS 2005, 29, OGS 2007, 13, OGS 2010, 33)
 Geändert durch:
-- Nachtrag vom 28. Juni 2019 (OGS 2019, 33), Botschaft und Vorlage des Regierungsrats vom 9. April 2019, Kantonsratssitzungen vom 23. Mai und 28.Juni 2019 (22.19.06), in Kraft seit 1. Januar 2020 (OGS 2019, 40)
+- Nachtrag vom 28. Juni 2019 (OGS 2019, 33), Botschaft und Vorlage des Regierungsrats vom 9. April 2019, Kantonsratssitzungen vom 23. Mai und 28.Juni 2019 (22.19.06), in Kraft seit 1. Januar 2020 (OGS 2019, 40),
+- Nachtrag vom 25. Juni 2021 (OGS 2021, 23), Botschaft und Vorlage des Regierungsrats vom 9. März 2021), Kantonsratssitzungen vom 27. Mai und 25. Juni 2021 (22.21.01), Volksabstimmung vom 28. November 2021 (ABl 2021, 1747), in Kraft seit 1. Januar 2022 (OGS 2021, 41)

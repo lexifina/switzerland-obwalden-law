@@ -4,4 +4,6 @@
 ### 2.2. Anspruchsberechtigung
 ### 2.3. Verfahren
 ### 2.4. Rechtsschutz
-## 3. Schluss- und Übergangsbestimmungen
+## 3. Spital- und Pflegeheimplanung
+## 4. Datenlieferung, -bearbeitung und -veröffentlichung
+## 5. Schluss- und Übergangsbestimmungen

@@ -1,0 +1,5 @@
+# Art. 17h Datenbearbeitung und -veröffentlichung
+1 Das zuständige Departement ist berechtigt, im Rahmen seiner Aufgaben sämtliche hierzu erforderlichen patienten- und betriebsbezogenen Daten zu bearbeiten.
+2 Die Bearbeitung von betriebsbezogenen Daten, wie insbesondere Angaben über Zusatzhonorare, Personalbestand und die fallbezogene Kostenträgerrechnung, ist ohne Anonymisierung zulässig.
+3 Patientenbezogene Daten, wie insbesondere Name, Alter, Geschlecht, Wohnort, AHV-Nummer sowie Art und Umfang der bezogenen medizinischen Leistung, werden anonymisiert erhoben, sofern sie nicht für die Rechnungskontrolle, die Kodierrevision oder die Leistungsstatistik verwendet werden.
+4 Das zuständige Departement ist ermächtigt, unter Wahrung der Geschäftsgeheimnisse, betriebsbezogene Daten der Spitäler und Geburtshäuser in nicht anonymisierter Form zu veröffentlichen, sofern diese von öffentlichem Interesse sind. Patientenbezogene Daten dürfen einzig in anonymisierter Form veröffentlicht werden, wobei keine Rückschlüsse auf natürliche Personen möglich sein dürfen.

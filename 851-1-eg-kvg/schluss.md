@@ -14,5 +14,6 @@ geändert durch
 - das Gesetz über die Justizreformvom 21. Mai 2010, in Kraft seit 1. Januar 2011 (OGS 2010, 33 Ziff. I. 15. und OGS 2010, 41),
 - Nachtrag vom 27. Januar 2011, in Kraft rückwirkend seit 1. Januar 2011(OGS 2011, 10 und 17)
 - Nachtrag vom 25. April 2013, in Kraft seit 1. Januar 2014 (OGS 2013, 27 und 32),
-- Nachtrag vom 28. Juni 2019 (OGS 2019, 28), Botschaft und Vorlage des Regierungsrats vom 2. April 2019, Kantonsratssitzungen vom 23. Mai und 28. Juni 2019 (22.19.02), in Kraft seit 1. Januar 2020 (OGS 2019, 39)
+- Nachtrag vom 28. Juni 2019 (OGS 2019, 28), Botschaft und Vorlage des Regierungsrats vom 2. April 2019, Kantonsratssitzungen vom 23. Mai und 28. Juni 2019 (22.19.02), in Kraft seit 1. Januar 2020 (OGS 2019, 39),
+- Nachtrag zum Gesundheitsgesetz vom 25. Juni 2021 (OGS 2021, 23), Botschaft und Vorlage des Regierungsrats vom 9. März 2021), Kantonsratssitzungen vom 27. Mai und 25. Juni 2021 (22.21.01), Volksabstimmung vom 28. November 2021 (ABl 2021, 1747), in Kraft seit 1. Januar 2022 (OGS 2021, 41)
 Der Nachtrag vom 28. Januar 2016 (OGS 2016, 9 und OGS 2016, 18 und 26) wurde an der Volksabstimmung vom 25. September 2016 (OGS 2016, 15, 52, 53 und 54) abgelehnt.

@@ -1,4 +1,5 @@
 # Einführungsgesetz zum Krankenversicherungsgesetz
+(EG KVG)
 vom 28.01.1999
 Der Kantonsrat des Kantons Obwalden,
 in Ausführung des Bundesgesetzes über die Krankenversicherung (KVG) vom 18. März 1994,

@@ -8,7 +8,7 @@
 ### 2.4. Entsorgung von tierischen Nebenprodukten
 ## 3. Lebensmittelsicherheit
 ## 4. Tierschutz
-## 5. Tiergesundheitsberufe
-## 6. Tierarzneimittel
+## 5. Tiergesundheitsberufe und Tierarzneimittel
+## 6. …
 ## 7. Finanzierung
 ## 8. Übergangs- und Schlussbestimmungen

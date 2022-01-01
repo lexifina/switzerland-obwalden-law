@@ -16,7 +16,8 @@
 ### 6.3. Forschung, Fortpflanzungsmedizin, Transplantation, Obduktion
 ## 7. Bestattung
 ## 8. Gesundheitsförderung und Prävention
-## 9. Heilmittel
+## 8a. Bekämpfung übertragbarer Krankheiten des Menschen
+## 9. Heilmittel und Betäubungsmittel
 ## 10. Aufsicht, Befugnisse der Aufsichtsbehörden und Verwaltungs- und Disziplinarmassnahmen
 ## 11. Strafbestimmungen und Rechtsschutz
 ## 12. Schluss- und Übergangsbestimmungen
