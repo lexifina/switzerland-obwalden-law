@@ -1,4 +1,5 @@
 # Ausführungsbestimmungen über das Grundbuch
+(AB GB)
 vom 14.03.2017
 Der Regierungsrat des Kantons Obwalden,
 in Ausführung von Artikel 953 des Zivilgesetzbuches (ZGB) vom 10. Dezember 1907,
