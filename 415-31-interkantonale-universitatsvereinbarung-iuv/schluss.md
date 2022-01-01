@@ -1,10 +1,12 @@
-Informationen zur Vereinbarung:
-Beitrittsbeschluss:
-- Landsgemeindebeschluss über den Beitritt zur interkantonalen Vereinbarung über Hochschulbeiträgevom 27. April 1980 (OGS 1980, 47),
-- Kantonsratsbeschluss über den Beitritt zur interkantonalen Universitätsvereinbarungvom 29. Januar 1998 (OGS 1999, 8)
-Ursprüngliche Fundstelle: AS 1999, 1503; Beschluss der Plenarversammlung EDK vom 20. Februar 1997, vom Eidgenössischen Departement des Innern genehmigt am 7. August 1998, in Kraft seit 1. Januar 1999
-geändert durch (Art. 26 IUV):
-- Beschluss der Kommission Universitätsvereinbarung vom 15. Februar 2005, in Kraft ab Studienjahr 2005/2006 (OGS 2013, 23),
-- Beschluss der Kommission Universitätsvereinbarung vom 1. Dezember 2011, in Kraft ab Studienjahr 2013/2014 (OGS 2013, 23)
-Anhänge
-Anhang 1: Beitrittsbeschluss (LGB) Anhang 2: Beitrittsbeschluss (KRB) Anhang 3: Beitrittsliste Kantone
+Anhang
+Bezeichnung der Kostengruppen und Zuordnung der Fachbereiche gemäss Artikel 9 Absatz 2 der Vereinbarung
+Die Kostengruppen gemäss Artikel 9 Absatz 2 werden wie folgt definiert:
+Kostengruppe I:
+Geistes- und Sozialwissenschaften, Wirtschaftswissenschaften und Recht
+Kostengruppe II: exakte Wissenschaften, Naturwissenschaften, technische Wissenschaften, Pharmazie, erstes und zweites Studienjahr der Human-, Zahn- und Veterinärmedizin
+Kostengruppe III:
+Human-, Zahn- und Veterinärmedizin ab drittem Studienjahr
+Informationen zur Vereinbarung
+Ursprüngliche Fundstelle: OGS 2021, 53
+Ursprüngliches Inkrafttreten: 1. Januar 2022
+Aufgehobene Vereinbarung: Interkantonale Universitätsvereinbarungvom (IUV) 20. Ferbuar 1997 (AS 1999, 1503, OGS 2013, 23).
