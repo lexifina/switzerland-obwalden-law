@@ -14,4 +14,5 @@ geändert durch
 - Nachtrag vom 19. März 2013, in Kraft seit 19. März 2013 (OGS 2013, 10),
 - Nachtrag vom 11. April 2014, in Kraft seit 11. April 2014 (OGS 2014, 15),
 - Nachtrag vom 29. Mai 2017, in Kraft seit 29. Mai 2017 (OGS 2017, 31),
-- Nachtrag vom 25. Mai 2018, in Kraft seit 25. Mai 2018 (OGS 2018, 19)
+- Nachtrag vom 25. Mai 2018, in Kraft seit 25. Mai 2018 (OGS 2018, 19),
+- Nachtrag vom 18. November 2021, in Kraft seit 1. Februar 2022 (OGS 2021, 39)
