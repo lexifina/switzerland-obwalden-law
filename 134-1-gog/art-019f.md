@@ -3,4 +3,4 @@
 a. die Organisation;
 b. das Personalwesen;
 c. das Finanzwesen.
-2 Das Sicherheits- und Justizdepartement nimmt für den Regierungsrat die Aufsicht über die Staatsanwaltschaft wahr.
+2 Das Sicherheits- und Sozialdepartement nimmt für den Regierungsrat die Aufsicht über die Staatsanwaltschaft wahr.
