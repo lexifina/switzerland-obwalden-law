@@ -1,6 +1,5 @@
-# Ausführungsbestimmungen über die Arzneimittel und die Medizinprodukte
-vom 19.01.2016
+# Ausführungsbestimmungen über die Heilmittel und die Betäubungsmittel
+vom 23.05.2022
 Der Regierungsrat des Kantons Obwalden,
-in Ausführung von Artikel 83 des Bundesgesetzes über Arzneimittel und Medizinprodukte vom 15. Dezember 2000,
-gestützt auf Artikel 71 Absatz 2 des Gesundheitsgesetzes vom 3. Dezember 2015,
+gestützt auf Artikel 44 Absatz 3, Artikel 46 Absatz 1 und Artikel 71 des Gesundheitsgesetzes vom 3. Dezember 2015,
 beschliesst:
