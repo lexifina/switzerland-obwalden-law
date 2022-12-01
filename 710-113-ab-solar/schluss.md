@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1: Anhänge
+Anhang 1: Anhang
