@@ -4,4 +4,4 @@
 3 Die Bescheinigung muss in Worten oder Ziffern die Zahl der bescheinigten Unterschriften angeben.
 4 Die Stimmrechtsbescheinigung wird verweigert, wenn die Voraussetzungen von Art. 53f dieses Gesetzes nicht erfüllt sind. Die Verweigerung einer Stimmrechtsbescheinigung ist kurz zu begründen.
 5 Hat eine stimmberechtigte Person mehrmals unterschrieben, so wird nur eine Unterschrift bescheinigt.
-6 Die Unterschriftenlisten sind vertraulich zu behandeln.
+6 Die Unterschriftenlisten sind vertraulich zu behandeln und unterliegen nicht dem Gesetz über das Öffentlichkeitsprinzip.
