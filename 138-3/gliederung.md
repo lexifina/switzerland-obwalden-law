@@ -1,0 +1,10 @@
+## 1 ALLGEMEINE BESTIMMUNGEN
+## 2 ORGANISATION
+## 3 LEISTUNGSBEZUG
+## 4 PLANUNG
+## 5 INFORMATIKPROJEKTE
+### 5.1 Allgemein
+### 5.2 Zustimmung zu Projekten
+### 5.3 Kredite
+### 5.4 Finanzierung
+## 6 VERFAHRENS- UND SCHLUSSBESTIMMUNGEN
