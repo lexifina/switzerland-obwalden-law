@@ -19,6 +19,7 @@ geändert durch
 - Nachtrag vom 22. Januar 2019, in Kraft seit 1. März 2019 (OGS 2019, 14),
 - Nachtrag vom 1. Dezember 2020, in Kraft seit 1. Januar 2021 (OGS 2020, 54),
 - Nachtrag vom 1. Juli 2021, in Kraft seit 1. August 2021 (OGS 2021, 24),
-- Nachtrag vom 20. September 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 30 und 34)
+- Nachtrag vom 20. September 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 30 und 34),
+- Nachtrag vom 17. Oktober 2023, in Kraft seit 1. Januar 2024 (OGS 2023, 33)
 Anhänge
 Anhang 1 : Anhänge
