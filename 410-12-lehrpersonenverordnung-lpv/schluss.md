@@ -13,8 +13,9 @@ geändert durch
 - Nachtrag zum Bildungsgesetz vom 29. Juni 2018 (OGS 2018, 26), Botschaft und Vorlage des Regierungsrats vom 27. März 2018, Kantonsratssitzungen vom 25. Mai und 29. Juni 2018 (22.18.04), in Kraft seit 1. Januar 2020 (OGS 2018, 28)
 - Nachtrag vom 10. September 2020 (OGS 2020, 38), Botschaft und Vorlage des Regierungsrats vom 23. Juni 2020, Kantonsratssitzung vom 10. September 2020 (23.20.03), in Kraft seit 1. August 2021
 - Nachtrag zur Personalverordnung vom 27. Mai 2021 (OGS 2021, 20), Botschaft und Vorlage des Regierungsrats vom 22. März 2021, Kantonsratssitzungen vom 27. Mai 2021 (22.21.01), in Kraft seit 1. August 2021 (OGS 2021, 27),
-- Nachtrag vom 20. September 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 31 und 35) *
+- Nachtrag vom 20. September 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 31 und 35),*
+- Nachtrag vom 17. Oktober 2023, in Kraft seit 1. Janaur 2024 (OGS 2023, 32) *
 * Änderung des Anhangs 2 durch den Regierungsrat
 ** Änderung des Anhangs 3 durch den Regierungsrat
 Anhänge
-Anhang 1 : Anhang
+Anhang 1 : Anhang 1 bis 3
