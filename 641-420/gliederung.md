@@ -1,6 +1,6 @@
-## 1. Steuerperiode 2022
-### 1.1. Steuererklärung 2022
-## 2. Steuerperiode 2023
+## 1. Steuerperiode 2023
+### 1.1. Steuererklärung 2023
+## 2. Steuerperiode 2024
 ### 2.1. Hauptveranlagung
 ### 2.2. Berechnungsgrundlagen
 ### 2.3. Fälligkeit, Verzugszins sowie Ausgleichszins
