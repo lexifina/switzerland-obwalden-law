@@ -1,6 +1,6 @@
-# Ausführungsbestimmungen über die Bekämpfung des Feuerbrands
-vom 03.07.2007
+# Ausführungsbestimmungen über Pflanzenschutzmassnahmen in der Landwirtschaft
+vom 30.01.2024
 Der Regierungsrat des Kantons Obwalden,
-in Ausführung der Verordnung über Pflanzenschutz vom 28. Februar 2001,
-gestützt auf Artikel 3 Absatz 1 Buchstabe f des Einführungsgesetzes zum Bundesgesetz über die Landwirtschaft vom 26. Januar 2001,
+in Ausführung der Verordnung über den Schutz von Pflanzen vor besonders gefährlichen Schadorganismen (Pflanzengesundheitsverordnung) vom 31. Oktober 2018,
+gestützt auf Artikel 3 Absatz 1 Buchstabe g des kantonalen Landwirtschaftsgesetztes vom 25. Januar 2008,
 beschliesst:
