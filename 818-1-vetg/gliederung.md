@@ -8,6 +8,7 @@
 ### 2.4. Entsorgung von tierischen Nebenprodukten
 ## 3. Lebensmittelsicherheit
 ## 4. Tierschutz
+## 4a. Massnahmen bei Hunden
 ## 5. Tiergesundheitsberufe und Tierarzneimittel
 ## 6. …
 ## 7. Finanzierung
