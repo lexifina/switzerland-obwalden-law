@@ -27,4 +27,6 @@ geändert durch:
 - AB zum Einführungsgesetz zum Geldspielgesetz vom 22. Dezember 2020, in Kraft seit 1.1.2021 (OGS 2021, 2),
 - AB über das Interne Kontrollsystem IKS vom 21. September 2021, in Kraft seit 1. Oktober 2021 (OGS 2021, 31),
 - Nachtrag vom 21. Juni 2022, in Kraft seit 1. Juli 2022 (OGS 2022, 20),
-- Nachtrag vom 8. November 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 25)
+- Nachtrag vom 8. November 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 25),
+- Nachtrag vom 15. Oktober 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 24),
+- Nachtrag zu den AB über das Interne Kontrollsystem IKS vom 17. Dezember 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 44)
