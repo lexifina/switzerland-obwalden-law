@@ -11,4 +11,5 @@ geändert durch:
 - Nachtrag vom 3. November 2020, in Kraft seit 1. Januar 2021 (OGS 2020, 48),
 - Nachtrag vom 19. Oktober 2021, in Kraft seit 1. Januar 2022 (OGS 2021, 34),
 - Nachtrag vom 22. November 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 27),
-- Nachtrag vom 14. November 2023, in Kraft seit 1. Januar 2024 (OGS 2023, 31)
+- Nachtrag vom 14. November 2023, in Kraft seit 1. Januar 2024 (OGS 2023, 31),
+- Nachtrag vom 12. November 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 33)
