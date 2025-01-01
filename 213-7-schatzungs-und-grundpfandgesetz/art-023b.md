@@ -1,0 +1,3 @@
+# Art. 23b Übergangsrecht zum Nachtrag vom 23. Mai 2024
+1 Schätzungen, die gestützt auf dieses Gesetz gemäss Nachtrag vom 16. April 2014 vorgenommen wurden, sind mit dem Faktor 1,15 zu multiplizieren, bis eine Schätzung gemäss Nachtrag vom 23. Mai 2024 vorgenommen wird. Dieser Wert bildet die Grundlage für die Berechnung des Netto-Steuerwerts gemäss Art. 23 Abs. 2 der Vollziehungsverordnung zum Steuergesetz.
+2 Mietwerte für selbstbenutzte nichtlandwirtschaftliche Grundstücke (Eigenmietwert), die gestützt auf dieses Gesetz gemäss Nachtrag vom 16. April 2014 festgelegt wurden, gelten bis eine Schätzung des Mietwerts für selbstbenutzte nichtlandwirtschaftliche Grundstücke (Eigenmietwert) gemäss Nachtrag vom 23. Mai 2024 vorgenommen wird.
