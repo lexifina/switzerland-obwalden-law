@@ -1,0 +1,2 @@
+# Art. 32c Übergangsbestimmung zum Nachtrag vom 5. November 2024
+1 Art. 15, welcher am 1. August 2027 in Kraft tritt, gilt in den Schuljahren 2027/2028 und 2028/2029 nur in Bezug auf die Jahresnote der neuen Maturitätsfächer Informatik und Wirtschaft und Recht, soweit sie Eingang ins Maturitätszeugnis 2030 oder später finden werden. In Bezug auf die Maturitätszeugnisse gilt der neue Art. 15 erstmals für die Maturitätsprüfung im Jahr 2030.

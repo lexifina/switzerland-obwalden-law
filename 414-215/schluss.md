@@ -7,4 +7,6 @@ geändert durch
 - das Einführungsgesetz zum Partnerschaftsgesetz vom 25. Oktober 2007, in Kraft seit 1. Januar 2008 (OGS 2007, 65)
 - Nachtrag vom 12. August 2008, in Kraft rückwirkend seit 1. August 2008 (OGS 2008, 61)
 - Nachtrag vom 20. Dezember 2011, in Kraft rückwirkend seit 1. August 2011 (OGS 2011, 82),
-- Nachtrag vom 28. April 2020, in Kraft seit 11. Mai 2020 (OGS 2020, 13)
+- Nachtrag vom 28. April 2020, in Kraft seit 11. Mai 2020 (OGS 2020, 13),
+- Nachtrag vom 5. November 2024, mit Ausnahme von Art. 15 in Kraft seit 1. August 2024, Art. 15 in Kraft ab 1. August 2027 (OGS 2024, 31)
+Die Staatskanzlei hat gestützt auf Art. 11c Abs. 1 des Publikationsgesetzes Art. 11 aufgehoben, während gemäss OGS 2024, 31 nur Abs. 1 des nur aus diesem Absatz bestehenden Art. 11 aufgehoben wurde (bedeutungsloser Darstellungsfehler).
