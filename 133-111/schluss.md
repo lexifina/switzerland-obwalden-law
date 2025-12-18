@@ -29,4 +29,5 @@ geändert durch:
 - Nachtrag vom 21. Juni 2022, in Kraft seit 1. Juli 2022 (OGS 2022, 20),
 - Nachtrag vom 8. November 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 25),
 - Nachtrag vom 15. Oktober 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 24),
-- Nachtrag zu den AB über das Interne Kontrollsystem IKS vom 17. Dezember 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 44)
+- Nachtrag zu den AB über das Interne Kontrollsystem IKS vom 17. Dezember 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 44),
+- Nachtrag vom 16. September 2025, in Kraft seit 18. Dezember 2025 (OGS 2025, 32)
