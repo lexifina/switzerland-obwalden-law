@@ -18,4 +18,5 @@ Durch den Nachtrag vom 25. Juni 2021 aufgehobener Erlass:
 - Verordnung zum Bundesgesetz über die Betäubungsmittel und die psychotropen Stoffe (Betäubungsmittelverordnung) vom 25. November 1952 (OGS 1958, 43, OGS 1980, 5, OGS 2005, 29, OGS 2007, 13, OGS 2010, 33)
 Geändert durch:
 - Nachtrag vom 28. Juni 2019 (OGS 2019, 33), Botschaft und Vorlage des Regierungsrats vom 9. April 2019, Kantonsratssitzungen vom 23. Mai und 28.Juni 2019 (22.19.06), in Kraft seit 1. Januar 2020 (OGS 2019, 40),
-- Nachtrag vom 25. Juni 2021 (OGS 2021, 23), Botschaft und Vorlage des Regierungsrats vom 9. März 2021), Kantonsratssitzungen vom 27. Mai und 25. Juni 2021 (22.21.01), Volksabstimmung vom 28. November 2021 (ABl 2021, 1747), in Kraft seit 1. Januar 2022 (OGS 2021, 41)
+- Nachtrag vom 25. Juni 2021 (OGS 2021, 23), Botschaft und Vorlage des Regierungsrats vom 9. März 2021), Kantonsratssitzungen vom 27. Mai und 25. Juni 2021 (22.21.01), Volksabstimmung vom 28. November 2021 (ABl 2021, 1747), in Kraft seit 1. Januar 2022 (OGS 2021, 41),
+- Spitalgesetz vom 27. Juni 2025 (OGS 2025, 21a), Botschaft und Vorlage des Regierungsrats vom 18. Februar 2025, Kantonsratssitzungen vom 22. Mai und 27. Juni 2025 (22.25.02), in Kraft 1. Januar 2025 (OGS 2025, 33)

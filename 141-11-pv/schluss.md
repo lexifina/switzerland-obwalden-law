@@ -9,5 +9,6 @@ geändert durch:
 - Nachtrag vom 1. Dezember 2011, in Kraft seit 1. Januar 2012 (OGS 2011, 70, OGS 2012, 1),
 - Nachtrag vom 17. Dezember 2018 (OGS 2018, 46), Botschaft und Vorlage des Regierungsrats vom 13. November 2018, Kantonsratssitzungen vom 5. und 17. Dezember 2018 (22.18.05), in Kraft seit 1. Januar 2019 (OGS 2019, 5),
 - Nachtrag vom 27. Mai 2021 (OGS 2021, 20), Botschaft und Vorlage des Regierungsrats vom 22. März 2021, Kantonsratssitzungen vom 27. Mai 2021 (22.21.01), in Kraft seit 1. August 2021 (OGS 2021, 27),
-- Nachtrag zum Staatsverwaltungsgesetz vom 31. Oktober 2024 (OGS 2024, 27), Botschaft und Vorlage des Regierungsrats vom 25. Juni 2024, Kantonsratssitzung vom 31. Oktober 2024 (22.24.06), in Kraft seit 1. Januar 2025 (OGS 2024, 39)
+- Nachtrag zum Staatsverwaltungsgesetz vom 31. Oktober 2024 (OGS 2024, 27), Botschaft und Vorlage des Regierungsrats vom 25. Juni 2024, Kantonsratssitzung vom 31. Oktober 2024 (22.24.06), in Kraft seit 1. Januar 2025 (OGS 2024, 39),
+- Spitalgesetz vom 27. Juni 2025 (OGS 2025, 21a), Botschaft und Vorlage des Regierungsrats vom 18. Februar 2025, Kantonsratssitzungen vom 22. Mai und 27. Juni 2025 (22.25.02), in Kraft 1. Januar 2025 (OGS 2025, 33)
 Der Nachtrag vom 11. September 2008 (Vaterschaftsurlaub; OGS 2008, 71, OGS 2009, 67) wurde an der Volksabstimmung vom 8. Februar 2009 (OGS 2009, 11) abgelehnt
