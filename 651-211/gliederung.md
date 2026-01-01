@@ -4,4 +4,5 @@
 ## 4. Fangausübung
 ## 5. Fanggeräte und Fangmethoden
 ## 6. Schutzvorschriften
+## 6a. Fischfangstatistik
 ## 7. Schlussbestimmungen
