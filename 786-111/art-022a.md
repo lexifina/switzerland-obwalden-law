@@ -1,0 +1,2 @@
+# Art. 22a Übergangsbestimmung zum Nachtrag vom 2. Dezember 2025
+1 Anpassungen der bestehenden öffentlich-rechtlichen Vereinbarungen zwischen dem Amt für Wald und Landschaft und der betroffenen Grundeigentümerschaft oder Bewirtschaftenden an die revidierten Vorgaben dieser Ausführungsbestimmungen gemäss Nachtrag vom 2. Dezember 2025 finden in der Regel im Rahmen der regulär stattfindenden Vertragsüberarbeitungen zehn Jahre nach Vertragsabschluss statt.
