@@ -14,6 +14,7 @@ Geändert durch:
 - Nachtrag vom 18. Dezember 2018, in Kraft seit 1. Januar 2019 (OGS 2018, 56)
 - Nachtrag vom 29. Oktober 2019, in Kraft seit 1. Januar 2020 (OGS 2019, 52),
 - Nachtrag vom 30. November 2021, in Kraft seit 1. Januar 2022 (OGS 2021, 47),
-- Mantelerlass über die Anpassung von Ausführungsbestimmungen im Steuerbereich vom 26. November 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 38)
+- Mantelerlass über die Anpassung von Ausführungsbestimmungen im Steuerbereich vom 26. November 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 38),
+- AB über die Nachführung zum Nachtrag zum Steuergesetz 2026 vom 25. November 2025, in Kraft seit 1. Januar 2026 (OGS 2025, 22)
 Anhänge
 Anhang 1 : Pauschalansätze für Berufskosten
