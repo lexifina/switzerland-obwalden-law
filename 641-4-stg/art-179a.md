@@ -1,2 +1,3 @@
 # Art. 179a Amtshilfe der Steuerbehörde
 1 Die Steuerverwaltung erteilt den Verwaltungs- und Gerichtsbehörden sowie deren Durchführungsorganen auf Ersuchen hin alle erforderlichen Auskünfte, soweit hierfür ein vorrangiges öffentliches Interesse besteht und soweit diese Behörden die Auskünfte zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.
+2 Die Steuerverwaltung erstattet dem Handelsregister Meldung, falls innert drei Monaten nach Ablauf der entsprechenden Fristen von der juristischen Person gemäss Art. 191 Abs. 2 Bst. a dieses Gesetzes keine unterzeichnete Jahresrechnung eingereicht wurde.
