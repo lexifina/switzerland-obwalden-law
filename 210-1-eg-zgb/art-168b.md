@@ -12,5 +12,5 @@ h. erleichterte Löschung zweifelsfrei bedeutungsloser Einträge (976);
 i. Löschung anderer Einträge (976a und 976b);
 k. Einführung des Grundbuches (Art. 38 ff. SchlT ZGB);
 l. Durchführung des öffentlichen Bereinigungsverfahrens (976c).
-3 Das Grundbuchamt veröffentlicht im Amtsblatt, ausgenommen in der elektronischen Fassung im Internet, den Erwerb von Grundstücken.
+3 Das Grundbuchamt veröffentlicht im Amtsblatt den Erwerb von Grundstücken.
 4 Die Mitarbeiter des Grundbuchamts und der Grundbuchbereinigung sind gegenüber dem Kanton für den Schaden verantwortlich, der durch ihr Verschulden in der Grundbuchführung entsteht.
