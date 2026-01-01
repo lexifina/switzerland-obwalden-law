@@ -1,8 +1,8 @@
 ## 1 Allgemeine Bestimmungen
 ## 2 Zuständigkeiten
 ## 3 Arbeitsverhältnis
-### 3.1 Begründung
-### 3.2 Befristete Arbeitsverhältnisse
+### 3.1 Rahmenlehrvertrag
+### 3.2 Assistierende und wissenschaftliche Mitarbeitende
 ### 3.3 Bandbreitenverträge für Dozierende
 ### 3.4 Besoldungen Dozierende
 ### 3.5 Funktionszulagen
