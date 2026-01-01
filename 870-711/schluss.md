@@ -1,6 +1,4 @@
 Informationen zum Erlass
-Ursprüngliche Fundstelle: OGS 2010, 71
-Ursprüngliches Inkrafttreten: 1. Januar 2011
-Geändert durch:
-- Ausführungsbestimmungen über das Konsolidierung- und Aufgabenüberprüfungspaket vom 8. November 2016 (OGS 2016, 64),
-- Nachtrag vom 14. August 2017, in Kraft seit 1. Januar 2018 (OGS 2017, 45)
+Ursprüngliche Fundstelle: OGS 2025, 16
+Ursprüngliches Inkrafttreten: 1. Januar 2026
+Aufgehobener Erlass: AB über die Beiträge in der familienergänzenden Kinderbetreuung vom 9. November 2010 (OGS 2010, 71, OGS 2016, 64, OGS 2017, 45)
