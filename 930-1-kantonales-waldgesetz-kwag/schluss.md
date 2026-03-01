@@ -14,6 +14,7 @@ Aufgehobene Erlasse:
 - Regierungsratsbeschluss über den Eid der Forstbeamten und Forstangestellten vom 23. April 1878 (OGS 1899, 7),
 - Regierungsratsbeschluss über die Bekämpfung der Borkenkäfergefahr in den Waldungen vom 26. Februar 1948 (OGS 1950, 71)
 Geändert durch:
-- Nachtrag vom 23. Mai 2024 (OGS 2024, 7), Botschaft und Vorlage des Regierungsrats vom 23. Januar 2024, Kantonsratssitzungen vom 14. März und 23. Mai 2024 (22.24.02), in Kraft seit 1. Januar 2025 (OGS 2024, 18)
+- Nachtrag vom 23. Mai 2024 (OGS 2024, 7), Botschaft und Vorlage des Regierungsrats vom 23. Januar 2024, Kantonsratssitzungen vom 14. März und 23. Mai 2024 (22.24.02), in Kraft seit 1. Januar 2025 (OGS 2024, 18),
+- Planungs- und Baugesetz vom 4. Dezember 2025 (OGS 2026, 002), Botschaft und Vorlage des Regierungsrats vom 29. April 2025, Kantonsratsitzungen vom 23. Oktober und 4. Dezember 2025 (22.25.05), in Kraft seit 1. März 2026
 Anhänge
 Anhang 1 : Beiträge im Rahmen von Programmvereinbarungen Anhang 2: Beiträge im Rahmen von Einzelprojekten

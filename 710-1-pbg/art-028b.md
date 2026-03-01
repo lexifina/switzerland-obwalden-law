@@ -1,5 +1,0 @@
-# Art. 28b Mehrwertabgabe bei Neueinzonungen
-1 Die Mehrwertabgabe gleicht Vorteile aus, die durch neue und dauerhafte Zuweisung von Boden zu Bauzonen entstehen. Eine Umzonung innerhalb der Bauzone ist der Einzonung gleichgestellt, wenn das Grundstück vor der Umzonung in einer Zone lag, die das Bauen einschränkt oder nur für öffentliche Zwecke zulässt.
-2 Die Höhe der Abgabe beträgt 20 Prozent des planungsbedingten Bodenmehrwerts.
-3 Der planungsbedingte Bodenmehrwert bemisst sich nach der Differenz zwischen dem Landwert unmittelbar vor und jenem nach der rechtskräftigen Zuweisung zu einer Bauzone.
-4 Mit der Genehmigung der Planänderung stellt der Regierungsrat die Abgabepflicht fest und lässt diese im Grundbuch anmerken.

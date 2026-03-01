@@ -1,2 +1,0 @@
-# Art. 36a Massgebendes Terrain
-1 Als massgebendes Terrain gilt der natürlich gewachsene Geländeverlauf. Kann dieser infolge früherer Abgrabungen und Aufschüttungen nicht mehr festgestellt werden, ist vom natürlichen Geländeverlauf der Umgebung auszugehen. Aus planerischen oder erschliessungstechnischen Gründen kann das massgebende Terrain in einem Planungs- oder im Baubewilligungsverfahren abweichend festgelegt werden.

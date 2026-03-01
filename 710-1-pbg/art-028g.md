@@ -1,4 +1,0 @@
-# Art. 28g Gesetzliches Grundpfandrecht
-1 Die Forderung aus der Mehrwertabgabe entsteht im Zeitpunkt der Rechtskraft der Planänderung.
-2 Zur Sicherung der Forderung und der Verzugszinsen aus der Erhebung der Mehrwertabgabe steht dem Gemeinwesen am betroffenen Grundstück ab Rechtskraft der Planänderung ohne Eintragung im Grundbuch ein gesetzliches Pfandrecht zu, das allen eingetragenen Belastungen vorgeht (Art. 836 Abs. 2 ZGB).
-3 Die zuständige kantonale Behörde meldet das Grundpfandrecht dem Grundbuchamt zur Eintragung an, sobald die Festsetzungsverfügung rechtskräftig geworden ist. Wird der Mehrwert vertraglich abgeschöpft, ist das Grundpfandrecht sogleich nach Eintritt der Rechtskraft der Planänderung durch den Kanton bzw. die Gemeinde zur Eintragung anzumelden.
