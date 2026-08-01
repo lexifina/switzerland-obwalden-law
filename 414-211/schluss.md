@@ -5,6 +5,8 @@ geändert durch
 - Nachtrag vom 26. Januar 2016, in Kraft seit 1. August 2016 (OGS 2016, 10),
 - Nachtrag vom 8. November 2016, in Kraft seit 1. Januar 2017 (OGS 2016, 65),
 - Nachtrag vom 4. Februar 2020 (neu mit Anhang), in Kraft seit 1. August 2021 (OGS 2020, 5),
-- Nachtrag vom 15. März 2022, in Kraft seit 1. August 2022 (OGS 2022, 7)
+- Nachtrag vom 15. März 2022, in Kraft seit 1. August 2022 (OGS 2022, 7),
+- Nachtrag vom 5. November 2024, in Kraft seit 1. August 2026 (OGS 2024, 32),
+- Mantelerlass über die Änderung von Ausführungsbestimmungen im Bildungsbereich vom 23. März 2026, in Kraft seit 1. August 2026 (OGS 2026, 9)
 Anhänge
-Anhang 414.211 : Stundentafel
+Anhang 414.211 : Stundentafel 2024

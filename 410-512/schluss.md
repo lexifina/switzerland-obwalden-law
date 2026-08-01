@@ -5,4 +5,5 @@ geändert durch:
 - Nachtrag vom 7. Juni 2016, in Kraft seit 1. Juli 2016 (OGS 2016, 40),
 - Nachtrag vom 5. Februar 2019, in Kraft seit 1. Juli 2019 (OGS 2019, 15),
 - Nachtrag vom 7. Juni 2022, in Kraft seit 1. August 2022 (OGS 2022, 17),
-- Nachtrag vom 4. Juni 2024, in Kraft seit 1. August 2024 (OGS 2024, 9)
+- Nachtrag vom 4. Juni 2024, in Kraft seit 1. August 2024 (OGS 2024, 9),
+- Mantelerlass über die Änderung von Ausführungsbestimmungen im Bildungsbereich vom 23. März 2026, in Kraft seit 1. August 2026 (OGS 2026, 9)
