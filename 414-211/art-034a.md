@@ -1,0 +1,2 @@
+# Art. 34a Übergangsbestimmung zum Nachtrag vom 5. November 2024
+1 Die gestützt auf Artikel 15 erlassenen neuen Lehrpläne und Stundentafel gelten ab Schuljahr 2026/2027 erstmals für die erste bis dritte Klasse und werden einleitend eingeführt. Die per 1. August 2026 vierten bis sechsten Klassen beenden ihren Maturitätslehrgang nach der bisherigen Stundentafel 2020 sowie nach den bisherigen Lehrplänen 2021/2022.
