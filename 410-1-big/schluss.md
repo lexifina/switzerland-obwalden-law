@@ -10,6 +10,7 @@ geändert durch
 - den Anhang zum Nachtrag zum Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 3. Mai 2012, in Kraft seit 1. Januar 2013 (OGS 2012, 29 und 43),
 - Kulturgesetz vom 10. März 2016 (OGS 2016, 17), Botschaft und Vorlage des Regierungsrats vom 23. Juni 2015, Kantonsratssitzungen vom 28. Januar und 10. März 2016 (22.15.04), in Kraft seit 1. Juli 2016 (OGS 2016, 23),
 - Nachtrag vom 29. Juni 2018 (OGS 2018, 26), Botschaft und Vorlage des Regierungsrats vom 27. März 2018, Kantonsratssitzungen vom 25. Mai und 29. Juni 2018 (22.18.04), in Kraft seit 1. September 2018, 1. August 2019 und 1. Januar 2020 (OGS 2018, 28),
-- Nachtrag vom 28. Juni 2019 (OGS 2019, 32), Botschaft und Vorlage des Regierungsrats vom 9. April 2019, Kantonsratssitzungen vom 23. Mai und 28. Juni 2019 (22.19.05), in Kraft seit 1. Januar 2020 (OGS 2019, 40)
+- Nachtrag vom 28. Juni 2019 (OGS 2019, 32), Botschaft und Vorlage des Regierungsrats vom 9. April 2019, Kantonsratssitzungen vom 23. Mai und 28. Juni 2019 (22.19.05), in Kraft seit 1. Januar 2020 (OGS 2019, 40),
+- Nachtrag vom 22. Mai 2025 (OGS 2025, 7), Botschaft und Vorlage des Regierungsrats vom 10. Dezember 2024, Kantonsratssitzungen vom 20. März und 22. Mai 2025 (22.24.08), angenommen an der Volksabstimmung vom 30. November 2025, mit Ausnahme von Art. 66b und Art. 121 Abs. 7 Bst. a2 sowie Art. 42 Abs. 3, Art. 51 Abs. 3 und Art. 121 Abs. 2 Bst. c1 in Kraft seit 1. August 2026. Art. 66b und Art. 121 Abs. 7 Bst. a2 treten am 1. Januar 2027 in Kraft, Art. 42 Abs. 3, Art. 51 Abs. 3 und Art. 121 Abs. 2 Bst. c1 am 1. Januar 2028 (ABl vom 2. April 2026).
 Anhänge
-Anhang 1: Anhang: Die Gliederung des Bildungswesens
+Anhang 1 : Ausser Kraft

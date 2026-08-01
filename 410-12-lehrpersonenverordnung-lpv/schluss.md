@@ -16,6 +16,7 @@ geändert durch
 - Nachtrag vom 20. September 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 31 und 35),*
 - Nachtrag vom 17. Oktober 2023, in Kraft seit 1. Janaur 2024 (OGS 2023, 32), *
 - Nachtrag zum Staatsverwaltungsgesetz vom 31. Oktober 2024 (OGS 2024, 27), Botschaft und Vorlage des Regierungsrats vom 25. Juni 2024, Kantonsratssitzung vom 31. Oktober 2024 (22.24.06), in Kraft seit 1. Januar 2025 (OGS 2024, 39),
+- Nachtrag zum Bildungsgesetz vom 22. Mai 2025 (OGS 2025, 7), Botschaft und Vorlage des Regierungsrats vom 10. Dezember 2024, Kantonsratssitzungen vom 20. März und 22. Mai 2025 (22.24.08), angenommen an der Volksabstimmung vom 30. November 2025, in Kraft seit 1. August 2026 (ABl vom 2. April 2026),
 - Nachtrag vom 16. September 2025, in Kraft seit 1. Januar 2026 (OGS 2025, 26 und 34 [Korrigendum]) *
 * Änderung des Anhangs 2 durch den Regierungsrat
 ** Änderung des Anhangs 3 durch den Regierungsrat
