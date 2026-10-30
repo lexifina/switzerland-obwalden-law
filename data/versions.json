@@ -1,0 +1,3633 @@
+{
+ "country": "CH-OW",
+ "acts": [
+  {
+   "slug": "101-0-kantonsverfassung-kv",
+   "short": "Kantonsverfassung, KV",
+   "title": "Verfassung des Kantons Obwalden",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/101.0",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 127,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/101.0/versions/970",
+     "sha256": "b73ee1ec67fac23edce07c9e98d8f34f9334586d4e2e2e5ebf70e75f0f60a849"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 127,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/101.0",
+     "sha256": "67718636e1f88a8c244d4965224e8f301091660ddb1feef5a8c9c91f091ef3de"
+    }
+   ]
+  },
+  {
+   "slug": "111-2-burgerrechtsgesetz-brg",
+   "short": "Bürgerrechtsgesetz, BRG",
+   "title": "Gesetz über den Erwerb und den Verlust des Kantons- und Gemeindebürgerrechts",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/111.2",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 37,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/111.2/versions/144",
+     "sha256": "f54e8260bf03508b0bf63d170d1d4772eda9199f31eb266a48330cbf2b9bb586"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 45,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/111.2/versions/1643",
+     "sha256": "0771bb0ea155b0b4062b73a3ed53102e8a0b1dd8a1db89b8854ac15ce2fc3c24"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 45,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/111.2",
+     "sha256": "f29da5258111053bbc918617a44c4c0a82c7272f2f99fce29ef8db74c2821f0e"
+    }
+   ]
+  },
+  {
+   "slug": "122-1-abstimmungsgesetz-ag",
+   "short": "Abstimmungsgesetz, AG",
+   "title": "Gesetz über die Ausübung der politischen Rechte",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/122.1",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 89,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/122.1/versions/833",
+     "sha256": "6a965869a0bd6d870233019a3f1ba52ee8cd71459a9a539c018ad3c607d55cdd"
+    },
+    {
+     "from": "2015-03-01",
+     "units": 89,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/122.1/versions/924",
+     "sha256": "04668e668b420e182ff400be430b620b932874aa681d1eaac86975bf33feb7c1"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 92,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/122.1/versions/1647",
+     "sha256": "226139ed1d8cfdf6ac0d04b72d30c2c042ca348640e718e567c6a9c42565490a"
+    },
+    {
+     "from": "2023-03-01",
+     "units": 92,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/122.1",
+     "sha256": "1b6a515b9e51f7d117af654e0ae976dc46e795e4c22e1441ee44fe4bd13a1fa2"
+    }
+   ]
+  },
+  {
+   "slug": "122-2-proporzgesetz-pg",
+   "short": "Proporzgesetz, PG",
+   "title": "Gesetz über die Wahl des Kantonsrates",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/122.2",
+   "versions": [
+    {
+     "from": "2001-05-01",
+     "units": 29,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/122.2/versions/107",
+     "sha256": "1ba006e8b8f177b3e3553b4f4e16d2df5633e36962f5646fe5a6461985ac3955"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 29,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/122.2",
+     "sha256": "62f9864941b75bc369ec67b1dd1a864a6d739d756972584a8f41c8fe25189471"
+    }
+   ]
+  },
+  {
+   "slug": "122-3",
+   "short": "GDB 122.3",
+   "title": "Gesetz über die Einführung des Frauenstimm- und -wahlrechts",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/122.3",
+   "versions": [
+    {
+     "from": "1972-09-24",
+     "units": 4,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/122.3",
+     "sha256": "3e9817957bfa25b836ffcdc4320980f1f6e0e0c004b055dbc8c18a94edcc4dd6"
+    }
+   ]
+  },
+  {
+   "slug": "130-1-stvg",
+   "short": "StVG",
+   "title": "Staatsverwaltungsgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/130.1",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 74,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/130.1/versions/564",
+     "sha256": "b429111ae2d631c3fa02744200fd6a2cbfba7982b1af563cda303677501c9253"
+    },
+    {
+     "from": "2015-03-01",
+     "units": 74,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/130.1/versions/1163",
+     "sha256": "ffb2f0a25a1b974925123577e01abb11617bb4fde77f8404659e54c4fdfb8811"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 74,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/130.1/versions/1336",
+     "sha256": "95af316071a6f316a2be8426bc9bc22bc4214255ee6f4aff7e2e377344f551ef"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 74,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/130.1/versions/1650",
+     "sha256": "e4d33392b6996b7e9eeb2477ca0277f250f2808eacc8bc5d43079949217e063b"
+    },
+    {
+     "from": "2023-03-01",
+     "units": 74,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/130.1/versions/1782",
+     "sha256": "df88c553b27dd83374513e8826b8e2f64ab26646e9aee2766cbc33ba2d9b94e7"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 74,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/130.1",
+     "sha256": "5b0fc787a37371e87acc1f7c5a0fd6237b94f83b644f68302c4df6a3b0f62171"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 74,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/130.1/versions/2031",
+     "sha256": "4cb353ca69761ed9ffd85fbcc2d57f7d486a6a6a8178069020f73d5f8667b84d"
+    }
+   ]
+  },
+  {
+   "slug": "130-3-hg",
+   "short": "HG",
+   "title": "Haftungsgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/130.3",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 25,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/130.3/versions/219",
+     "sha256": "882f7638c76ab9d8403d989dfaeee5481cf2d36eb1509695260c9ec1ccde4541"
+    },
+    {
+     "from": "2015-03-01",
+     "units": 25,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/130.3",
+     "sha256": "2f0c0a55d65d3bdf5f7d7f54f05d042475676e4778f655d03fed9c5207f99ab7"
+    }
+   ]
+  },
+  {
+   "slug": "130-4-behordengesetz-behg",
+   "short": "Behördengesetz, BehG",
+   "title": "Gesetz über die Entlöhnung und Entschädigung von Behörden und Kommissionen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/130.4",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 22,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/130.4/versions/81",
+     "sha256": "404f1a1662a3233d5768b0967b2d13bd48406f9ba9f7680ae557bc7104ea8131"
+    },
+    {
+     "from": "2018-07-01",
+     "units": 22,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/130.4/versions/1294",
+     "sha256": "17684c5eec79b472683c2329d6c506aac95e63888b976f56ad4486b98176aa5e"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 22,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/130.4/versions/1653",
+     "sha256": "20664df0f8344b2192656b458312bc8dd43788887e4b6ec64ee1aac2dbd47950"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 22,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/130.4",
+     "sha256": "093d70c6900cdf53e7f96497990157f450ca7d5ea8f2b5cd7eb72df54d85c565"
+    }
+   ]
+  },
+  {
+   "slug": "131-1-publikationsgesetz-kpublg",
+   "short": "Publikationsgesetz, kPublG",
+   "title": "Gesetz über das Amtsblatt und die Gesetzessammlungen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/131.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 26,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/131.1/versions/82",
+     "sha256": "b7825a71dfa5db08a231a579340ce72850f5b95caa86135db95632a5ce8f2c53"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 26,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/131.1/versions/1654",
+     "sha256": "165f3b9af1f52019b24edbfa8c1c32981384123ff1e1682f3c8b4cabf2bae38d"
+    },
+    {
+     "from": "2023-03-01",
+     "units": 26,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/131.1/versions/1783",
+     "sha256": "67599e3f4bca7437b2db004ef439b5e26e2f8451cc734a9ad364020d4ec09d66"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 21,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/131.1",
+     "sha256": "483dfff99c7d3e4c28db5f75783c40973aa67c87fe609988dd93c46e3c8afc1d"
+    }
+   ]
+  },
+  {
+   "slug": "131-3-offentlichkeitsgesetz-oeg",
+   "short": "Öffentlichkeitsgesetz, OeG",
+   "title": "Gesetz über das Öffentlichkeitsprinzip",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/131.3",
+   "versions": [
+    {
+     "from": "2023-03-01",
+     "units": 16,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/131.3",
+     "sha256": "25d1d7a65b25cc825f016cd7943db31231005aa53746bb93da4ef00af01d7292"
+    }
+   ]
+  },
+  {
+   "slug": "131-4-kantonales-registerharmonisierungsgesetz-krhg",
+   "short": "kantonales Registerharmonisierungsgesetz, kRHG",
+   "title": "Gesetz über die Harmonisierung der amtlichen Register",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/131.4",
+   "versions": [
+    {
+     "from": "2009-01-15",
+     "units": 19,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/131.4/versions/1655",
+     "sha256": "bbbea693a08d817288676061f630d250b7355dcbd06678b86220f70e6f2d0e05"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 21,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/131.4/versions/1827",
+     "sha256": "429eb9b54aa15e37522affd83b4ca610e404addf4e980f462b237c3d719435a0"
+    },
+    {
+     "from": "2026-03-01",
+     "units": 21,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/131.4",
+     "sha256": "00ce070299bc86e44245def974425c41d10cfb258c49ebcdcc60b6eff101970e"
+    }
+   ]
+  },
+  {
+   "slug": "131-5-kgeoig",
+   "short": "kGeoIG",
+   "title": "Geoinformationsgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/131.5",
+   "versions": [
+    {
+     "from": "2011-09-01",
+     "units": 27,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/131.5",
+     "sha256": "c648d829ff2e0ebdc0f4f5299393b8d0630a19440cf576c03b6c80ff3aa8512a"
+    }
+   ]
+  },
+  {
+   "slug": "132-1-kantonsratsgesetz-krg",
+   "short": "Kantonsratsgesetz, KRG",
+   "title": "Gesetz über den Kantonsrat",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/132.1",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 71,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/132.1/versions/86",
+     "sha256": "85742eaebef740be018d931ac0e694d6d38590b49244f76da72de7f07ae3b923"
+    },
+    {
+     "from": "2015-03-01",
+     "units": 71,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/132.1/versions/925",
+     "sha256": "6cdd388561d4ff468ee441a89a92655bbb137a1b2f3ef71ad6acb92f8cb0009f"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 71,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/132.1/versions/1652",
+     "sha256": "8bb31276106a838de7924b3172e6f390e8934dd37b4d2364da0e9e8f775a7349"
+    },
+    {
+     "from": "2023-03-01",
+     "units": 71,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/132.1",
+     "sha256": "17d1cee2df89920fb718d69e787e0e25b1336463d444cd02d975dad8efe704e1"
+    }
+   ]
+  },
+  {
+   "slug": "134-1-gog",
+   "short": "GOG",
+   "title": "Gesetz über die Gerichtsorganisation",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/134.1",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 117,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.1/versions/861",
+     "sha256": "c3a4e081f1adcd4b326f1b7527240bdf276d4bcb8f5ebdc7d0c1a12d23c7e3d0"
+    },
+    {
+     "from": "2015-03-01",
+     "units": 120,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.1/versions/933",
+     "sha256": "9501b5daf5f2cd17ae3feef468992c1c1acff27a2503acee6190e72b19208d63"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 121,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.1/versions/1456",
+     "sha256": "29729c50b0c0f44b8e2475bfe8bb696d473e78c3cb6dfd7d1139d44ecd29df88"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 121,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.1",
+     "sha256": "04ccd1c5460f0edfc774002fa9aa4ce22ab84dce33e07436f7246c99ab188e88"
+    }
+   ]
+  },
+  {
+   "slug": "134-4-anwg",
+   "short": "AnwG",
+   "title": "Gesetz über die Ausübung des Anwaltsberufes",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/134.4",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 31,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.4",
+     "sha256": "d3445ac0d2db2cb18da62b476adcefe6e4336e8455da4e60e44ca594d79cf620"
+    }
+   ]
+  },
+  {
+   "slug": "137-1-datenschutzgesetz-kdsg",
+   "short": "Datenschutzgesetz, kDSG",
+   "title": "Gesetz über den Datenschutz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/137.1",
+   "versions": [
+    {
+     "from": "2008-11-01",
+     "units": 22,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/137.1/versions/1736",
+     "sha256": "bab8b24d2091287adb662384fdf087d9796f7ff2de8aeb203cbc9d47c82041c3"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 25,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/137.1",
+     "sha256": "6315e9746314c685bb63e175ac4eaeb7969956409b057d6065d07ae5668bb581"
+    }
+   ]
+  },
+  {
+   "slug": "210-1-eg-zgb",
+   "short": "EG ZGB",
+   "title": "Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/210.1",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 132,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/210.1/versions/222",
+     "sha256": "a78767b308d574ba6e01f3ec17c80ad1e7dc723f74c561f571941e5bb68836a0"
+    },
+    {
+     "from": "2015-03-01",
+     "units": 132,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/210.1/versions/918",
+     "sha256": "f5461717d03dba11491dba145aca2765f72c3b215a6847bb6414f394a25f99cb"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 132,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/210.1/versions/1109",
+     "sha256": "d5098a5b9ae2adb2adb859de520600e3b82f290ceb67ab3510d9f5991d6bea4b"
+    },
+    {
+     "from": "2017-06-01",
+     "units": 132,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/210.1/versions/1216",
+     "sha256": "896db9037b8345a390e8e50fc0d9f2830466a685fa1c860223c665b8e217382d"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 132,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/210.1/versions/1554",
+     "sha256": "c9e8f04f1e5ef5d74df240276180d8f063274f5cd14cd254d34f8c6d2a7cd6ab"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 140,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/210.1/versions/1939",
+     "sha256": "e9e6d230fca31b25a295d0cc9113eb24fa9fcbbf093f15e54dcef202b9cd3d93"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 140,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/210.1/versions/1950",
+     "sha256": "2a0d9431e01ea6a019b04d2449a62b84c992d68aa9a734dd025de728ab432278"
+    },
+    {
+     "from": "2026-03-01",
+     "units": 139,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/210.1",
+     "sha256": "bb84a1b2b2063b466be44f2b4a287e73102513e0e98a1c16899d5dec4cdfbaf4"
+    }
+   ]
+  },
+  {
+   "slug": "210-2",
+   "short": "GDB 210.2",
+   "title": "Gesetz betreffend Ergänzung des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/210.2",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 17,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/210.2/versions/708",
+     "sha256": "3cdc0e410dea1652c9b434d4611ec36f35e7ddec42e26cac032f1e1efec45c7c"
+    },
+    {
+     "from": "2017-06-01",
+     "units": 17,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/210.2",
+     "sha256": "ece817d6af949c90bf407fcfb43c76952cb2df4fa39743eafaf22218ac972935"
+    }
+   ]
+  },
+  {
+   "slug": "210-3-beurkundungsgesetz-beurkg",
+   "short": "Beurkundungsgesetz, BeurkG",
+   "title": "Gesetz über die öffentliche Beurkundung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/210.3",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 45,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/210.3/versions/161",
+     "sha256": "2dd68ff1bacd31e1412b5efc563ef708058edfa014d5693c302867ecca7568cf"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 45,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/210.3",
+     "sha256": "6f2e7ead5a6ba54063644e29a783716a43ce11f8cbcd5f37f8bc88a3a16f48d6"
+    }
+   ]
+  },
+  {
+   "slug": "211-4-eg-partg",
+   "short": "EG PartG",
+   "title": "Einführungsgesetz zum Partnerschaftsgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/211.4",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/211.4",
+     "sha256": "973e45c0b2afdde3fec0359cb85978e53665e9ef78c50e5ce99346b9a5c9247a"
+    }
+   ]
+  },
+  {
+   "slug": "213-7-schatzungs-und-grundpfandgesetz",
+   "short": "Schätzungs- und Grundpfandgesetz",
+   "title": "Gesetz über die amtliche Schätzung der Grundstücke und das Grundpfandrecht",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/213.7",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 28,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.7/versions/190",
+     "sha256": "104f26bd9f7fb117270714a3d034a579d3cab452d59d5fdca38695df789ffd77"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 29,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.7/versions/981",
+     "sha256": "48374bd806fab2be35c8685a40f61cc25f9e068b57ffa5b903fdd55bb1ac017a"
+    },
+    {
+     "from": "2017-06-01",
+     "units": 29,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.7/versions/1366",
+     "sha256": "79a1a72e8e7b64cd14dd81b3ec37498117f51f86604ab8d2d92974f0cae2e39f"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 30,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.7/versions/1555",
+     "sha256": "4efc307462ee2adf1eabb120600716686c7ab188f87b9320433a3417b9b38a97"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 30,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.7",
+     "sha256": "2df89da710312c6b6eebd1d748c6e1df6b3af76b7c468785d5cc5638471b7113"
+    }
+   ]
+  },
+  {
+   "slug": "310-1-kstr",
+   "short": "kStR",
+   "title": "Gesetz über das kantonale Strafrecht",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/310.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 32,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/310.1",
+     "sha256": "c2f899dd3fba48d030e5d4d5d5bae6c346669c513d7795bcc3522fc1d8f715bd"
+    }
+   ]
+  },
+  {
+   "slug": "410-1-big",
+   "short": "BiG",
+   "title": "Bildungsgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/410.1",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 138,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.1/versions/211",
+     "sha256": "9c892aef1ef3a7f32356153c4734d1ab82c385bec9970db4acec0189c643de95"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 138,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.1/versions/1081",
+     "sha256": "17f2608dbb94913fbe99b3281bcc7f9b07ee439e546516b5b190f121783ce84f"
+    },
+    {
+     "from": "2018-09-01",
+     "units": 138,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.1/versions/1301",
+     "sha256": "0a87420519c600325afbe328e503e9ec94529e3a98be4cd6ba1db19538d49468"
+    },
+    {
+     "from": "2019-08-01",
+     "units": 138,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.1/versions/1307",
+     "sha256": "7e85974ffca680d577ce5893f22bc85c1a21dbe3fdcc09874094f745d3ae572c"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 138,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.1/versions/1712",
+     "sha256": "6cc2bf8de8a220c61fd94a91e7b9838ea761272f7c6024ce7ff7c1d2ab86fd37"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 139,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.1",
+     "sha256": "d81e991fadab0dba9a8b67dc3a66f6ae148efa1559bd0872540eaf37de50506b"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 140,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.1/versions/2014",
+     "sha256": "09977f0b6deb1124117517458cffe785bde281bb617a528941bbfd4227cf2c9a"
+    }
+   ]
+  },
+  {
+   "slug": "418-1",
+   "short": "GDB 418.1",
+   "title": "Sportförderungsgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/418.1",
+   "versions": [
+    {
+     "from": "2011-08-01",
+     "units": 27,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/418.1/versions/205",
+     "sha256": "f028799a25dfdeab4336589dffbdb3dbf07d64b1ed4f6b832e4dd75af7a9e4b8"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 29,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/418.1",
+     "sha256": "d6757bccd58138865aff02393ca56896deb5a2fb36c5a646bd8c4aa3053e0c31"
+    }
+   ]
+  },
+  {
+   "slug": "451-1-kug",
+   "short": "KuG",
+   "title": "Kulturgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/451.1",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 28,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/451.1/versions/1716",
+     "sha256": "a368b827aab7f12527d0cc88ff043fbf0a8a5832715611499ced12e868302df2"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 27,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/451.1",
+     "sha256": "2b6d46fb622aa315a48e3f54cd77b4e4a617008a28e761a3c78a756ee5de9edf"
+    }
+   ]
+  },
+  {
+   "slug": "510-1-polg",
+   "short": "PolG",
+   "title": "Polizeigesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/510.1",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 66,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.1/versions/567",
+     "sha256": "866147a3cecac27aa50236e328abf18df45b3cbdeb26a72479e8a935170e4c84"
+    },
+    {
+     "from": "2015-03-01",
+     "units": 75,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.1/versions/1624",
+     "sha256": "4b739240e0b44000487b44045c1faa701ee467ab7b1859a0042e62a91518a5ee"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 75,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.1",
+     "sha256": "b82d8119a788268c280c0f37588aba1d006469aa80c5710e18366dc4baf5d9f1"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 119,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.1/versions/2043",
+     "sha256": "35c21c18875d30d8f25704018bacad3517e359b900c52d7c08c94c68ca3cd72c"
+    }
+   ]
+  },
+  {
+   "slug": "510-6",
+   "short": "GDB 510.6",
+   "title": "Gesetz über den Schutz bei häuslicher Gewalt",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/510.6",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 15,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.6/versions/583",
+     "sha256": "b2c834b6e057bd9afa3d2ca146739e83d9a4f33329dc7b7c21feba875cc7e483"
+    },
+    {
+     "from": "2015-03-01",
+     "units": 15,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.6",
+     "sha256": "504ef30eeb92726b5d5be7076519966a555445adc295bda6dfb70e3cb0718a75"
+    }
+   ]
+  },
+  {
+   "slug": "540-1-kbsg",
+   "short": "kBSG",
+   "title": "Bevölkerungsschutzgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/540.1",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 19,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/540.1",
+     "sha256": "e2bf492f2d73330dbee2047e6bedbff8df1b82db76352475517243dca7462d0c"
+    }
+   ]
+  },
+  {
+   "slug": "543-1-zsg",
+   "short": "ZSG",
+   "title": "Zivilschutzgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/543.1",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 20,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/543.1",
+     "sha256": "e7ecddc070f6782ce58a81c914d0dc1477ff672ad5947c4903c1ab77e92f73d4"
+    }
+   ]
+  },
+  {
+   "slug": "546-1-feuerwehrgesetz-fewg",
+   "short": "Feuerwehrgesetz, FeWG",
+   "title": "Gesetz über den vorbeugenden Brandschutz und die Feuerwehr",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/546.1",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 44,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/546.1",
+     "sha256": "76649325ccab2f3b2075d4481cc3cef8ec3e73f737c8223874321fe59bd52c5b"
+    }
+   ]
+  },
+  {
+   "slug": "610-1-fhg",
+   "short": "FHG",
+   "title": "Finanzhaushaltsgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/610.1",
+   "versions": [
+    {
+     "from": "2012-03-01",
+     "units": 110,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/610.1/versions/563",
+     "sha256": "fc80faf1ddb18d5134658bac6eeec576986e181c9e1d8c83f42d1efd394a4785"
+    },
+    {
+     "from": "2015-07-01",
+     "units": 111,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/610.1/versions/971",
+     "sha256": "63a9354fdd32d8982d98dcde1192533114d3c5eec5ab3c29cf3ead564cb2a3ad"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 112,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/610.1/versions/1368",
+     "sha256": "a3cee104965872abe1f6892faa2690d79df8fe991c21c485cfa5954f1a870dca"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 114,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/610.1/versions/1722",
+     "sha256": "6a1ecc4abbe4be745341b9acaab7eb576c4d8a2649c0dfea6b61326c6ab24d39"
+    },
+    {
+     "from": "2023-03-01",
+     "units": 114,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/610.1",
+     "sha256": "64965c3fe14e0361dd7dff69a8117bdf06d9d599e213fb6151a31c85a6861842"
+    }
+   ]
+  },
+  {
+   "slug": "630-1-fiag",
+   "short": "FiAG",
+   "title": "Finanzausgleichsgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/630.1",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/630.1/versions/591",
+     "sha256": "b801218bb22338406b8f673e3330277e37e999775d1d73fb642629ea526c245d"
+    },
+    {
+     "from": "2017-05-01",
+     "units": 21,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/630.1/versions/1203",
+     "sha256": "737cf4b46e510084ded156b5143bdae558c182e6e760a8aa22eb494f4f3c1290"
+    },
+    {
+     "from": "2020-08-01",
+     "units": 21,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/630.1/versions/1799",
+     "sha256": "59d96fdca5dac74e1de1ba196ea22052e2de93238fab1ba064f392c04006a489"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 21,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/630.1",
+     "sha256": "8e1277d2053f6553fbc084e3c7a6ddd0488ef1da563299687cd932e9d5611f83"
+    }
+   ]
+  },
+  {
+   "slug": "641-4-stg",
+   "short": "StG",
+   "title": "Steuergesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/641.4",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 339,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/641.4/versions/860",
+     "sha256": "8c9b93e9df73ddba95b7d7356157d933f9dcc546b921b2cb1c84778811ae0d52"
+    },
+    {
+     "from": "2015-03-01",
+     "units": 339,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/641.4/versions/968",
+     "sha256": "243ef96a05903b23b3866561241e3b6969d997dcdf0ec9f883b74e5c43a774b8"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 348,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/641.4/versions/989",
+     "sha256": "70142aaee60f3f865ea1592f2e5e8e3816b7b0160d469376b54632c246802812"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 342,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/641.4/versions/1160",
+     "sha256": "60cc32904bbac8f3b65c23bf7a442b1da3fff29f9aed970de1fb362b28578e76"
+    },
+    {
+     "from": "2017-06-01",
+     "units": 342,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/641.4/versions/1221",
+     "sha256": "762c27102380d9519249f5f1441ec614c089da90909c49e42ee61ee5fae40738"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 343,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/641.4/versions/1261",
+     "sha256": "9489f57066d1c452d48632b9ab73dcd33013bb15b317021a3ab94331e9aed636"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 345,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/641.4/versions/1360",
+     "sha256": "df0e9c69ccfbab225281a459dbd974fe49ca0dbb9ca13a3e627611bcab6648f8"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 356,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/641.4/versions/1389",
+     "sha256": "9bf4dadea0c88446282aeffb74eb43d7745ecd44c9f0193c640ae7735c51280b"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 358,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/641.4/versions/1725",
+     "sha256": "17cbb2d9df5984fe291aae6140d35d8f75fb64b9302f548744fdd88f548b193d"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 359,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/641.4/versions/1836",
+     "sha256": "a7a287649b6aa49a4b3bff07e19c78f3af215ebaa501e379349adb55c4c67e84"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 359,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/641.4/versions/1904",
+     "sha256": "e50f381e25a3a7ac4109499104c71ffb6e3f115669065b9d5966503340def47f"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 359,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/641.4",
+     "sha256": "8b9e2e2e725ddebe9562b8646efd7a4b37a5d4bafdca0d4e3903d683cec3a1ce"
+    }
+   ]
+  },
+  {
+   "slug": "643-1-agg",
+   "short": "AGG",
+   "title": "Allgemeines Gebührengesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/643.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 29,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/643.1/versions/565",
+     "sha256": "fb556cd7e1898829f35e346f07b7701e982608507321f56fd6ed7dc4e621eece"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 29,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/643.1",
+     "sha256": "f1b9eb5e1a38f822d68096ea6bd7c35a89e64578a0fadcea46e9934c374300e4"
+    }
+   ]
+  },
+  {
+   "slug": "651-1-jagdgesetz-jagdg",
+   "short": "Jagdgesetz, JagdG",
+   "title": "Gesetz über Jagd, Wild- und Vogelschutz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/651.1",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/651.1",
+     "sha256": "e963d77018b5456f7816fa87447f2eb1858be1cc14e5eff5028ec1cba6bbd37c"
+    }
+   ]
+  },
+  {
+   "slug": "651-2-fig",
+   "short": "FiG",
+   "title": "Fischereigesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/651.2",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/651.2",
+     "sha256": "3ed790f06886efe760a787184994c7c1e85d4300502fca17f1ad5fe800e42259"
+    }
+   ]
+  },
+  {
+   "slug": "661-1-kantonalbankgesetz",
+   "short": "Kantonalbankgesetz",
+   "title": "Gesetz über die Obwaldner Kantonalbank",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/661.1",
+   "versions": [
+    {
+     "from": "2006-07-01",
+     "units": 28,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/661.1/versions/138",
+     "sha256": "31cf7b55d8b45fde0b4ec1de97cbe91478397f4dc0dcb7b0463a887e0629c3f5"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 28,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/661.1",
+     "sha256": "b6b171a949f61fe73a40c850a59bf3a7bf34bc185f6236715750fe7d91e5318d"
+    }
+   ]
+  },
+  {
+   "slug": "661-2",
+   "short": "GDB 661.2",
+   "title": "Gesetz über den Bürgschaftsfonds Obwalden",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/661.2",
+   "versions": [
+    {
+     "from": "2006-07-01",
+     "units": 12,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/661.2",
+     "sha256": "08a898c8739d0182d27c6953734b55009098077f2cbe07e47111183024a28647"
+    }
+   ]
+  },
+  {
+   "slug": "663-1-ewog",
+   "short": "EWOG",
+   "title": "Gesetz über das Elektrizitätswerk Obwalden und die Stromversorgung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/663.1",
+   "versions": [
+    {
+     "from": "2011-09-01",
+     "units": 28,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/663.1/versions/137",
+     "sha256": "7f86dd5d7db1100e059eb0a8c3fd6d0983d2de887f49714d45b61a619b57b2fd"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 28,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/663.1/versions/1115",
+     "sha256": "dff05f9b63e6862ad0700ce6702a486ba8ca3cd49f9bacabfde20a5c77fa7800"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 37,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/663.1",
+     "sha256": "0573ce350f5f2eb1c773eed972d5220b764b533a842af7e173015e259180402b"
+    }
+   ]
+  },
+  {
+   "slug": "710-1-pbg",
+   "short": "PBG",
+   "title": "Planungs- und Baugesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/710.1",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 74,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/710.1/versions/83",
+     "sha256": "45f726c00b23e3b1fa8f97f494de8dc5601dd0a4d9a163c9a824179041a6b083"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 79,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/710.1/versions/1004",
+     "sha256": "27c94f31b2a04ef276bba16263bc5e78a8e2cd447ba003ff345763998e1c0fa4"
+    },
+    {
+     "from": "2016-06-01",
+     "units": 79,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/710.1/versions/1103",
+     "sha256": "3315d88a6ac1ea78b29c5c68d0b5460f1760cdb8ca3233d944d8e17e34dce9f4"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 79,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/710.1/versions/1179",
+     "sha256": "e934ead06e41173da7af437abe9c87580c029ca0cb76b7c6a150178d093449fb"
+    },
+    {
+     "from": "2017-06-01",
+     "units": 79,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/710.1/versions/1222",
+     "sha256": "b699ea29c3a8eab5a6813d9e3550830a314813f1e6fb9d9e40f4cd213fd79efe"
+    },
+    {
+     "from": "2019-05-01",
+     "units": 88,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/710.1/versions/1362",
+     "sha256": "b2383a8fa4d7fd9515afec81b29ab67fb6da1d92ef9c5d56b908a6d18405a45a"
+    },
+    {
+     "from": "2020-09-01",
+     "units": 88,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/710.1/versions/1776",
+     "sha256": "3d5c19a905d2d04bc3a4b899d246bd8577385f9e5b964faa1dba9ac3a0123616"
+    },
+    {
+     "from": "2026-03-01",
+     "units": 136,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/710.1",
+     "sha256": "0378a0e32ad4eb68e2d5a68755b26b2e5df8c80a8be4a835c64e9e4575f53f99"
+    }
+   ]
+  },
+  {
+   "slug": "720-3-kantonsstrassengesetz-ksg",
+   "short": "Kantonsstrassengesetz, KSG",
+   "title": "Gesetz über den Bau und Unterhalt der Kantonsstrassen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/720.3",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/720.3",
+     "sha256": "d563985248415db45390ad8f2a2e7217ee844b119c05d12ba1a75697b0443faa"
+    }
+   ]
+  },
+  {
+   "slug": "740-1-wasserbaugesetz-wbg",
+   "short": "Wasserbaugesetz, WBG",
+   "title": "Gesetz über den Wasserbau und die Wassernutzung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/740.1",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 61,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/740.1/versions/105",
+     "sha256": "c086e02e97afd824bcec54d443926beed625e41c2f3bdee9d045cf5a63ec8e5f"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 61,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/740.1/versions/1118",
+     "sha256": "c300eee7d19613e569c8e01401791410a5d936a4af091e4b4f5beb5c133d6ea9"
+    },
+    {
+     "from": "2017-06-01",
+     "units": 61,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/740.1/versions/1224",
+     "sha256": "d19c1506faead9b5d185c5a97c5ea0b1062200802479037ec96be9142fbadbb8"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 62,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/740.1/versions/1705",
+     "sha256": "dbf854ca937a0c5970cebbe591dee6f4ec46ab27a463275b2460119f387e9748"
+    },
+    {
+     "from": "2026-03-01",
+     "units": 63,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/740.1",
+     "sha256": "e56c3478a361c924e8f806455799bb44f5a294b8539ad77a6d0daf7cb9af4960"
+    }
+   ]
+  },
+  {
+   "slug": "740-2",
+   "short": "GDB 740.2",
+   "title": "Gesetz über die Planung, den Bau und die Finanzierung des Projekts Hochwassersicherheit Sarneraatal",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/740.2",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/740.2/versions/615",
+     "sha256": "b0e4f77f38f6c780c011a5a3d80816320e415c71e41965e3339fb83b231e02e4"
+    },
+    {
+     "from": "2014-09-28",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/740.2/versions/890",
+     "sha256": "b2c1bf73bbc45f0ff43ad3d0dac586d70e376dc06568d8623fdc5f94008c51ae"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/740.2",
+     "sha256": "9753080e225101a39c2705198faa186d14779d939641337f916430a6fa6f9755"
+    }
+   ]
+  },
+  {
+   "slug": "740-3",
+   "short": "GDB 740.3",
+   "title": "Gesetz über die Wasserbaumassnahmen an der Sarneraa Alpnach",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/740.3",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 13,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/740.3/versions/1231",
+     "sha256": "9c0ed3c7574f3e0220df6837ea6eb70db4faa91938ea64df1535f1faf0969d76"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 14,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/740.3/versions/1341",
+     "sha256": "2b5d07b0ecf2b330ccc69581bd4846e5068325876f35e6dd1557f765a06d3787"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 14,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/740.3",
+     "sha256": "c5fd2c49d7f3a1d12cbec6e9fe6ec675060c5830313fb90223ef68cb9ae7386e"
+    }
+   ]
+  },
+  {
+   "slug": "760-1-kentg",
+   "short": "kEntG",
+   "title": "Gesetz über die Zwangsenteignung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/760.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 26,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/760.1",
+     "sha256": "bf3b64ff8ace3591f1d12675a87d186111ba8a4140e949a92c9fae9f3cd5d32e"
+    }
+   ]
+  },
+  {
+   "slug": "771-1-kantonales-strassenverkehrsgesetz-eg-svg",
+   "short": "kantonales Strassenverkehrsgesetz, EG SVG",
+   "title": "Einführungsgesetz zum Bundesgesetz über den Strassenverkehr",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/771.1",
+   "versions": [
+    {
+     "from": "2009-01-15",
+     "units": 23,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/771.1",
+     "sha256": "2afae2c48e1f6b4800b15120ede07c1a33978628406dfe3153c046a1a903822f"
+    }
+   ]
+  },
+  {
+   "slug": "771-2",
+   "short": "GDB 771.2",
+   "title": "Gesetz über die Strassenverkehrssteuern",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/771.2",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 26,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/771.2/versions/127",
+     "sha256": "b4c9b214804c86056c5c4671f02feb38d9b399cef1ab26da35dbaa032e3c1abd"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 27,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/771.2/versions/1171",
+     "sha256": "feb1d27db506e16a40d86a2eae64ef6471fb867faf5a247d1cb11d915e811b07"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 28,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/771.2",
+     "sha256": "c4c33dd285065e31cb53ccc885bc445e75e925a5d6556cef339fca3e58dbb799"
+    }
+   ]
+  },
+  {
+   "slug": "772-1-ovg",
+   "short": "öVG",
+   "title": "Gesetz über die Förderung des öffentlichen Verkehrs",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/772.1",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 20,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/772.1/versions/209",
+     "sha256": "39f778a77ff1388f90e5321a8a6a5126ac43c91e1355ccfa51dfadcc3a45668b"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/772.1",
+     "sha256": "572a0229a0902c7af183c63544e80d6dbf3d4ae83e1baa26747f843f02903edb"
+    }
+   ]
+  },
+  {
+   "slug": "772-2",
+   "short": "GDB 772.2",
+   "title": "Gesetz über den Neubau der Steilrampe der zb Zentralbahn AG",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/772.2",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/772.2",
+     "sha256": "80c99e9fc91264541e43260ed6c60a94f5300cb0e3d7e5fad0f8d9a9424db0dd"
+    }
+   ]
+  },
+  {
+   "slug": "774-2",
+   "short": "GDB 774.2",
+   "title": "Gesetz über die Schiffssteuer",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/774.2",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/774.2",
+     "sha256": "e6bd052251298784ab761438aacebe0a71ddbfa55b99f5dbe983ae2b3dd80d62"
+    }
+   ]
+  },
+  {
+   "slug": "810-1-gesg",
+   "short": "GesG",
+   "title": "Gesundheitsgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/810.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 66,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/810.1/versions/94",
+     "sha256": "1e13cc5d1815d7c2d520a6e852dfa49fc213fb36eba2acf70943ed102bcc1c76"
+    },
+    {
+     "from": "2016-02-01",
+     "units": 84,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/810.1/versions/1030",
+     "sha256": "6103eb4c44d81c23b399c72c87d039db6ad967a1e3ce366a2aaf52227ef35e78"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 84,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/810.1/versions/1377",
+     "sha256": "304571a788a30f947f824f361c78bd1b41019e1920271c80695603fbf790555d"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 93,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/810.1/versions/1847",
+     "sha256": "a6535a556aaea225fba056590e9fce677c9af47f5e57a25ba50c6633edffffcf"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 87,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/810.1",
+     "sha256": "392bdab403bc82704ee780aec4571f0a1d9418f24dac7201b47109002a44b19d"
+    }
+   ]
+  },
+  {
+   "slug": "811-7-eg-ausbildungsforderung-pflege",
+   "short": "EG Ausbildungsförderung Pflege",
+   "title": "Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/811.7",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 19,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/811.7",
+     "sha256": "bdc7a9989521b7653f095d51a04985be8b4f0dcd6293fe858367a912ed2af1d5"
+    }
+   ]
+  },
+  {
+   "slug": "818-1-vetg",
+   "short": "VetG",
+   "title": "Veterinärgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/818.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 44,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/818.1/versions/95",
+     "sha256": "7e5c5545f1a361992911efeeeb81516449c46cd4abf77fb264037c7cbdf85b26"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 43,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/818.1/versions/1697",
+     "sha256": "342b59323fc4ea4c7a8a1b3a397c90beb5383ac90579359fdf21ccd34f882529"
+    },
+    {
+     "from": "2024-12-01",
+     "units": 43,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/818.1",
+     "sha256": "a1d5bfd8b6d394c5c2e59bd92c9fb8937a349617ea2970573867bc8e3572e8bd"
+    }
+   ]
+  },
+  {
+   "slug": "818-3",
+   "short": "GDB 818.3",
+   "title": "Gesetz über das Halten von Hunden und die Hundesteuer",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/818.3",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 8,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/818.3",
+     "sha256": "bd4751cee1d600ae9d4e57f07f5732a63ae6e5e49f4125712dd2a25f5ecb78ca"
+    }
+   ]
+  },
+  {
+   "slug": "830-1-spitalg",
+   "short": "SpitalG",
+   "title": "Spitalgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/830.1",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 21,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/830.1",
+     "sha256": "dfe54d6c69cad7f969a6206cdb83802e0fd08ffbb0989ebbb1f3ce2934fa5238"
+    }
+   ]
+  },
+  {
+   "slug": "851-1-eg-kvg",
+   "short": "EG KVG",
+   "title": "Einführungsgesetz zum Krankenversicherungsgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/851.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/851.1/versions/110",
+     "sha256": "c225a270be96d242bf3db6e20cbb8518a47039bba841520f870529d333aaf6f4"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/851.1/versions/1127",
+     "sha256": "d3fda3d921174ee2e585157ec60693d776c785a3274dc8e24015373717681e7a"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/851.1/versions/1371",
+     "sha256": "6ced36738624be33f3ee3a7610a9ecaccd088783c519cde63c6ce7059cea6a4b"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 12,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/851.1/versions/1694",
+     "sha256": "200bf90db0dfbbf73835f9027006ceaeb60f59da7847525fd57b529fd7ef07c1"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 13,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/851.1",
+     "sha256": "a217e5d06947fa3685900e0ab8c3382e3176536e07e22fffc4bc34bd4fbbaf5a"
+    }
+   ]
+  },
+  {
+   "slug": "853-1-eg-ahvg",
+   "short": "EG AHVG",
+   "title": "Einführungsgesetz zum Bundesgesetz über die Alters- und Hinterlassenenversicherung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/853.1",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 20,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/853.1",
+     "sha256": "3592e4919ed8c3af1cb84c11544de21998aaca203868c191a57e290f53f1199f"
+    }
+   ]
+  },
+  {
+   "slug": "853-2-kelg",
+   "short": "kELG",
+   "title": "Gesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/853.2",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 15,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/853.2/versions/595",
+     "sha256": "1446a3a8e92d9c8e8775cf03cf54c736ff0023733db0eb0ec44237bf1769053a"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 15,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/853.2/versions/1122",
+     "sha256": "0d3b3215a7e85d3bc4cb6cadcdd374153dfb04a27b90d54c2b59e39ea8a1028c"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 15,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/853.2/versions/1691",
+     "sha256": "7950ac4528159839b267c8aeea13623ee75f6f8b7447e7bd3b38bc3504a73e60"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 15,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/853.2",
+     "sha256": "d0c1c7c59deb282d1ff3f3a76266e20d6cacafe3c057b2246c4ea02fc6c2b41a"
+    }
+   ]
+  },
+  {
+   "slug": "855-2",
+   "short": "GDB 855.2",
+   "title": "Gesetz über die steuerbegünstigten Arbeitsbeschaffungsreserven",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/855.2",
+   "versions": [
+    {
+     "from": "1993-03-07",
+     "units": 12,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/855.2",
+     "sha256": "146977939d5541b25766e708c3ce349eda06b0a9d77c743542c39148cca302b5"
+    }
+   ]
+  },
+  {
+   "slug": "857-1-kfamzg",
+   "short": "kFamZG",
+   "title": "Gesetz über die Familienzulagen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/857.1",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 29,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/857.1/versions/1129",
+     "sha256": "a6151e7aeb6c70da83f3a34951bc5d313918c3756c8ef847467987e3d416d232"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 29,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/857.1",
+     "sha256": "a999fdda9a1edc2cc6169e4224869d7762fb53fda9eecf1dcec4e34a4abeb5ac"
+    }
+   ]
+  },
+  {
+   "slug": "870-1-shg",
+   "short": "SHG",
+   "title": "Sozialhilfegesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/870.1",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 35,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/870.1/versions/96",
+     "sha256": "796c2a178e70a7a4f5be8d2e56e6ad0352f69e887e2e3f608f77d546cc5d7f1a"
+    },
+    {
+     "from": "2017-04-08",
+     "units": 35,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/870.1",
+     "sha256": "d76e6fe862d112f00dd2a5da0173aa919a0206145eb94e0866773cedee734e5d"
+    }
+   ]
+  },
+  {
+   "slug": "870-7",
+   "short": "GDB 870.7",
+   "title": "Gesetz über die familienergänzende Kinderbetreuung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/870.7",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 14,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/870.7/versions/605",
+     "sha256": "5b5a1939c4c30a3cd40890d57e59ed60d6d97d6c887b346f361342b28a5fba00"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 15,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/870.7",
+     "sha256": "924264d34b1e0de5c0183362cc0a32b7f83eb482f8c81af50a2baebc342738fc"
+    }
+   ]
+  },
+  {
+   "slug": "874-1-kjfg",
+   "short": "KJFG",
+   "title": "Kinder- und Jugendförderungsgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/874.1",
+   "versions": [
+    {
+     "from": "2013-02-01",
+     "units": 26,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/874.1",
+     "sha256": "114a48222f8634cf3d496bb0915c84fab1bfe10f6f17b964540447ee03e8b276"
+    }
+   ]
+  },
+  {
+   "slug": "880-1-kweg",
+   "short": "kWEG",
+   "title": "Gesetz über die Wohnbau- und Eigentumsförderung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/880.1",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 15,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/880.1",
+     "sha256": "225b33e3d9544472f11027ac84036b55be187394631352f8bdd164ed4e49c51f"
+    }
+   ]
+  },
+  {
+   "slug": "910-1",
+   "short": "GDB 910.1",
+   "title": "Gesetz über die regionale Wirtschaftspolitik",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/910.1",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 16,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/910.1",
+     "sha256": "ccb419d0b9c4444006c0065b27e222df7d70e60e0efcfb9e09801176920c178d"
+    }
+   ]
+  },
+  {
+   "slug": "921-1-kantonales-landwirtschaftsgesetz-klwg",
+   "short": "kantonales Landwirtschaftsgesetz, kLwG",
+   "title": "Einführungsgesetz zum Bundesgesetz über die Landwirtschaft sowie zum bäuerlichen Boden- und Pachtrecht",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/921.1",
+   "versions": [
+    {
+     "from": "2008-03-01",
+     "units": 33,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/921.1/versions/184",
+     "sha256": "a489c158e3686e27bb0e2b38bbfb33581adf9c3cf163c89c747db3126af8db6e"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 33,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/921.1",
+     "sha256": "d616a1023bfb5e706c534256cd049f65f94ea4411a7ddd8e7a2895a9230aac42"
+    }
+   ]
+  },
+  {
+   "slug": "930-1-kantonales-waldgesetz-kwag",
+   "short": "kantonales Waldgesetz, kWaG",
+   "title": "Einführungsgesetz zum Bundesgesetz über den Wald",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/930.1",
+   "versions": [
+    {
+     "from": "2016-06-01",
+     "units": 41,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/930.1/versions/1596",
+     "sha256": "48d3b0cd3d1c867a0e88fd42a864b811ad3d50e696545e20806e2e0e353dcad7"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 41,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/930.1/versions/1878",
+     "sha256": "a60d3e29c2047d780a4b5e8498308afd38539a253ec38dfd1cc6a5f672aa6419"
+    },
+    {
+     "from": "2026-03-01",
+     "units": 41,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/930.1",
+     "sha256": "11676bdac57c73ddf656ca9006de2a6c84f9ece93bacdb1b62ddc295bb361081"
+    }
+   ]
+  },
+  {
+   "slug": "971-1-ggg",
+   "short": "GGG",
+   "title": "Gastgewerbegesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/971.1",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 33,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/971.1/versions/1247",
+     "sha256": "0714a88240f33628308b5bb060d207e5801bc2d149b8947c5ee8435f7d2b064d"
+    },
+    {
+     "from": "2018-09-01",
+     "units": 34,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/971.1",
+     "sha256": "438e323c69bda11b2d547a3583044b61b5e00e9b73dae217717b2824d9be07ee"
+    }
+   ]
+  },
+  {
+   "slug": "971-3-tg",
+   "short": "TG",
+   "title": "Tourismusgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/971.3",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 33,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/971.3/versions/889",
+     "sha256": "3fead80308bbdc7d1599dfb5c67efe62bca3f1a6cd07b532c23be6c22db28ae8"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 34,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/971.3",
+     "sha256": "cab0fb307de22fb568b29ecaf50160927ac1a089f3ad0ffc3f321589623013de"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 33,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/971.3/versions/2046",
+     "sha256": "8a71c4e032a902e2586882ab74630cdc6b716e006105b31349a5bc2f0d154b71"
+    }
+   ]
+  },
+  {
+   "slug": "971-4",
+   "short": "GDB 971.4",
+   "title": "Gesetz über das Campieren",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/971.4",
+   "versions": [
+    {
+     "from": "2015-03-01",
+     "units": 15,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/971.4",
+     "sha256": "ab8df075f1ffc59ded1e03e7276f262a7b7df705e3a480e4fd3d69162b1fdfc3"
+    }
+   ]
+  },
+  {
+   "slug": "975-1",
+   "short": "GDB 975.1",
+   "title": "Markt- und Reisendengewerbegesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/975.1",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 26,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/975.1/versions/212",
+     "sha256": "dfdb63c437c57992db61ca3034825f30dad89cb8a00d0865d32d55589d234514"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 21,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/975.1",
+     "sha256": "62bf31207114a0f7f41bc7f6173e15404fe005b10ea260eb6066557d4ede2106"
+    }
+   ]
+  },
+  {
+   "slug": "975-2-ruhetagsgesetz",
+   "short": "Ruhetagsgesetz",
+   "title": "Gesetz über die öffentlichen Ruhetage",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/975.2",
+   "versions": [
+    {
+     "from": "2009-08-01",
+     "units": 14,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/975.2",
+     "sha256": "7aebb5bfaeed2fe6a4b1b7946e87ae4d29bbe4b25c1a4af933a69e6325d59b81"
+    }
+   ]
+  },
+  {
+   "slug": "975-3-eg-bgs",
+   "short": "EG BGS",
+   "title": "Einführungsgesetz zum Geldspielgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/975.3",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 14,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/975.3",
+     "sha256": "eec50d83d1feba4bf80c8bf859ba9fbc6beedd9ce1bc90ea7f7477f6ef9750d2"
+    }
+   ]
+  },
+  {
+   "slug": "975-6-submissionsgesetz-submg",
+   "short": "Submissionsgesetz, SubmG",
+   "title": "Gesetz über das öffentliche Beschaffungswesen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/975.6",
+   "versions": [
+    {
+     "from": "2004-02-01",
+     "units": 15,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/975.6/versions/1676",
+     "sha256": "3d86acad9b3dc67d0fe3a6ac97ec14eaa843a51d0a395ac907094bffbb9c5a23"
+    },
+    {
+     "from": "2023-03-01",
+     "units": 16,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/975.6",
+     "sha256": "f58074609061f16efa61c96867d2adcfde85c1ddb9e72c6fecfca89762a5eac3"
+    }
+   ]
+  },
+  {
+   "slug": "111-21-burgerrechtsverordnung-brv",
+   "short": "Bürgerrechtsverordnung, BRV",
+   "title": "Verordnung zum Gesetz über den Erwerb und den Verlust des Kantons- und Gemeindebürgerrechts",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/111.21",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 31,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/111.21/versions/157",
+     "sha256": "2bbd177bbb0297008fcf195c7688b5446159737134e217d41136d537e291cb8f"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 42,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/111.21",
+     "sha256": "ec1fff240897bc7cc9b25fab7a317f6f3589a779d6f27d0299b24451fcbac724"
+    }
+   ]
+  },
+  {
+   "slug": "113-11-einwohnerregisterverordnung-erv",
+   "short": "Einwohnerregisterverordnung, ERV",
+   "title": "Verordnung über das Einwohnerregister",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/113.11",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 30,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/113.11/versions/1646",
+     "sha256": "19e51330f389a0e63a396a96460c983bdbd761007af3029cb045025301c522c1"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 30,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/113.11",
+     "sha256": "314ab98f317cabdaa6204e6af953cbd156d3a8acb18ea0dbf9f0a52593d508bc"
+    }
+   ]
+  },
+  {
+   "slug": "113-21-verordnung-zum-auslanderrecht",
+   "short": "Verordnung zum Ausländerrecht",
+   "title": "Vollziehungsverordnung zum Bundesgesetz über die Ausländerinnen und Ausländer sowie zum Asylgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/113.21",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 40,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/113.21/versions/170",
+     "sha256": "c7e1cc01881b35871c8fc4d291fec741b44933d9ae1b0047e988190605d5a1ac"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 40,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/113.21/versions/1010",
+     "sha256": "2f1b29adf6f8f33c2921ef7490b83b3229df78520f5033384108f8bebb266da0"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 41,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/113.21/versions/1595",
+     "sha256": "bef8c0803c4a58f85f819f1468b2177c53a0fb40a4d87154a334f6c86e785e01"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 41,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/113.21",
+     "sha256": "5893235f89052d25ed4007133af620dfdb3fcacb149094de010b9ba0a70cb7ab"
+    }
+   ]
+  },
+  {
+   "slug": "122-11-abstimmungsverordnung-av",
+   "short": "Abstimmungsverordnung, AV",
+   "title": "Vollziehungsverordnung zum Gesetz über die Ausübung der politischen Rechte",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/122.11",
+   "versions": [
+    {
+     "from": "2010-02-01",
+     "units": 51,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/122.11/versions/80",
+     "sha256": "9312bee6cfddb63b303c83744d324813ddfae6434fb1d4c79bfe71d0a416aac0"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 55,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/122.11",
+     "sha256": "268561c4bf581e3278a0cc9604f8ff10d3587486212ab0db3ad6bb3c5eab6313"
+    }
+   ]
+  },
+  {
+   "slug": "130-41",
+   "short": "GDB 130.41",
+   "title": "Verordnung über die Entschädigungen der nebenamtlichen Behörden und Beamten",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/130.41",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/130.41",
+     "sha256": "17f22419b73bbbdcae4e0d5d94af0031a6c412d6ff223e1714c747e25ef905fb"
+    }
+   ]
+  },
+  {
+   "slug": "131-21",
+   "short": "GDB 131.21",
+   "title": "Verordnung über das Staatsarchiv",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/131.21",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 20,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/131.21/versions/590",
+     "sha256": "8af4557524dd72b29698c4425d7abcb6aa2a4da6ce461e2a6181d8d9a1afe7e5"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 20,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/131.21/versions/1826",
+     "sha256": "304978f37fd0f9333b1007d05020dd3ec7a63cffcaf5ef96a516a310c470cd1d"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 20,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/131.21",
+     "sha256": "e08bbfe9c5c4c7c4e50bea0defa48db53f7dc3ccc6739f851370828b01d7b687"
+    }
+   ]
+  },
+  {
+   "slug": "133-11-organisationsverordnung-ov",
+   "short": "Organisationsverordnung, OV",
+   "title": "Verordnung über die Organisation des Regierungsrates und der kantonalen Verwaltung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/133.11",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 42,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/133.11/versions/90",
+     "sha256": "b55f067d65d9c83ba4d364cd1c4b1679222fc2f7ef470aa811111ab9c9d79a26"
+    },
+    {
+     "from": "2015-03-01",
+     "units": 42,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/133.11/versions/915",
+     "sha256": "b5fee5d2e48b89d68578e85153ba7c2ffd7724ac039959c71693b58e4881e586"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 42,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/133.11",
+     "sha256": "8b1190b7e5be2208ea3d48abf95e4d115f68af1ce00680f471ffb94449deab07"
+    }
+   ]
+  },
+  {
+   "slug": "133-21-verwaltungsverfahrensverordnung-vwvv",
+   "short": "Verwaltungsverfahrensverordnung, VwVV",
+   "title": "Verordnung über das Verwaltungs- und Verwaltungsbeschwerdeverfahren",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/133.21",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 44,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/133.21/versions/969",
+     "sha256": "4fa5633cc16da8769782322d7957dc356b299f1d13cb1977679ebc6fcc078823"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 44,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/133.21",
+     "sha256": "d5bf883486dadc3336faa7033916470fdb2a8df9f8c69aee46f4e49f8c8acf5b"
+    }
+   ]
+  },
+  {
+   "slug": "134-13-vwg",
+   "short": "VWG",
+   "title": "Verordnung über die Wählbarkeitsvoraussetzungen für Gerichtsbehörden und die Staatsanwaltschaft",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/134.13",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.13/versions/603",
+     "sha256": "119b9017bc3f851c237984ac4f120c339831353b10e2637f1c2b8381905e52fc"
+    },
+    {
+     "from": "2015-03-01",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.13",
+     "sha256": "59254d307838652de04239c3e8972a20770b399bc376f49ee817e5be81886323"
+    }
+   ]
+  },
+  {
+   "slug": "134-14-vgv",
+   "short": "VGV",
+   "title": "Verordnung über das Verwaltungsgerichtsverfahren",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/134.14",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 31,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.14",
+     "sha256": "fb9be9e8ffc26fd20cd17529df4573b44dc506a9307c4a4e7e70527cf96c4e25"
+    }
+   ]
+  },
+  {
+   "slug": "134-112-grk",
+   "short": "GRK",
+   "title": "Geschäftsreglement für das Kantonsgericht",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/134.112",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 25,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.112/versions/185",
+     "sha256": "d927dc9a460cdcb6211c20c76357dcf564d57a8e1e6bd0b44ab44be92efb9982"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 26,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.112/versions/624",
+     "sha256": "b39d2ddb4b1b2b541eda45c4ae9815e5f71b3fb293637f36a85c016079fe660c"
+    },
+    {
+     "from": "2018-05-17",
+     "units": 26,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.112",
+     "sha256": "98ae7adffdc31942dce3538d6469b28554d7b58d92948ffe084a916318cbd096"
+    }
+   ]
+  },
+  {
+   "slug": "134-113-rbo",
+   "short": "RBO",
+   "title": "Reglement über die Besetzung des Obergerichts",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/134.113",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 6,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.113/versions/598",
+     "sha256": "020821d5d1ace1bd25a8998df8d4b6c070b208e0c59142795f2a7a4439cd275d"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 10,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.113",
+     "sha256": "62f3489d77a82e282cff38cc17665cd9d555511430b0e597cb219f8fa0ef59fe"
+    }
+   ]
+  },
+  {
+   "slug": "134-114-gro",
+   "short": "GRO",
+   "title": "Geschäftsreglement für das Obergericht",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/134.114",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 6,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.114/versions/599",
+     "sha256": "c69326d53cd91270df3c6f0c1f1206e7d4156ee1ee2478ea679f2a73f6acfef0"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 12,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.114/versions/1093",
+     "sha256": "68d1104559b8254d7f673def2725b353bef1dc5712c41268b81bd1f493da7095"
+    },
+    {
+     "from": "2018-05-08",
+     "units": 12,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.114/versions/1288",
+     "sha256": "39e310c9dcd650278c00abb816c7c432017750ba43304b3e468df8780077dbba"
+    },
+    {
+     "from": "2021-05-01",
+     "units": 12,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.114/versions/1515",
+     "sha256": "b1ee074a9efca3be7438dce5528b15196c216d68d77e53926b50eea85fb011de"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 12,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.114",
+     "sha256": "560d2426e9478aef28debb946dfafd855c90270441cc565db7c182b3a337d32d"
+    }
+   ]
+  },
+  {
+   "slug": "134-115-rer",
+   "short": "RER",
+   "title": "Reglement über den elektronischen Rechtsverkehr",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/134.115",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 10,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.115",
+     "sha256": "b9c17114cbfc0ccdd66a4397ea5a2f041f5d48232dce7cefe0a1c97078ec2c16"
+    }
+   ]
+  },
+  {
+   "slug": "134-151-revv",
+   "short": "REVV",
+   "title": "Reglement über die Entschädigung für die unentgeltliche Verbeiständung und die amtliche Verteidigung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/134.151",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 6,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.151",
+     "sha256": "a35e384a5db967cc5248489754908fb14236d28d780576fee4438c9d427d786d"
+    }
+   ]
+  },
+  {
+   "slug": "134-411",
+   "short": "GDB 134.411",
+   "title": "Reglement betreffend die Anwaltsprüfung und das Rechtspraktikum",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/134.411",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 29,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.411/versions/173",
+     "sha256": "9ed3a174775737fbc0be2d520f8e5fb960a17246b42ec19c9738e3e88129e639"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 29,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.411",
+     "sha256": "9e5de3baf6464f7dca2b75fe7be5344a33cfd475b24cc6a04ed6ecc74bd3b19f"
+    }
+   ]
+  },
+  {
+   "slug": "141-11-pv",
+   "short": "PV",
+   "title": "Personalverordnung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/141.11",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 50,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.11/versions/89",
+     "sha256": "e914e6fc0de3bfb546db88f9813613994954c35470b7ce756a9a22c82bd6d28a"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 50,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.11/versions/1338",
+     "sha256": "e6d2b5f191846b27d68ec40aa7b241ef7237792dd6f25233e5a6499b213ba946"
+    },
+    {
+     "from": "2021-08-01",
+     "units": 51,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.11/versions/1663",
+     "sha256": "a36c8869dd652744cf4c48625380d27af7ea80a5497a28f107aa918222a3b309"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 51,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.11/versions/1918",
+     "sha256": "99298a30d0bd02fdcd22fb5627bf3cf72ac7063722ace2b3f60b685c220f69de"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 51,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.11",
+     "sha256": "f5c02d5c11d00549af4194415e6349ab60988e9fb589d3b812fa772778d5a709"
+    }
+   ]
+  },
+  {
+   "slug": "210-31-beurkundungsverordnung-beurkv",
+   "short": "Beurkundungsverordnung, BeurkV",
+   "title": "Verordnung über die öffentliche Beurkundung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/210.31",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 34,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/210.31",
+     "sha256": "8c966035b0ee329a20772089404ccbc232bc959ff41a0e60b8188e2660d6697a"
+    }
+   ]
+  },
+  {
+   "slug": "210-351",
+   "short": "GDB 210.351",
+   "title": "Reglement über die Eignungsprüfung der Notarinnen und Notare",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/210.351",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 13,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/210.351",
+     "sha256": "23e10d163f86f2b075ae69f83430e136051f9762e3aff3fe80c8557f2a1bff07"
+    }
+   ]
+  },
+  {
+   "slug": "211-11-kzstv",
+   "short": "kZStV",
+   "title": "Zivilstandsverordnung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/211.11",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 13,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/211.11/versions/607",
+     "sha256": "76e84792fc051feb1cbc6c21c66d86e2c2b39e70f68228a25eec1abf53880ad5"
+    },
+    {
+     "from": "2015-03-01",
+     "units": 14,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/211.11",
+     "sha256": "78786333d3bedcf4fcedbe246f3da30ed8447b93bc36200bc926e5556771161a"
+    }
+   ]
+  },
+  {
+   "slug": "211-61-ev-kesr",
+   "short": "EV KESR",
+   "title": "Verordnung betreffend die Einführung des Kindes- und Erwachsenenschutzrechts",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/211.61",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 36,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/211.61/versions/98",
+     "sha256": "5fdab184f00358b6575aec4cb74026551d4b3e3343c7fffdbc1490041b7aa3d7"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 36,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/211.61/versions/901",
+     "sha256": "52cd35106418e026989b31db029883a0a43d1f2a6da33ce122996b1a56fa419a"
+    },
+    {
+     "from": "2016-02-01",
+     "units": 36,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/211.61/versions/1024",
+     "sha256": "a5da5bde5004ba1c46e12534fe3d950b48b156e498e2599eabc14975aeb7fd09"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 36,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/211.61/versions/1107",
+     "sha256": "7f7d2f43ab74063fe7dd7844f2752e4c6e8c09eff77483749e3d164d205d362f"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 36,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/211.61/versions/1451",
+     "sha256": "0d489071639c969a08ebf6758f56cb06042f188ae841c0b113025b5b7ad5bde4"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 36,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/211.61/versions/1547",
+     "sha256": "9c17b575cc3e95a83bf348ef09bb0ca94182b3ad11018512553b551e262e5d21"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 38,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/211.61",
+     "sha256": "9193a843fcc8674be31df3d43b6f8fd77ffcf2f3613ac8ac278a5a84c3572b1d"
+    }
+   ]
+  },
+  {
+   "slug": "213-11-vvav",
+   "short": "VVAV",
+   "title": "Vollziehungsverordnung über die amtliche Vermessung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/213.11",
+   "versions": [
+    {
+     "from": "2011-09-01",
+     "units": 51,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.11/versions/163",
+     "sha256": "224fa22c3528ad739de5e8f099e2961963f68a36ed125dd8292cf781f8991a00"
+    },
+    {
+     "from": "2017-06-01",
+     "units": 51,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.11",
+     "sha256": "62d5b0eb845edb6b9fc773cafc75d3333076b2a1d66fbd1bb0c62dff47a6e6f0"
+    }
+   ]
+  },
+  {
+   "slug": "213-31",
+   "short": "GDB 213.31",
+   "title": "Verordnung betreffend die Viehverpfändung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/213.31",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 9,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.31",
+     "sha256": "6a90fed45f3587ae412f51bd9d53877da7f77e489bd19d8f0069daa3ff50f046"
+    }
+   ]
+  },
+  {
+   "slug": "213-51-bereinigungsverordnung",
+   "short": "Bereinigungsverordnung",
+   "title": "Verordnung über die Bereinigung der dinglichen Rechte und die Einführung des eidgenössischen Grundbuchs",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/213.51",
+   "versions": [
+    {
+     "from": "2011-09-01",
+     "units": 68,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.51/versions/159",
+     "sha256": "b303fbcc92107cbbd69349a55fc25f16f14d4963f13fe52bc922902c87cbc652"
+    },
+    {
+     "from": "2017-06-01",
+     "units": 49,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.51",
+     "sha256": "1268cf31546b659b01ddd8228eb47016c385d7670944086cc0be5c1bd1508801"
+    }
+   ]
+  },
+  {
+   "slug": "213-61-grundbuchgebuhrentarif",
+   "short": "Grundbuchgebührentarif",
+   "title": "Verordnung über die Grundbuchgebühren",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/213.61",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 20,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.61",
+     "sha256": "4a5f8e915ed19cd2d3acc9e1234c930433b107539ff17f55b8e016791a20de1b"
+    }
+   ]
+  },
+  {
+   "slug": "213-71-schatzungs-und-grundpfandverordnung",
+   "short": "Schätzungs- und Grundpfandverordnung",
+   "title": "Verordnung über die amtliche Schätzung der Grundstücke und das Grundpfandrecht",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/213.71",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 33,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.71/versions/164",
+     "sha256": "bed463c63331386a5f7f2bd07d834f34830ca572378360d02a74a064e5b388e2"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 37,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.71/versions/1102",
+     "sha256": "7e6061e63b2f015e48cad824048e99439a4ab6ba5ef266ff8d587c05d790e5a0"
+    },
+    {
+     "from": "2017-06-01",
+     "units": 35,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.71/versions/1363",
+     "sha256": "c877b0e642aa33aacbb88e86cfbd6445815b327acf9381c91e2b7014c8c48757"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 36,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.71",
+     "sha256": "88d998be5d7c908f521c46b28ab61541cc8a6cd9739b986f0cb87ff2a95d944e"
+    }
+   ]
+  },
+  {
+   "slug": "213-72",
+   "short": "GDB 213.72",
+   "title": "Verordnung über die Schätzungsgebühren",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/213.72",
+   "versions": [
+    {
+     "from": "2012-04-01",
+     "units": 9,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.72/versions/156",
+     "sha256": "ade863b964d5330606d06440aea1c76159e5939f3c5efe1a1fd1cab89f1e13b7"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 10,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.72/versions/1364",
+     "sha256": "66f239aeec36aa47401235576f1b8f9a516db8678619302e55a675172b7425c6"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 9,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.72",
+     "sha256": "714f8de3b7fccfce71dd7d1726083e973ed6dd0a40431ab863fa402f90fd1a56"
+    }
+   ]
+  },
+  {
+   "slug": "213-81",
+   "short": "GDB 213.81",
+   "title": "Vollziehungsverordnung zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/213.81",
+   "versions": [
+    {
+     "from": "1998-07-01",
+     "units": 12,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.81",
+     "sha256": "c14bb88d5fa72d2a246b6490ce536dd635ac87662afc74438dde6205bb1902f7"
+    }
+   ]
+  },
+  {
+   "slug": "220-11-ev-or",
+   "short": "EV OR",
+   "title": "Verordnung über die Einführung des Bundesgesetzes über das Obligationenrecht",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/220.11",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 38,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/220.11/versions/158",
+     "sha256": "a845fc74821644a6e698e085ef18e9d1d5ae8bbb2c921fca91b7b59933be0f26"
+    },
+    {
+     "from": "2015-03-01",
+     "units": 39,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/220.11/versions/949",
+     "sha256": "7d921ec9dcf10d92a0d32a13c5336bc570d3acd99d96b85a2dbfa0a1d5af8c6a"
+    },
+    {
+     "from": "2018-07-01",
+     "units": 32,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/220.11",
+     "sha256": "5a3c238105b0ec8759984bd1471a6643bda4c9f7f41e9d4eca555f81018fa224"
+    }
+   ]
+  },
+  {
+   "slug": "220-21",
+   "short": "GDB 220.21",
+   "title": "Versteigerungsverordnung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/220.21",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 17,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/220.21",
+     "sha256": "3cb71733b42227c4a76a9ae34e660087ea7ca8c9dd0110dfa7199cd2ec8e4760"
+    }
+   ]
+  },
+  {
+   "slug": "220-61",
+   "short": "GDB 220.61",
+   "title": "Vollzugsverordnung zum Bundesgesetz über die Anlagefonds",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/220.61",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 6,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/220.61",
+     "sha256": "02f3b49ba171c566d71b10d77e9097d19405bdb00eb85ffe34cb7e5ff3cac1a8"
+    }
+   ]
+  },
+  {
+   "slug": "310-41-kantonale-ordnungsbussenverordnung-kobv",
+   "short": "kantonale Ordnungsbussenverordnung, kOBV",
+   "title": "Verordnung über die direkte Bussenausfällung durch die Kantonspolizei und weitere Kontrollorgane",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/310.41",
+   "versions": [
+    {
+     "from": "2007-12-15",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/310.41/versions/801",
+     "sha256": "6daf1ea4fb49c45002d280bdc61081093e688df44abe0d9436597dc991441310"
+    },
+    {
+     "from": "2015-03-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/310.41",
+     "sha256": "3acf3285ba57dbbc3c1b6f19a03bb0ad077ca98c250799354901485f5e9ed6e7"
+    }
+   ]
+  },
+  {
+   "slug": "330-11-strafvollzugsverordnung-stvo",
+   "short": "Strafvollzugsverordnung, StVO",
+   "title": "Verordnung über den Straf- und Massnahmenvollzug sowie die Bewährungshilfe",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/330.11",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 43,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/330.11/versions/187",
+     "sha256": "e5b9fb7c7f52c916b8f9743180088014c1b314f079e8eac6be9482c0612a5743"
+    },
+    {
+     "from": "2015-03-01",
+     "units": 53,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/330.11/versions/948",
+     "sha256": "ffd666b03214b63c317b993c8b9bdbfd676efe8daf0d2e3666ac2f4d885fdfa1"
+    },
+    {
+     "from": "2016-02-01",
+     "units": 56,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/330.11",
+     "sha256": "b80d5b6175e03bb3f9d774cfeabeb54bc6cab7ae4a67d04718b20b2d7bbf9782"
+    }
+   ]
+  },
+  {
+   "slug": "350-11-vv-ohg",
+   "short": "VV OHG",
+   "title": "Vollziehungsverordnung zum Opferhilfegesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/350.11",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 13,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/350.11/versions/657",
+     "sha256": "4034253b101ac90314a3b27354ef167ee3f573e948aadcfff779e32dc76ae01c"
+    },
+    {
+     "from": "2015-03-01",
+     "units": 13,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/350.11",
+     "sha256": "ede2f39ad6ebde2d56745f3d8324f775b76ea7ae9789a71213ef8220fd0fc706"
+    }
+   ]
+  },
+  {
+   "slug": "410-11-biv",
+   "short": "BiV",
+   "title": "Bildungsverordnung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/410.11",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 30,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.11/versions/118",
+     "sha256": "d0b35b4e36a92506d9989beac62b7d4038d27c555a6fe595f730d1a1978a2dd0"
+    },
+    {
+     "from": "2018-09-01",
+     "units": 29,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.11/versions/1713",
+     "sha256": "12841cebd92d0181ca06e4fb8036096357efe234e1ca18864931dc00122dd445"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 30,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.11",
+     "sha256": "cdbb66809631db9396d071860321731feb4d7acbd582c54617658ce3d53edad1"
+    }
+   ]
+  },
+  {
+   "slug": "410-12-lehrpersonenverordnung-lpv",
+   "short": "Lehrpersonenverordnung, LPV",
+   "title": "Verordnung über das Anstellungsverhältnis der Lehrpersonen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/410.12",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 47,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.12/versions/546",
+     "sha256": "e7045f6ecf953964221553d59097e155494b1443bb21ca81dcf72605622109da"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 47,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.12/versions/817",
+     "sha256": "bc6ae277af62b37e53bbdfca74d54e41475e890e68fe7864d80061129d6c4431"
+    },
+    {
+     "from": "2019-08-01",
+     "units": 48,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.12/versions/1309",
+     "sha256": "704cf825ce6cb462fde717f63368ed1b7406e6c7177791e865df04254b93dd4b"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 48,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.12/versions/1380",
+     "sha256": "ac7dcab33d82f9bb3b5751252cad99a86f0ba0a1e4dbd64876304781848e5189"
+    },
+    {
+     "from": "2021-08-01",
+     "units": 49,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.12/versions/1715",
+     "sha256": "7d3ceb6cb10650335f4046edd360af17ee6e6b48796c3e8aeb0b64489dd09f4e"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 49,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.12/versions/1760",
+     "sha256": "fe0b454912064f8270ed8b0cd84d76bdfc28396fba180422383dc67c3d3b829c"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 49,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.12/versions/1833",
+     "sha256": "eccbb4821503c21c92b070367fd04ae3744c5db2f5caac0c596ae4f4b4b85a79"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 49,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.12/versions/1919",
+     "sha256": "aed21e3dcc14be08fd1e7f98f16822a1f0b78028d489fe07db4eebb898465191"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 49,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.12/versions/1968",
+     "sha256": "456994fb974f06ced4313e60bcf3dfc66d6b87a022789bc16a6a8a8fae8a1b7f"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 48,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.12",
+     "sha256": "2da189b5734a724b9e1c177d1d2197b12090e19cfe0a495a4ca539837fed5dad"
+    }
+   ]
+  },
+  {
+   "slug": "410-13",
+   "short": "GDB 410.13",
+   "title": "Verordnung über Leistungsangebote in den Bereichen Sozialpädagogik, Sonderschulung und Förderung von Menschen mit einer Behinderung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/410.13",
+   "versions": [
+    {
+     "from": "2013-02-01",
+     "units": 21,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.13",
+     "sha256": "532737a6413a0774b2de54954c8067d9467a06b26664eb9f1471c6e22503fd8a"
+    }
+   ]
+  },
+  {
+   "slug": "410-411",
+   "short": "GDB 410.411",
+   "title": "Reglement über die Anerkennung von Ausbildungsabschlüssen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/410.411",
+   "versions": [
+    {
+     "from": "2012-12-05",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.411/versions/225",
+     "sha256": "21b20d78ed30aa4edbd580e05149d8b9ee8b4881c30d4710b095b7e1ea04d785"
+    },
+    {
+     "from": "2013-01-24",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.411/versions/625",
+     "sha256": "6233f3bd197e33ad0df98027b8ebab5944b712c9c884c98f8c1b95c72af43a3c"
+    },
+    {
+     "from": "2013-03-19",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.411/versions/627",
+     "sha256": "95baa004ec99681ae4b426f9de298330704a3d3f6f80cb20691fe5faa479b61b"
+    },
+    {
+     "from": "2014-04-11",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.411/versions/863",
+     "sha256": "79383d9be0f03f4cd6a1c89d6fba60bc7ca4407f8752662e6e0b9e506adbdc76"
+    },
+    {
+     "from": "2017-05-29",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.411/versions/1235",
+     "sha256": "8cad524bfea1d07b8d00b4c2daeb25bd7f7107ccc3d16e05f32215c59011a7ef"
+    },
+    {
+     "from": "2018-05-25",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.411/versions/1295",
+     "sha256": "d5a410c3c08afd5d17ad4a9708c623107d3b18c9780dc641899ae3aa7ac980a9"
+    },
+    {
+     "from": "2022-02-01",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.411/versions/1539",
+     "sha256": "75fc33330694fe7b8b2eaace4c06e48c80494c84a29fb73a31398092c34836b4"
+    },
+    {
+     "from": "2023-02-01",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.411",
+     "sha256": "80948d5f5657b766e41ff660275e8de6e2d713559920f794a617dcfae7298700"
+    }
+   ]
+  },
+  {
+   "slug": "412-11-vschv",
+   "short": "VSchV",
+   "title": "Volksschulverordnung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/412.11",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 23,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/412.11/versions/147",
+     "sha256": "b1649f61346a8052e0a3d6f664a43adb0004fcd9a46e9988b6f6779d26e64dcb"
+    },
+    {
+     "from": "2016-08-01",
+     "units": 24,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/412.11/versions/1094",
+     "sha256": "7389fb1ef6eba840c0016491c54513b2244049b3bdfae76e3628c7247cf76bc8"
+    },
+    {
+     "from": "2019-08-01",
+     "units": 24,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/412.11/versions/1714",
+     "sha256": "6c77a9f31d64704b3d344ec2fb34576f174ddbd7ed13836e8e7ddf628addbc43"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 25,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/412.11/versions/1790",
+     "sha256": "851452d4d8c921a6f724d0b47ab17342c45912ff42ea13c9dc07660561ef7162"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 25,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/412.11",
+     "sha256": "25d1fba8d66a2306b5908d0caa8ca13289e4358abac38d53798d75028beac2e0"
+    }
+   ]
+  },
+  {
+   "slug": "415-422",
+   "short": "GDB 415.422",
+   "title": "Personalverordnung der Hochschule Luzern, FH Zentralschweiz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/415.422",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 17,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/415.422/versions/247",
+     "sha256": "9acfe9a1951ffaf4f20286121bd7fce1748450c9f1b1c016c6b31d061378b3dc"
+    },
+    {
+     "from": "2016-09-01",
+     "units": 28,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/415.422/versions/1106",
+     "sha256": "c457cd45f454b0eaf09329613d9606855e6e00ece14e0f8df60aa2723fbaf20b"
+    },
+    {
+     "from": "2020-09-01",
+     "units": 28,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/415.422/versions/1433",
+     "sha256": "8295cedacb7bd2b2f54e74092bc9dbef2b0cd0b7ee04d57408782c9dd5b6968b"
+    },
+    {
+     "from": "2021-10-01",
+     "units": 30,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/415.422/versions/1534",
+     "sha256": "52cb3cf91b295150d818aeb038ec184e7169a2827d1c756c9945d1b0aadb37a6"
+    },
+    {
+     "from": "2024-09-01",
+     "units": 32,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/415.422/versions/1816",
+     "sha256": "2fc22604f4792ee60f754247ff65bf84c611eafaf8e102244cd6447eafa705ae"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 32,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/415.422",
+     "sha256": "4328b46e0d1efd1a2b395d29e8f1e98d93e7031fae6de1af85fb6ce997403cdd"
+    }
+   ]
+  },
+  {
+   "slug": "415-423-gebuhrenverordnung-hslu",
+   "short": "Gebührenverordnung-HSLU",
+   "title": "Verordnung über die Gebühren an der Hochschule Luzern, FH Zentralschweiz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/415.423",
+   "versions": [
+    {
+     "from": "2013-03-01",
+     "units": 16,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/415.423/versions/246",
+     "sha256": "79c40e3d83d039f9eb66b285633da0c1ea924d7cedb22a3ef8b04b7e2ba958ad"
+    },
+    {
+     "from": "2013-09-01",
+     "units": 17,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/415.423/versions/779",
+     "sha256": "2b075ee4b6d6722586a26cd6c8a1878e721b6fe0bba3cbde1eec4325f18970cb"
+    },
+    {
+     "from": "2025-03-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/415.423/versions/1930",
+     "sha256": "7f619c34c3b8a82f896c3515d2e38e87f388e20990406aacf009ed2212180bc6"
+    },
+    {
+     "from": "2025-09-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/415.423",
+     "sha256": "ada73a5dc49a389a95879b5d8bb940fa9238d78d865be4aea941775a85395626"
+    }
+   ]
+  },
+  {
+   "slug": "419-11-stipendienverordnung",
+   "short": "Stipendienverordnung",
+   "title": "Verordnung über die Ausrichtung von Ausbildungsbeiträgen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/419.11",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 26,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/419.11/versions/181",
+     "sha256": "4d66d9ff06d913acad33b99ebd74e9be6f4d327a6d4a90198818dc7460fcb248"
+    },
+    {
+     "from": "2014-08-01",
+     "units": 25,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/419.11/versions/858",
+     "sha256": "348fab6c63f09d3a943b68f388267d8a1aab394aed0dbb2f8acfefe333ba86a8"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 25,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/419.11/versions/1111",
+     "sha256": "ff65109cb390d6d3a7ef72ecc82488157bc27daecca1b427f1fd058cefc5fbdc"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 24,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/419.11",
+     "sha256": "6da976d7a558c9237103f6b7199f86f1e707966db3392404ea36a218d6379383"
+    }
+   ]
+  },
+  {
+   "slug": "419-311",
+   "short": "GDB 419.311",
+   "title": "Reglement über den Kathriner-Egger-Fonds",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/419.311",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/419.311/versions/753",
+     "sha256": "1a250f99e1f8d10f5661a4abb30f81611280e4515c5439e91cd943a27d31f79d"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/419.311/versions/1167",
+     "sha256": "7874df970de4064db8259b36c512efa02871de4a8bd7bff98b0a17e90be86e10"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/419.311/versions/1564",
+     "sha256": "a7a100572aee398fc267f26735a733d816aafbae7df79b4fa69a41cf1d2b471f"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/419.311",
+     "sha256": "5a4f8ac526c8987526cc48da1722249c5832d78065eecafaa8d107d6daacf8bf"
+    }
+   ]
+  },
+  {
+   "slug": "451-21",
+   "short": "GDB 451.21",
+   "title": "Verordnung über den Schutz von Bau- und Kulturdenkmälern (Denkmalschutzverordnung, DSV)",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/451.21",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 37,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/451.21/versions/966",
+     "sha256": "e612ee1c0fc7c29f8eef7e49e15e5eb443a879ec3ae3593b3121c996b606ce57"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 36,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/451.21/versions/1717",
+     "sha256": "1227dc58dbef52731bbf5e00f42d7ecd5ac3451c0a17697b215bb246405d29b8"
+    },
+    {
+     "from": "2026-03-01",
+     "units": 36,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/451.21",
+     "sha256": "ed98e7ce18e08e43a5e34f6c80f3edf13d28ad3ff2c00c8a71e9277c697642a0"
+    },
+    {
+     "from": "2026-11-01",
+     "units": 36,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/451.21/versions/2047",
+     "sha256": "92a5576910dc357c1c1a8431ee0c3f93228367aecd77192fddd81e89383f9fb7"
+    }
+   ]
+  },
+  {
+   "slug": "530-41",
+   "short": "GDB 530.41",
+   "title": "Vollziehungsverordnung zum Bundesgesetz über die Wehrpflichtersatzabgabe",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/530.41",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 9,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/530.41/versions/701",
+     "sha256": "d926dfa3150f5d754aa96bf40ddbe4707c18caa6b71426d81d281fe27ec7d7a1"
+    },
+    {
+     "from": "2015-03-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/530.41",
+     "sha256": "2e87c53405b41abca9359af1f1e8b180fa86098687538cb79d6a97a2ecb05673"
+    }
+   ]
+  },
+  {
+   "slug": "540-21-vksd",
+   "short": "VKSD",
+   "title": "Verordnung über den Koordinierten Sanitätsdienst",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/540.21",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 14,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/540.21/versions/699",
+     "sha256": "96938288009e6769b2f03455615506c419bf683f61a6828ecb26f2c0a3b976f6"
+    },
+    {
+     "from": "2016-02-01",
+     "units": 15,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/540.21",
+     "sha256": "cc6fc7441ace6cf19a2d4377ed8fc267bfba88513e58886fbf0953a50a602180"
+    }
+   ]
+  },
+  {
+   "slug": "542-11",
+   "short": "GDB 542.11",
+   "title": "Verordnung über die wirtschaftliche Landesversorgung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/542.11",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 9,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/542.11",
+     "sha256": "6db15b07632db3d704477856f1f73a076b3dcbe42482192ffb22244175403df5"
+    }
+   ]
+  },
+  {
+   "slug": "630-51",
+   "short": "GDB 630.51",
+   "title": "Verordnung über die Beteiligung der Einwohnergemeinden am interkantonalen Finanzausgleich",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/630.51",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/630.51",
+     "sha256": "9451661903ef0cb3546e3e20a262a65a8df71741b2fbd6b7a7cd16cb5fc4bd44"
+    }
+   ]
+  },
+  {
+   "slug": "641-41-stv",
+   "short": "StV",
+   "title": "Vollziehungsverordnung zum Steuergesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/641.41",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 78,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/641.41/versions/188",
+     "sha256": "a8aa608ec9b39372e076eeb08df80a413d94ad76943fbaf3288fb063bace94f5"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 78,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/641.41/versions/990",
+     "sha256": "cecfa525c86c7859efd6c626852a7b29b498ff6ee2e8693ec2527c1dd30f0131"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 78,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/641.41/versions/1162",
+     "sha256": "19f392ae13a2ee93bc7e56644b11c3d8fe949a699a390b54f1c605991a34a172"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 80,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/641.41/versions/1334",
+     "sha256": "bca41fa21d14c3049c9e8f2d2693968d8695078e6c77c79f92265db4f5b8fc7a"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 79,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/641.41/versions/1388",
+     "sha256": "5609dcc0a9e168149c59dcf6e7f97ca8929a89a9ebcf22a8b352d893f1409641"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 79,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/641.41/versions/1888",
+     "sha256": "7683f670a6f4db5fbadb65611db7e7e91e0f85d4c6e87eb376fc5b3dea45ea00"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 79,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/641.41/versions/1905",
+     "sha256": "d323f08418d489bad3ee33c3b80f7ced77735c262495c6c77280f9c596fa0933"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 79,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/641.41",
+     "sha256": "173eade628df79b843d9801efd4682e6719ce3e86f3a52e3e6b54220f0b0f486"
+    }
+   ]
+  },
+  {
+   "slug": "643-11-vagg",
+   "short": "VAGG",
+   "title": "Verordnung zum Allgemeinen Gebührengesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/643.11",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 13,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/643.11/versions/131",
+     "sha256": "78a32ec76a8698d7f8ffbdf48ffbecca1d4aa5bf1fb049e0d55b5ae816a9a708"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 13,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/643.11/versions/1114",
+     "sha256": "d5f4d2a02abb86c4f98ff2587f5ff154cb0fff598cec353bb384bac863ced96b"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 13,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/643.11",
+     "sha256": "ab6175dab0d871a8a153318c1c9aece81e3be9636ac3a927196a2acdc7d46d9f"
+    }
+   ]
+  },
+  {
+   "slug": "651-11-jagdv",
+   "short": "JagdV",
+   "title": "Jagdverordnung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/651.11",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 55,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/651.11/versions/121",
+     "sha256": "c08f3b61a4bba54417cc131190785741a494e9dd12797f0c208f9542f599b6c8"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 57,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/651.11",
+     "sha256": "f02cd3db7c61cc0a0ee36ccd8bc85d0af5a34323ae16a4006fb9cafed46b60c2"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 56,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/651.11/versions/2045",
+     "sha256": "d641ed6dcb3e76c0ab0c685c75eb359e714cb5616784409d5d5695287067fb0e"
+    }
+   ]
+  },
+  {
+   "slug": "651-21-fiv",
+   "short": "FiV",
+   "title": "Fischereiverordnung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/651.21",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 47,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/651.21/versions/133",
+     "sha256": "55f5d9691bc48140f820bcd775ece56cc210aadd6146e6b98fa8e00f898e5142"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 48,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/651.21/versions/902",
+     "sha256": "72b43a419dd25fa30b816bd4bbb65395695530c6aaca28ddced6ae28b5753fa9"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 48,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/651.21",
+     "sha256": "fbf58d2c308e585817dd53a75af81220c13f7ac0f36129e7bcdde5b7adf1e7e3"
+    }
+   ]
+  },
+  {
+   "slug": "720-11",
+   "short": "GDB 720.11",
+   "title": "Strassenverordnung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/720.11",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 80,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/720.11/versions/189",
+     "sha256": "04618091598846aeecc9d68a1e4773b3964f1108b5bf5e478d75b6401880e9b2"
+    },
+    {
+     "from": "2026-03-01",
+     "units": 77,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/720.11",
+     "sha256": "0e37840404ae27ac3957bc431899ade4c8f724eb305f0afa34881cdad01b75e5"
+    }
+   ]
+  },
+  {
+   "slug": "720-31-strassenbeitragsverordnung",
+   "short": "Strassenbeitragsverordnung",
+   "title": "Verordnung über die Strassenbeiträge",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/720.31",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 15,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/720.31/versions/688",
+     "sha256": "2877a30a5a1995e198c6b59dc25f28697e03fee032b29c04df2354574dcf15eb"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 16,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/720.31/versions/769",
+     "sha256": "4d55f65793931d038ad882779f647a4b5f3f2e09f8e5b2e46e693f8509ef7052"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 16,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/720.31",
+     "sha256": "04708b9e39ecbad9f441ff16a52d47e7abf2f83227e9c458fd003c7a30c938f4"
+    }
+   ]
+  },
+  {
+   "slug": "720-51",
+   "short": "GDB 720.51",
+   "title": "Vollziehungsverordnung zum Bundesgesetz über die Nationalstrassen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/720.51",
+   "versions": [
+    {
+     "from": "2011-09-01",
+     "units": 23,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/720.51",
+     "sha256": "35be8cae285e1d4b6478564608d332230c9f447844b184fd026d74c160fd963a"
+    }
+   ]
+  },
+  {
+   "slug": "720-71-vv-fwg",
+   "short": "VV FWG",
+   "title": "Vollziehungsverordnung zum Bundesgesetz über Fuss- und Wanderwege",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/720.71",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 23,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/720.71/versions/254",
+     "sha256": "32e92e1cef06048f05ece2009ca39b885aad3e253c7cbed93c67ff83f570efad"
+    },
+    {
+     "from": "2016-06-01",
+     "units": 24,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/720.71/versions/1706",
+     "sha256": "e9324ca05ce62f911b5e1f1846ef6cc9e7c382556a847b5d13116410c229b7c7"
+    },
+    {
+     "from": "2026-03-01",
+     "units": 23,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/720.71",
+     "sha256": "bd9e38e330e916506aa42d778633238580cb7e7c8fb130f730e2b2217d53ff92"
+    }
+   ]
+  },
+  {
+   "slug": "740-11-wbv",
+   "short": "WBV",
+   "title": "Wasserbauverordnung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/740.11",
+   "versions": [
+    {
+     "from": "2009-01-15",
+     "units": 28,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/740.11/versions/177",
+     "sha256": "c60ead00308fb89d7b3ac0dbd2e9ccbe68ea93ed79c57de60b6719ba7c67eb28"
+    },
+    {
+     "from": "2017-06-01",
+     "units": 28,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/740.11/versions/1704",
+     "sha256": "e08aa1b3638bed0ab2566b28ce425584b467c72c4abec734b95ec1a6974cd1bd"
+    },
+    {
+     "from": "2026-03-01",
+     "units": 28,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/740.11",
+     "sha256": "60096af513247ef51854cf19be535ff2724eb56a975fd55f7e6071ef4b0d6035"
+    }
+   ]
+  },
+  {
+   "slug": "774-11-vsf",
+   "short": "VSF",
+   "title": "Verordnung über die Schifffahrt",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/774.11",
+   "versions": [
+    {
+     "from": "2009-01-15",
+     "units": 29,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/774.11/versions/1617",
+     "sha256": "a6b03a69f20b1e39b7030837896f07961d77393bf157338436ee773233ea1e21"
+    },
+    {
+     "from": "2026-03-01",
+     "units": 30,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/774.11",
+     "sha256": "4fba13e199ec620d467cc2fd51681308386d9160daa18f333cca672cc73d7259"
+    }
+   ]
+  },
+  {
+   "slug": "780-11-kantonale-umweltschutzverordnung-vv-usg",
+   "short": "kantonale Umweltschutzverordnung, VV USG",
+   "title": "Vollziehungsverordnung zum Bundesgesetz über den Umweltschutz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/780.11",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 34,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/780.11",
+     "sha256": "b1601c788efe18890cd0ea67ee28e80e05d2654c0c40afef9e41468fe837bd6b"
+    }
+   ]
+  },
+  {
+   "slug": "783-11-kantonale-gewasserschutzverordnung-vv-gschg",
+   "short": "kantonale Gewässerschutzverordnung, VV GSchG",
+   "title": "Vollziehungsverordnung zum Bundesgesetz über den Schutz der Gewässer",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/783.11",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/783.11",
+     "sha256": "59b14548b515fd7b139764080310605101e13a990e08e7e24ff394612bb06cfd"
+    }
+   ]
+  },
+  {
+   "slug": "783-21",
+   "short": "GDB 783.21",
+   "title": "Ölwehrverordnung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/783.21",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 22,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/783.21",
+     "sha256": "763efafca201c4bab938d38d6979c9983ac3cfe85949cd13c96af855e74dec14"
+    }
+   ]
+  },
+  {
+   "slug": "786-11-naturschutzverordnung-nsv",
+   "short": "Naturschutzverordnung, NSV",
+   "title": "Verordnung über den Natur- und Landschaftsschutz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/786.11",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 47,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/786.11/versions/967",
+     "sha256": "5ee132228a5602a290eba93892bb43bf2d903a0ccb0496f0be183339d47f33bf"
+    },
+    {
+     "from": "2016-06-01",
+     "units": 47,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/786.11/versions/1076",
+     "sha256": "36339f4625d7959282668593f7a895e41ceaecdea62e65525f59cf27f36f7a06"
+    },
+    {
+     "from": "2017-06-01",
+     "units": 47,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/786.11/versions/1698",
+     "sha256": "43ff167f621f663ca43b199ccba83333b17496536561dc1677dc2b037f61d9f5"
+    },
+    {
+     "from": "2026-03-01",
+     "units": 47,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/786.11",
+     "sha256": "bb32e2db4d12bf02cd585e9662bb2bb7b099cd245cce44d59b5727ee5b543d34"
+    }
+   ]
+  },
+  {
+   "slug": "786-21",
+   "short": "GDB 786.21",
+   "title": "Pilzschutzverordnung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/786.21",
+   "versions": [
+    {
+     "from": "1997-07-01",
+     "units": 10,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/786.21",
+     "sha256": "d31303b54c8e324d7b06704c238c7ba7281e81ad2a233112c419c3f93b2ee88a"
+    }
+   ]
+  },
+  {
+   "slug": "810-12",
+   "short": "GDB 810.12",
+   "title": "Verordnung über eine Fachstelle für Gesellschaftsfragen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/810.12",
+   "versions": [
+    {
+     "from": "2013-02-01",
+     "units": 10,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/810.12/versions/556",
+     "sha256": "206a448116b3c057b0c9e25d41c936e34e2c3e230a57a64237087a5ce39e486a"
+    },
+    {
+     "from": "2016-02-01",
+     "units": 10,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/810.12/versions/1032",
+     "sha256": "e36faf2bd8afac3ed08c3ddab363609f76437f82f3e9facba8d5c1be5be3d9e9"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 10,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/810.12/versions/1119",
+     "sha256": "15ba7d0f9d6320e5efe4bd25b918c3d1d934429b47a0bfc1f095dd712b85f796"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 10,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/810.12",
+     "sha256": "8ba48e0153a13216c600ff0eb663ccb7a9427181e17c0111aa564b984876ff43"
+    }
+   ]
+  },
+  {
+   "slug": "816-11",
+   "short": "GDB 816.11",
+   "title": "Vollziehungsverordnung zum Lebensmittelgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/816.11",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 13,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/816.11",
+     "sha256": "3a37f96093d811ab9fe7dee2527a3b687294bbea761e5065b244204fca52993f"
+    }
+   ]
+  },
+  {
+   "slug": "817-11",
+   "short": "GDB 817.11",
+   "title": "Verordnung über Friedhöfe und Bestattungen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/817.11",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 27,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/817.11/versions/703",
+     "sha256": "882402a8ff30ca706e388791c315428b9430589f5abe0b4d2de6eb803eadf6fe"
+    },
+    {
+     "from": "2016-02-01",
+     "units": 27,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/817.11/versions/1037",
+     "sha256": "bb6405f7076a1e73071fff6e47dcc1becdf323a6636e6be9f0fd24cd025dde0f"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 27,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/817.11",
+     "sha256": "3930ed839676929ddc74c421300de26cc7ae678a67ad32d45c6c144415d56162"
+    }
+   ]
+  },
+  {
+   "slug": "830-112-taxordnung-kantonsspital",
+   "short": "Taxordnung Kantonsspital",
+   "title": "Reglement über die Taxen des Kantonsspitals für die stationäre und ambulante Behandlung von Patientinnen und Patienten sowie den Rettungsdienst",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/830.112",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 20,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/830.112/versions/1454",
+     "sha256": "1c36aa44af5142d911d8ed4f5a6d2d663db1a1d08112ec784e0c1eb9e1df35d8"
+    },
+    {
+     "from": "2023-06-01",
+     "units": 21,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/830.112",
+     "sha256": "30ae0775cc6a798d3f9e88b4a10a7db48d5ecfef7d5262df63ca60403551b625"
+    }
+   ]
+  },
+  {
+   "slug": "830-115",
+   "short": "GDB 830.115",
+   "title": "Reglement über den Fonds für Personen in wirtschaftlicher Notlage",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/830.115",
+   "versions": [
+    {
+     "from": "2007-06-01",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/830.115",
+     "sha256": "3aa19647f535f08c7830082284198e1cae35fb63bdfae0a625be20c59ed86aac"
+    }
+   ]
+  },
+  {
+   "slug": "841-11-verordnung-zum-arbeitsgesetz",
+   "short": "Verordnung zum Arbeitsgesetz",
+   "title": "Verordnung zum Bundesgesetz über die Arbeit in Industrie, Gewerbe und Handel",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/841.11",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 14,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/841.11",
+     "sha256": "8f61b1ac98c28c5da8c8a86342e554e5f763ec9eb298193cdeae946f0f2395f1"
+    }
+   ]
+  },
+  {
+   "slug": "843-11-vv-avg",
+   "short": "VV AVG",
+   "title": "Vollziehungsverordnung zum Arbeitsvermittlungsgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/843.11",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 10,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/843.11",
+     "sha256": "fc8df447e8f6c23f17f7171e31c3c0269066ed3a60993f6e3ce7143fd9129cbe"
+    }
+   ]
+  },
+  {
+   "slug": "851-11-ev-kvg",
+   "short": "EV KVG",
+   "title": "Verordnung zum Einführungsgesetz zum Krankenversicherungsgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/851.11",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 21,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/851.11/versions/687",
+     "sha256": "da586abb27ee5705c1ebf238173da92c89749b4160871af66bbd6d1ca9429928"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 24,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/851.11/versions/766",
+     "sha256": "886472f3d755194ca8ba5014c9a61aabe75ff43253d913c13ef4c707315b926f"
+    },
+    {
+     "from": "2015-04-01",
+     "units": 24,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/851.11/versions/1128",
+     "sha256": "d8edccaefb041499deab5c39e446307726ec8b30b48ace679c6ca21acb71aabe"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 25,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/851.11/versions/1263",
+     "sha256": "45889647ba7bae6c132233504e8a3a5ca06428a50ee50225c366b7d662572097"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 25,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/851.11/versions/1373",
+     "sha256": "dada533fb45925bdeaea1b5cbbf3e8ffeb380378bd49d0c12cd8692f2585bc9d"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 33,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/851.11/versions/1932",
+     "sha256": "e146cdb85b627ce9020c0118760a4206e3ae79b29f11c48aec1b98d1c2f25297"
+    },
+    {
+     "from": "2025-12-18",
+     "units": 33,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/851.11/versions/1966",
+     "sha256": "52847cecb81b35e8dd419b2d56dfe0282b13dc3dbab6233641801698b9e8556c"
+    },
+    {
+     "from": "2026-06-01",
+     "units": 33,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/851.11",
+     "sha256": "e696957f19e97f984d94fb5338b9cd57ad060b42e382f123afac1c017bf04a9d"
+    }
+   ]
+  },
+  {
+   "slug": "853-31",
+   "short": "GDB 853.31",
+   "title": "Verordnung zum Bundesgesetz über die Invalidenversicherung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/853.31",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 9,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/853.31",
+     "sha256": "0209c56efcd7f156fe0524e79cecd9bfd25f3d37ca56d1c8ae9016974c220999"
+    }
+   ]
+  },
+  {
+   "slug": "855-11-vv-avig",
+   "short": "VV AVIG",
+   "title": "Vollziehungsverordnung zum Arbeitslosenversicherungsgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/855.11",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 20,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/855.11",
+     "sha256": "ab18ccf026775e5ebe2212442174769954bd8cc04e864d01f261e8a95d7f7ebd"
+    }
+   ]
+  },
+  {
+   "slug": "856-11",
+   "short": "GDB 856.11",
+   "title": "Verordnung über die berufliche Vorsorge",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/856.11",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 15,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/856.11/versions/570",
+     "sha256": "5b4db3c4384414b1dae2d2c14f2148af962278cbb930df9107bfcdb1e0db459c"
+    },
+    {
+     "from": "2016-06-01",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/856.11",
+     "sha256": "693b94df8ffdd73dbc0f43ee3bd643632ed18b5d76f6cbaf2df0f83b2920cbdf"
+    }
+   ]
+  },
+  {
+   "slug": "870-11-shv",
+   "short": "SHV",
+   "title": "Sozialhilfeverordnung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/870.11",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 20,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/870.11",
+     "sha256": "dc0f9a36abcab075dad84f0068f236daa8b428e4e5ee7f6d04c5366c4ef21790"
+    }
+   ]
+  },
+  {
+   "slug": "870-12",
+   "short": "GDB 870.12",
+   "title": "Verordnung über das Inkasso und die Bevorschussung von Unterhaltsbeiträgen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/870.12",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/870.12",
+     "sha256": "1faafe0f6cf3c08c6c4f6fce30cd1bb49c698512f3fb55e0bd80d5e9cfe5614f"
+    }
+   ]
+  },
+  {
+   "slug": "880-11",
+   "short": "GDB 880.11",
+   "title": "Verordnung über die Wohnbau- und Eigentumsförderung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/880.11",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/880.11",
+     "sha256": "a2c1fc2e4ccf4a71d03041614b8f270208a21bbf0efebf3ed6416156ed923a02"
+    }
+   ]
+  },
+  {
+   "slug": "910-11",
+   "short": "GDB 910.11",
+   "title": "Verordnung über die regionale Wirtschaftspolitik",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/910.11",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 6,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/910.11",
+     "sha256": "11b31b33d24e92a32232042c9b437aa9bf08692fa14c37d6ab7f11b6f1c143da"
+    }
+   ]
+  },
+  {
+   "slug": "921-41",
+   "short": "GDB 921.41",
+   "title": "Vollziehungsverordnung zum Bundesgesetz über die Familienzulagen für landwirtschaftliche Arbeitnehmer und Bergbauern",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/921.41",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 6,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/921.41",
+     "sha256": "5e26cad23bd0aca876e53cf923c68687669de4f1e6bfd11dd8bf99d42537a374"
+    }
+   ]
+  },
+  {
+   "slug": "971-11-ggv",
+   "short": "GGV",
+   "title": "Gastgewerbeverordnung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/971.11",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 20,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/971.11/versions/660",
+     "sha256": "51845cf3711bcc447f996f0505bdc2f52c9c68555a4223ced340fffa50413869"
+    },
+    {
+     "from": "2018-09-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/971.11",
+     "sha256": "0c530a26b2b086819b5d55a027c65cb4950274286575522d76be79befd678ebe"
+    }
+   ]
+  },
+  {
+   "slug": "971-31-tv",
+   "short": "TV",
+   "title": "Tourismusverordnung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/971.31",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 10,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/971.31/versions/102",
+     "sha256": "f9f5f4adfc3ae3cabd0742ede4dbef9c081b90298dfe5abebdd74292cc8278cd"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 10,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/971.31",
+     "sha256": "652313d1c5551cd4de922ea6dc72a9cd242930e744dd710e936d37456e91c660"
+    }
+   ]
+  }
+ ]
+}

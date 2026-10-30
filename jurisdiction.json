@@ -1,0 +1,11 @@
+{
+  "path": "ch-ow",
+  "code": "CH-OW",
+  "name": "Obwalden",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-obwalden-law",
+  "build": "built: constitution, cantonal laws and Verordnungen (155 acts, 398 versions) from the GDB",
+  "language": "de",
+  "sources": 1
+}

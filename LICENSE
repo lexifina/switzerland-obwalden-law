@@ -1,0 +1,14 @@
+The law texts in this repository are official texts of the canton of Obwalden (Kanton Obwalden), taken from its
+systematic collection (GDB, https://gdb.ow.ch/).
+
+Swiss law does not protect them by copyright. Federal Act on Copyright and Related Rights (URG, SR 231.1),
+Art. 5 para. 1: "Keinen urheberrechtlichen Schutz geniessen: a. Gesetze, Verordnungen, völkerrechtliche Verträge
+und andere amtliche Erlasse; [...]" (Not protected by copyright: a. acts, ordinances, international treaties and
+other official enactments.)
+
+Any copyright notice on the canton's website covers the website's own protected content, not the law texts, which
+Art. 5 URG excludes. This repository is not an official publication; the binding text is the one the canton
+publishes as binding.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
