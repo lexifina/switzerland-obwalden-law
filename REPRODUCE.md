@@ -169,20 +169,120 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `921-41` | Vollziehungsverordnung zum Bundesgesetz über die Familienzulagen für landwirtschaftliche Arbeitnehmer und Bergbauern | 1 | 2007-08-01 to 2007-08-01 |
 | `971-11-ggv` | Gastgewerbeverordnung | 2 | 2007-08-01 to 2018-09-01 |
 | `971-31-tv` | Tourismusverordnung | 2 | 2012-07-01 to 2017-01-01 |
+| `101-1` | Interpretation des Artikels 46 der Kantonsverfassung | 1 | 1971-12-03 to 1971-12-03 |
+| `101-3` | Kantonsratsbeschluss über die Interpretation von Artikel 66 der Kantonsverfassung (Wählbarkeit als Kantonsrat) | 1 | 1985-11-22 to 1985-11-22 |
+| `111-211-ab-brv` | Ausführungsbestimmungen zur Bürgerrechtsverordnung | 4 | 2013-01-01 to 2026-02-01 |
+| `113-111` | Ausführungsbestimmungen über die Daten der Einwohnerregister | 2 | 2013-01-01 to 2025-02-01 |
+| `113-123` | Ausführungsbestimmungen über die Gebühren für die Einwohnerkontrolle | 1 | 2009-01-01 to 2009-01-01 |
+| `113-211` | Ausführungsbestimmungen über den Fonds für die Wohnraumbeschaffung und Integration im Asyl- und Flüchtlingsbereich | 3 | 2010-06-01 to 2019-01-01 |
+| `113-212` | Ausführungsbestimmungen über die Gebühren des Amtes für Arbeit | 2 | 2013-01-01 to 2019-01-01 |
+| `113-213` | Ausführungsbestimmungen über die wirtschaftliche Sozialhilfe für Asylsuchende, Schutzbedürftige ohne Aufenthaltsbewilligung und vorläufig aufgenommene Personen in Bundeszuständigkeit | 3 | 2011-01-01 to 2024-07-01 |
+| `113-214` | Ausführungsbestimmungen über den Fonds für Schutzbedürftige aus der Ukraine mit Status S | 2 | 2015-12-01 to 2022-04-01 |
+| `113-215` | Ausführungsbestimmungen über den Fonds Schwankungsreserven Flüchtlinge | 1 | 2017-11-01 to 2017-11-01 |
+| `131-111` | Ausführungsbestimmungen zum Publikationsgesetz | 1 | 2026-01-01 to 2026-01-01 |
+| `131-411-ab-krhg` | Ausführungsbestimmungen zum kantonalen Registerharmonisierungsgesetz | 1 | 2025-02-01 to 2025-02-01 |
+| `131-511-ab-kgeoig` | Ausführungsbestimmungen zum Geoinformationsgesetz | 2 | 2013-01-01 to 2022-01-01 |
+| `132-11-go-kr` | Geschäftsordnung des Kantonsrats | 3 | 2012-07-01 to 2023-08-01 |
+| `133-111` | Ausführungsbestimmungen über die Aufgaben und Gliederung der Departemente | 12 | 2013-02-01 to 2025-12-18 |
+| `134-15-gebor` | Gebührenordnung für die Rechtspflege | 2 | 2011-01-01 to 2015-03-01 |
+| `134-111` | Ausführungsbestimmungen über die Inkraftsetzung der Gerichtsorganisationsgesetzgebung | 1 | 1997-02-15 to 1997-02-15 |
+| `134-118` | Ausführungsbestimmungen über die Schlichtungsbehörde | 1 | 2011-01-01 to 2011-01-01 |
+| `134-311` | Ausführungsbestimmungen zum Bundesgesetz über die Banken und Sparkassen vom 29. Februar 2000 | 1 | 2011-01-01 to 2011-01-01 |
+| `134-412` | Ausführungsbestimmungen über die Entschädigung der Anwaltskommission und der Notariatskommission | 3 | 2002-10-01 to 2024-07-01 |
+| `137-2` | Vereinbarung der Kantone Schwyz, Obwalden und Nidwalden über die Zusammenarbeit im Datenschutz | 1 | 2016-07-01 to 2016-07-01 |
+| `138-2` | Vereinbarung über das Informatikleistungszentrum der Kantone Obwalden und Nidwalden | 2 | 2006-07-01 to 2023-03-15 |
+| `138-3` | Vereinbarung über die Zusammenarbeit im Bereich der Informatik | 1 | 2023-03-15 to 2023-03-15 |
+| `141-111` | Ausführungsbestimmungen über die Stellenbewertung und Entlöhnung | 8 | 2013-01-01 to 2026-01-01 |
+| `141-112` | Ausführungsbestimmungen über die Anstellungsbefugnisse und das Personaldossier | 3 | 2013-01-01 to 2016-02-01 |
+| `141-113` | Ausführungsbestimmungen über die Arbeitszeit bei der kantonalen Verwaltung | 5 | 2008-10-01 to 2021-12-01 |
+| `141-114` | Ausführungsbestimmungen über die Spesenentschädigungen und Zulagen im Staatsdienst | 3 | 2012-01-01 to 2024-08-01 |
+| `141-115` | Ausführungsbestimmungen über die Weiterbildung bei der kantonalen Verwaltung | 2 | 2016-01-01 to 2023-07-01 |
+| `141-117` | Ausführungsbestimmungen über die beschützenden Arbeitsplätze | 1 | 2016-01-01 to 2016-01-01 |
+| `160-2` | Kirchenorganisation der Evangelisch-reformierten Kirchgemeinde Obwalden (alter Kantonsteil) | 1 | 2004-12-02 to 2004-12-02 |
+| `160-3` | Kirchenorganisation der Evangelisch-reformierten Kirchgemeinde Engelberg | 1 | 2004-12-02 to 2004-12-02 |
+| `210-115` | Ausführungsbestimmungen über den Vollzug von gerichtlich angeordneten elektronischen Überwachungen gemäss Art. 28c ZGB | 1 | 2022-01-01 to 2022-01-01 |
+| `211-111` | Verwaltungsvereinbarung betreffend die Zusammenarbeit der Kantone Luzern und Obwalden bei der Aufsicht im Zivilstandswesen | 1 | 2016-08-01 to 2016-08-01 |
+| `211-115` | Ausführungsbestimmungen der ZBSA betreffend die Aufsicht über die Stiftungen | 1 | 2022-07-01 to 2022-07-01 |
+| `211-211` | Ausführungsbestimmungen zum Kindes- und Adoptionsrecht | 3 | 2013-02-01 to 2017-01-01 |
+| `211-311` | Ausführungsbestimmungen zum Personen- und Eherecht | 1 | 2013-01-01 to 2013-01-01 |
+| `211-611-ab-kesr` | Ausführungsbestimmungen zur Verordnung betreffend die Einführung des Kindes- und Erwachsenenschutzrechts | 4 | 2013-01-01 to 2023-01-01 |
+| `213-111` | Ausführungsbestimmungen über die Festlegung von Gebieten mit dauernden Bodenverschiebungen | 1 | 2015-01-01 to 2015-01-01 |
+| `213-410-ab-gb` | Ausführungsbestimmungen über das Grundbuch | 3 | 2017-06-01 to 2026-01-01 |
+| `213-412` | Ausführungsbestimmungen über den elektronischen Geschäftsverkehr und weitere Dienstleistungen mittels des informatisierten Grundbuchs | 3 | 2003-06-01 to 2022-01-01 |
+| `213-611` | Ausführungsbestimmungen über die Rechnungsführung und Rechnungsstellung bezüglich der Beurkundungs-, Grundbuch- und Schatzungsgebühren | 1 | 1981-05-26 to 1981-05-26 |
+| `213-713` | Ausführungsbestimmungen über die Gewährung eines Einschlags auf dem Eigenmietwert in Härtefällen | 4 | 2017-01-01 to 2026-01-01 |
+| `213-811` | Ausführungsbestimmungen zur Vollziehungsverordnung zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland | 1 | 2005-01-01 to 2005-01-01 |
+| `213-812` | Regierungsratsbeschluss über die Förderungsorte und die Verteilung der Bewilligungen betreffend den Erwerb von Grundstücken durch Personen im Ausland für die Jahre 2025/2026 | 8 | 2013-01-01 to 2027-01-01 |
+| `220-112` | Ausführungsbestimmungen zum Verfahren bei der Gewährleistung im Viehhandel | 1 | 2011-01-01 to 2011-01-01 |
+| `220-511` | Ausführungsbestimmungen über die berufsmässige transnationale Ehe- oder Partnerschaftsvermittlung | 1 | 2000-01-01 to 2000-01-01 |
+| `230-511` | Ausführungsbestimmungen zur eidgenössischen Wappenschutzgesetzgebung | 1 | 2020-03-01 to 2020-03-01 |
+| `240-511` | Ausführungsbestimmungen zum Lugano-Übereinkommen und zum Bundesgesetz über das Internationale Privatrecht | 1 | 2011-01-01 to 2011-01-01 |
+| `310-711` | Ausführungsbestimmungen über Praxen und Spitäler für den Schwangerschaftsabbruch | 1 | 2002-10-01 to 2002-10-01 |
+| `320-311` | Vereinbarung über die Zusammenarbeit bei der Verfolgung von Wirtschaftsdelikten | 3 | 2011-01-01 to 2024-01-01 |
+| `320-511` | Ausführungsbestimmungen zum Bundesgesetz betreffend die Überwachung des Post- und Fernmeldeverkehrs | 1 | 2018-11-01 to 2018-11-01 |
+| `330-21` | Gefängnisordnung | 1 | 2011-01-01 to 2011-01-01 |
+| `330-111` | Ausführungsbestimmungen über die Bewährungshilfe im Strafvollzug | 1 | 2013-01-01 to 2013-01-01 |
+| `330-211` | Ausführungsbestimmungen zur Gefängnisordnung | 2 | 2013-01-01 to 2019-01-01 |
+| `330-212` | Ausführungsbestimmungen über das Disziplinarrecht im Freiheitsentzug | 1 | 2011-01-01 to 2011-01-01 |
+| `410-2` | Konkordat über die Schulkoordination | 1 | 1971-06-09 to 1971-06-09 |
+| `410-3-rsz` | Regionales Schulabkommen Zentralschweiz | 1 | 2012-08-01 to 2012-08-01 |
+| `410-4` | Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen | 6 | 2013-01-01 to 2025-07-01 |
+| `410-131` | Ausführungsbestimmungen über die Schuldienste | 2 | 2010-01-01 to 2026-08-01 |
+| `410-132` | Ausführungsbestimmungen über die Sonderpädagogik in den Bereichen Sonderschulung, Förderangebote und Nachteilsausgleich | 3 | 2011-01-01 to 2026-08-01 |
+| `410-133` | Ausführungsbestimmungen zur Verordnung über Leistungsangebote in den Bereichen Sozialpädagogik, Sonderschulung und Förderung von Menschen mit einer Behinderung | 4 | 2011-01-01 to 2026-08-01 |
+| `410-134` | Ausführungsbestimmungen über die Beteiligung an den Kosten des Grundschulunterrichts | 3 | 2013-08-01 to 2026-08-01 |
+| `410-512` | Ausführungsbestimmungen über die Schulgesundheit | 6 | 2016-02-01 to 2026-08-01 |
+| `410-811` | Ausführungsbestimmungen über die für Hochbegabte anerkannten Vertragsschulen | 4 | 2012-08-01 to 2017-08-01 |
+| `412-111` | Ausführungsbestimmungen über das Beurteilen, die Promotion und das Übertrittsverfahren in der Volksschule | 4 | 2011-08-01 to 2026-08-01 |
+| `412-112` | Ausführungsbestimmungen über die Stundentafel für die Volksschule | 3 | 2007-08-01 to 2025-08-01 |
+| `412-114` | Ausführungsbestimmungen über die Basisstufe | 1 | 2026-08-01 to 2026-08-01 |
+| `412-115` | Ausführungsbestimmungen über die kantonalen Vorgaben zu den schulergänzenden Tagesstrukturen | 1 | 2026-08-01 to 2026-08-01 |
+| `414-62` | Leistungsvereinbarung mit dem Kloster und der Stiftsschule Engelberg über die Aufnahme und Ausbildung von Schülerinnen und Schülern aus dem Kanton Obwalden | 4 | 2012-08-01 to 2019-08-01 |
+| `414-64` | Leistungsvereinbarung mit der Schweizerischen Sportmittelschule Engelberg AG | 2 | 2018-08-01 to 2026-08-01 |
+| `414-211` | Ausführungsbestimmungen über die Kantonsschule (Organisationsstatut) | 6 | 2012-02-01 to 2026-08-01 |
+| `414-215` | Ausführungsbestimmungen über die Maturitätsprüfungen | 3 | 2011-08-01 to 2025-08-01 |
+| `415-31-interkantonale-universitatsvereinbarung-iuv` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen | 2 | 2013-08-01 to 2022-01-01 |
+| `415-52-hfsv` | Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen | 1 | 2014-01-01 to 2014-01-01 |
+| `415-111` | Ausführungsbestimmungen über die gemäss Interkantonaler Fachschulvereinbarung anerkannten Vertragsschulen | 1 | 2007-08-01 to 2007-08-01 |
+| `415-421-zfhvo` | Zentralschweizer Fachhochschul-Verordnung | 4 | 2013-01-01 to 2026-04-01 |
+| `416-111` | Ausführungsbestimmungen über die Berufsbildung und die Weiterbildung | 4 | 2013-01-01 to 2026-08-01 |
+| `416-211` | Ausführungsbestimmungen über die Brückenangebote | 4 | 2006-08-01 to 2026-08-01 |
+| `416-212` | Ausführungsbestimmungen über die Berufsmaturitätsschule | 6 | 2009-01-01 to 2026-07-01 |
+| `416-213` | Ausführungsbestimmungen über die Aufnahme in Fachmittelschulen und Mittelschulen mit Berufsabschluss | 3 | 2008-10-01 to 2024-01-01 |
+| `416-214` | Ausführungsbestimmungen über die Aufnahme in Berufsmaturitätsschulen | 2 | 2024-01-01 to 2025-01-01 |
+| `418-111` | Ausführungsbestimmungen über die Beiträge an begabte Sportlerinnen und Sportler sowie die Entschädigung der Schulsportcoaches | 2 | 2011-08-01 to 2018-08-01 |
+| `419-2` | Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen | 1 | 2019-10-24 to 2019-10-24 |
+| `419-111` | Ausführungsbestimmungen über die Ausrichtung von Ausbildungsbeiträgen | 4 | 2013-01-01 to 2020-01-01 |
+| `451-111` | Ausführungsbestimmungen über die Kulturförderung | 1 | 2016-07-01 to 2016-07-01 |
+| `451-511` | Ausführungsbestimmungen über die Kantonsbibliothek | 3 | 2009-12-01 to 2026-08-01 |
+| `454-111` | Ausführungsbestimmungen über den Kulturgüterschutz | 2 | 2010-06-01 to 2016-07-01 |
+| `510-4-ikapol` | Vereinbarung über die interkantonalen Polizeieinsätze | 2 | 2006-11-09 to 2025-01-01 |
+| `510-5` | Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen | 1 | 2013-03-21 to 2013-03-21 |
+| `510-7-viclas-konkordat` | Interkantonale Vereinbarung (bzw. Konkordat) über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten | 1 | 2010-08-01 to 2010-08-01 |
+| `510-111-ab-polg` | Ausführungsbestimmungen zum Polizeigesetz | 4 | 2011-01-01 to 2025-05-01 |
+| `510-112-ab-kfp` | Ausführungsbestimmungen über Kosten für Polizeidienste | 4 | 2012-01-01 to 2020-01-01 |
+| `510-113` | Ausführungsbestimmungen über die zentrale Alarmanlage | 1 | 2013-01-01 to 2013-01-01 |
+| `510-116` | Ausführungsbestimmungen über die Aufsicht über die nachrichtendienstlichen Tätigkeiten | 1 | 2018-10-01 to 2018-10-01 |
+| `510-511` | Ausführungsbestimmungen zum Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen | 2 | 2011-01-01 to 2013-03-21 |
+| `510-711` | Ausführungsbestimmungen zur interkantonalen Vereinbarung (bzw. Konkordat) über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten (ViCLAS-Konkordat) | 1 | 2010-08-01 to 2010-08-01 |
+| `510-911` | Ausführungsbestimmungen zum Waffengesetz | 1 | 2012-01-01 to 2012-01-01 |
+| `510-912` | Ausführungsbestimmungen zum Sprengstoffgesetz | 1 | 2012-01-01 to 2012-01-01 |
+| `530-111` | Ausführungsbestimmungen über die Militärverwaltung | 1 | 2013-01-01 to 2013-01-01 |
+| `540-111-ab-kbsg` | Ausführungsbestimmungen über den Bevölkerungsschutz | 2 | 2012-01-01 to 2017-05-01 |
 
-The build made 300 commits:
+The build made 531 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 155 | first version of an act |
-| 145 | one law on its in-force day |
+| 255 | first version of an act |
+| 276 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 4 commits on the branch `zukunft`: laws not yet in force on 2026-10-30.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 458 laws in the record.
-- 577 tags.
+- 769 laws in the record.
+- 999 tags.
 
 ## Dates
 
@@ -194,13 +294,13 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `54430bdf45649f97093523e3061ad1305e04706d19d381f6051d935936bdafd5` (5004585 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `a1441166a41c5e040c649a424f486f55a92ae77b197e15012cacf2d99bbe4298` (6697185 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-398 versions of 155 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

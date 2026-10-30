@@ -196,3 +196,112 @@ The author of a commit is the amending act, named by its entry in the chronologi
 ## Limits
 
 This is not an official publication. The binding text is the one the canton publishes as binding (its chronological collection, or its systematic collection where cantonal law makes that binding). The history starts with the oldest consolidated version the collection holds for each act, which for many acts is later than the act's enactment. Only the acts listed above are included.
+
+<!-- lexwork-runner:start -->
+## Further acts in force
+
+100 further acts with 237 versions from the same collection, in the parts `86-lexwork-NN`: the acts in force that the parts above did not hold (decrees, decisions, agreements, tariffs, rules of procedure and the rest of the systematic collection), each with every consolidated version the collection gives, dated and credited the same way. Acts published only as PDF, land-use plans, concessions, internal directives and repealed acts are not included. The counts earlier in this file cover the earlier parts only.
+
+| Folder | Act | Versions | History |
+| --- | --- | ---: | --- |
+| `101-1/` | Interpretation des Artikels 46 der Kantonsverfassung (GDB 101.1) | 1 | as enacted, 3 December 1971 |
+| `101-3/` | Kantonsratsbeschluss über die Interpretation von Artikel 66 der Kantonsverfassung (Wählbarkeit als Kantonsrat) (GDB 101.3) | 1 | as enacted, 22 November 1985 |
+| `111-211-ab-brv/` | Ausführungsbestimmungen zur Bürgerrechtsverordnung (GDB 111.211) | 4 | oldest version available, then each consolidated version: 1 January 2013 to 1 February 2026 |
+| `113-111/` | Ausführungsbestimmungen über die Daten der Einwohnerregister (GDB 113.111) | 2 | oldest version available, then each consolidated version: 1 January 2013 to 1 February 2025 |
+| `113-123/` | Ausführungsbestimmungen über die Gebühren für die Einwohnerkontrolle (GDB 113.123) | 1 | one version (the oldest available), 1 January 2009 |
+| `113-211/` | Ausführungsbestimmungen über den Fonds für die Wohnraumbeschaffung und Integration im Asyl- und Flüchtlingsbereich (GDB 113.211) | 3 | oldest version available, then each consolidated version: 1 June 2010 to 1 January 2019 |
+| `113-212/` | Ausführungsbestimmungen über die Gebühren des Amtes für Arbeit (GDB 113.212) | 2 | as enacted, then each consolidated version: 1 January 2013 to 1 January 2019 |
+| `113-213/` | Ausführungsbestimmungen über die wirtschaftliche Sozialhilfe für Asylsuchende, Schutzbedürftige ohne Aufenthaltsbewilligung und vorläufig aufgenommene Personen in Bundeszuständigkeit (GDB 113.213) | 3 | as enacted, then each consolidated version: 1 January 2011 to 1 July 2024 |
+| `113-214/` | Ausführungsbestimmungen über den Fonds für Schutzbedürftige aus der Ukraine mit Status S (GDB 113.214) | 2 | as enacted, then each consolidated version: 1 December 2015 to 1 April 2022 |
+| `113-215/` | Ausführungsbestimmungen über den Fonds Schwankungsreserven Flüchtlinge (GDB 113.215) | 1 | as enacted, 1 November 2017 |
+| `131-111/` | Ausführungsbestimmungen zum Publikationsgesetz (GDB 131.111) | 1 | as enacted, 1 January 2026 |
+| `131-411-ab-krhg/` | Ausführungsbestimmungen zum kantonalen Registerharmonisierungsgesetz (GDB 131.411) | 1 | as enacted, 1 February 2025 |
+| `131-511-ab-kgeoig/` | Ausführungsbestimmungen zum Geoinformationsgesetz (GDB 131.511) | 2 | as enacted, then each consolidated version: 1 January 2013 to 1 January 2022 |
+| `132-11-go-kr/` | Geschäftsordnung des Kantonsrats (GDB 132.11) | 3 | oldest version available, then each consolidated version: 1 July 2012 to 1 August 2023 |
+| `133-111/` | Ausführungsbestimmungen über die Aufgaben und Gliederung der Departemente (GDB 133.111) | 12 | oldest version available, then each consolidated version: 1 February 2013 to 18 December 2025 |
+| `134-15-gebor/` | Gebührenordnung für die Rechtspflege (GDB 134.15) | 2 | oldest version available, then each consolidated version: 1 January 2011 to 1 March 2015 |
+| `134-111/` | Ausführungsbestimmungen über die Inkraftsetzung der Gerichtsorganisationsgesetzgebung (GDB 134.111) | 1 | as enacted, 15 February 1997 |
+| `134-118/` | Ausführungsbestimmungen über die Schlichtungsbehörde (GDB 134.118) | 1 | as enacted, 1 January 2011 |
+| `134-311/` | Ausführungsbestimmungen zum Bundesgesetz über die Banken und Sparkassen vom 29. Februar 2000 (GDB 134.311) | 1 | one version (the oldest available), 1 January 2011 |
+| `134-412/` | Ausführungsbestimmungen über die Entschädigung der Anwaltskommission und der Notariatskommission (GDB 134.412) | 3 | as enacted, then each consolidated version: 1 October 2002 to 1 July 2024 |
+| `137-2/` | Vereinbarung der Kantone Schwyz, Obwalden und Nidwalden über die Zusammenarbeit im Datenschutz (GDB 137.2) | 1 | as enacted, 1 July 2016 |
+| `138-2/` | Vereinbarung über das Informatikleistungszentrum der Kantone Obwalden und Nidwalden (GDB 138.2) | 2 | oldest version available, then each consolidated version: 1 July 2006 to 15 March 2023 |
+| `138-3/` | Vereinbarung über die Zusammenarbeit im Bereich der Informatik (GDB 138.3) | 1 | as enacted, 15 March 2023 |
+| `141-111/` | Ausführungsbestimmungen über die Stellenbewertung und Entlöhnung (GDB 141.111) | 8 | oldest version available, then each consolidated version: 1 January 2013 to 1 January 2026 |
+| `141-112/` | Ausführungsbestimmungen über die Anstellungsbefugnisse und das Personaldossier (GDB 141.112) | 3 | oldest version available, then each consolidated version: 1 January 2013 to 1 February 2016 |
+| `141-113/` | Ausführungsbestimmungen über die Arbeitszeit bei der kantonalen Verwaltung (GDB 141.113) | 5 | as enacted, then each consolidated version: 1 October 2008 to 1 December 2021 |
+| `141-114/` | Ausführungsbestimmungen über die Spesenentschädigungen und Zulagen im Staatsdienst (GDB 141.114) | 3 | oldest version available, then each consolidated version: 1 January 2012 to 1 August 2024 |
+| `141-115/` | Ausführungsbestimmungen über die Weiterbildung bei der kantonalen Verwaltung (GDB 141.115) | 2 | oldest version available, then each consolidated version: 1 January 2016 to 1 July 2023 |
+| `141-117/` | Ausführungsbestimmungen über die beschützenden Arbeitsplätze (GDB 141.117) | 1 | as enacted, 1 January 2016 |
+| `160-2/` | Kirchenorganisation der Evangelisch-reformierten Kirchgemeinde Obwalden (alter Kantonsteil) (GDB 160.2) | 1 | one version (the oldest available), 2 December 2004 |
+| `160-3/` | Kirchenorganisation der Evangelisch-reformierten Kirchgemeinde Engelberg (GDB 160.3) | 1 | one version (the oldest available), 2 December 2004 |
+| `210-115/` | Ausführungsbestimmungen über den Vollzug von gerichtlich angeordneten elektronischen Überwachungen gemäss Art. 28c ZGB (GDB 210.115) | 1 | as enacted, 1 January 2022 |
+| `211-111/` | Verwaltungsvereinbarung betreffend die Zusammenarbeit der Kantone Luzern und Obwalden bei der Aufsicht im Zivilstandswesen (GDB 211.111) | 1 | as enacted, 1 August 2016 |
+| `211-115/` | Ausführungsbestimmungen der ZBSA betreffend die Aufsicht über die Stiftungen (GDB 211.115) | 1 | as enacted, 1 July 2022 |
+| `211-211/` | Ausführungsbestimmungen zum Kindes- und Adoptionsrecht (GDB 211.211) | 3 | oldest version available, then each consolidated version: 1 February 2013 to 1 January 2017 |
+| `211-311/` | Ausführungsbestimmungen zum Personen- und Eherecht (GDB 211.311) | 1 | one version (the oldest available), 1 January 2013 |
+| `211-611-ab-kesr/` | Ausführungsbestimmungen zur Verordnung betreffend die Einführung des Kindes- und Erwachsenenschutzrechts (GDB 211.611) | 4 | as enacted, then each consolidated version: 1 January 2013 to 1 January 2023 |
+| `213-111/` | Ausführungsbestimmungen über die Festlegung von Gebieten mit dauernden Bodenverschiebungen (GDB 213.111) | 1 | as enacted, 1 January 2015 |
+| `213-410-ab-gb/` | Ausführungsbestimmungen über das Grundbuch (GDB 213.410) | 3 | as enacted, then each consolidated version: 1 June 2017 to 1 January 2026 |
+| `213-412/` | Ausführungsbestimmungen über den elektronischen Geschäftsverkehr und weitere Dienstleistungen mittels des informatisierten Grundbuchs (GDB 213.412) | 3 | as enacted, then each consolidated version: 1 June 2003 to 1 January 2022 |
+| `213-611/` | Ausführungsbestimmungen über die Rechnungsführung und Rechnungsstellung bezüglich der Beurkundungs-, Grundbuch- und Schatzungsgebühren (GDB 213.611) | 1 | as enacted, 26 May 1981 |
+| `213-713/` | Ausführungsbestimmungen über die Gewährung eines Einschlags auf dem Eigenmietwert in Härtefällen (GDB 213.713) | 4 | as enacted, then each consolidated version: 1 January 2017 to 1 January 2026 |
+| `213-811/` | Ausführungsbestimmungen zur Vollziehungsverordnung zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland (GDB 213.811) | 1 | as enacted, 1 January 2005 |
+| `213-812/` | Regierungsratsbeschluss über die Förderungsorte und die Verteilung der Bewilligungen betreffend den Erwerb von Grundstücken durch Personen im Ausland für die Jahre 2025/2026 (GDB 213.812) | 8 | as enacted, then each consolidated version: 1 January 2013 to 1 January 2027 |
+| `220-112/` | Ausführungsbestimmungen zum Verfahren bei der Gewährleistung im Viehhandel (GDB 220.112) | 1 | as enacted, 1 January 2011 |
+| `220-511/` | Ausführungsbestimmungen über die berufsmässige transnationale Ehe- oder Partnerschaftsvermittlung (GDB 220.511) | 1 | as enacted, 1 January 2000 |
+| `230-511/` | Ausführungsbestimmungen zur eidgenössischen Wappenschutzgesetzgebung (GDB 230.511) | 1 | as enacted, 1 March 2020 |
+| `240-511/` | Ausführungsbestimmungen zum Lugano-Übereinkommen und zum Bundesgesetz über das Internationale Privatrecht (GDB 240.511) | 1 | one version (the oldest available), 1 January 2011 |
+| `310-711/` | Ausführungsbestimmungen über Praxen und Spitäler für den Schwangerschaftsabbruch (GDB 310.711) | 1 | as enacted, 1 October 2002 |
+| `320-311/` | Vereinbarung über die Zusammenarbeit bei der Verfolgung von Wirtschaftsdelikten (GDB 320.311) | 3 | as enacted, then each consolidated version: 1 January 2011 to 1 January 2024 |
+| `320-511/` | Ausführungsbestimmungen zum Bundesgesetz betreffend die Überwachung des Post- und Fernmeldeverkehrs (GDB 320.511) | 1 | as enacted, 1 November 2018 |
+| `330-21/` | Gefängnisordnung (GDB 330.21) | 1 | one version (the oldest available), 1 January 2011 |
+| `330-111/` | Ausführungsbestimmungen über die Bewährungshilfe im Strafvollzug (GDB 330.111) | 1 | one version (the oldest available), 1 January 2013 |
+| `330-211/` | Ausführungsbestimmungen zur Gefängnisordnung (GDB 330.211) | 2 | oldest version available, then each consolidated version: 1 January 2013 to 1 January 2019 |
+| `330-212/` | Ausführungsbestimmungen über das Disziplinarrecht im Freiheitsentzug (GDB 330.212) | 1 | one version (the oldest available), 1 January 2011 |
+| `410-2/` | Konkordat über die Schulkoordination (GDB 410.2) | 1 | as enacted, 9 June 1971 |
+| `410-3-rsz/` | Regionales Schulabkommen Zentralschweiz (GDB 410.3) | 1 | as enacted, 1 August 2012 |
+| `410-4/` | Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen (GDB 410.4) | 6 | oldest version available, then each consolidated version: 1 January 2013 to 1 July 2025 |
+| `410-131/` | Ausführungsbestimmungen über die Schuldienste (GDB 410.131) | 2 | as enacted, then each consolidated version: 1 January 2010 to 1 August 2026 |
+| `410-132/` | Ausführungsbestimmungen über die Sonderpädagogik in den Bereichen Sonderschulung, Förderangebote und Nachteilsausgleich (GDB 410.132) | 3 | as enacted, then each consolidated version: 1 January 2011 to 1 August 2026 |
+| `410-133/` | Ausführungsbestimmungen zur Verordnung über Leistungsangebote in den Bereichen Sozialpädagogik, Sonderschulung und Förderung von Menschen mit einer Behinderung (GDB 410.133) | 4 | as enacted, then each consolidated version: 1 January 2011 to 1 August 2026 |
+| `410-134/` | Ausführungsbestimmungen über die Beteiligung an den Kosten des Grundschulunterrichts (GDB 410.134) | 3 | as enacted, then each consolidated version: 1 August 2013 to 1 August 2026 |
+| `410-512/` | Ausführungsbestimmungen über die Schulgesundheit (GDB 410.512) | 6 | as enacted, then each consolidated version: 1 February 2016 to 1 August 2026 |
+| `410-811/` | Ausführungsbestimmungen über die für Hochbegabte anerkannten Vertragsschulen (GDB 410.811) | 4 | oldest version available, then each consolidated version: 1 August 2012 to 1 August 2017 |
+| `412-111/` | Ausführungsbestimmungen über das Beurteilen, die Promotion und das Übertrittsverfahren in der Volksschule (GDB 412.111) | 4 | oldest version available, then each consolidated version: 1 August 2011 to 1 August 2026 |
+| `412-112/` | Ausführungsbestimmungen über die Stundentafel für die Volksschule (GDB 412.112) | 3 | as enacted, then each consolidated version: 1 August 2007 to 1 August 2025 |
+| `412-114/` | Ausführungsbestimmungen über die Basisstufe (GDB 412.114) | 1 | as enacted, 1 August 2026 |
+| `412-115/` | Ausführungsbestimmungen über die kantonalen Vorgaben zu den schulergänzenden Tagesstrukturen (GDB 412.115) | 1 | as enacted, 1 August 2026 |
+| `414-62/` | Leistungsvereinbarung mit dem Kloster und der Stiftsschule Engelberg über die Aufnahme und Ausbildung von Schülerinnen und Schülern aus dem Kanton Obwalden (GDB 414.62) | 4 | as enacted, then each consolidated version: 1 August 2012 to 1 August 2019 |
+| `414-64/` | Leistungsvereinbarung mit der Schweizerischen Sportmittelschule Engelberg AG (GDB 414.64) | 2 | as enacted, then each consolidated version: 1 August 2018 to 1 August 2026 |
+| `414-211/` | Ausführungsbestimmungen über die Kantonsschule (Organisationsstatut) (GDB 414.211) | 6 | oldest version available, then each consolidated version: 1 February 2012 to 1 August 2026 |
+| `414-215/` | Ausführungsbestimmungen über die Maturitätsprüfungen (GDB 414.215) | 3 | oldest version available, then each consolidated version: 1 August 2011 to 1 August 2025 |
+| `415-31-interkantonale-universitatsvereinbarung-iuv/` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen (GDB 415.31) | 2 | oldest version available, then each consolidated version: 1 August 2013 to 1 January 2022 |
+| `415-52-hfsv/` | Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen (GDB 415.52) | 1 | as enacted, 1 January 2014 |
+| `415-111/` | Ausführungsbestimmungen über die gemäss Interkantonaler Fachschulvereinbarung anerkannten Vertragsschulen (GDB 415.111) | 1 | one version (the oldest available), 1 August 2007 |
+| `415-421-zfhvo/` | Zentralschweizer Fachhochschul-Verordnung (GDB 415.421) | 4 | as enacted, then each consolidated version: 1 January 2013 to 1 April 2026 |
+| `416-111/` | Ausführungsbestimmungen über die Berufsbildung und die Weiterbildung (GDB 416.111) | 4 | oldest version available, then each consolidated version: 1 January 2013 to 1 August 2026 |
+| `416-211/` | Ausführungsbestimmungen über die Brückenangebote (GDB 416.211) | 4 | as enacted, then each consolidated version: 1 August 2006 to 1 August 2026 |
+| `416-212/` | Ausführungsbestimmungen über die Berufsmaturitätsschule (GDB 416.212) | 6 | oldest version available, then each consolidated version: 1 January 2009 to 1 July 2026 |
+| `416-213/` | Ausführungsbestimmungen über die Aufnahme in Fachmittelschulen und Mittelschulen mit Berufsabschluss (GDB 416.213) | 3 | oldest version available, then each consolidated version: 1 October 2008 to 1 January 2024 |
+| `416-214/` | Ausführungsbestimmungen über die Aufnahme in Berufsmaturitätsschulen (GDB 416.214) | 2 | as enacted, then each consolidated version: 1 January 2024 to 1 January 2025 |
+| `418-111/` | Ausführungsbestimmungen über die Beiträge an begabte Sportlerinnen und Sportler sowie die Entschädigung der Schulsportcoaches (GDB 418.111) | 2 | as enacted, then each consolidated version: 1 August 2011 to 1 August 2018 |
+| `419-2/` | Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen (GDB 419.2) | 1 | as enacted, 24 October 2019 |
+| `419-111/` | Ausführungsbestimmungen über die Ausrichtung von Ausbildungsbeiträgen (GDB 419.111) | 4 | oldest version available, then each consolidated version: 1 January 2013 to 1 January 2020 |
+| `451-111/` | Ausführungsbestimmungen über die Kulturförderung (GDB 451.111) | 1 | as enacted, 1 July 2016 |
+| `451-511/` | Ausführungsbestimmungen über die Kantonsbibliothek (GDB 451.511) | 3 | as enacted, then each consolidated version: 1 December 2009 to 1 August 2026 |
+| `454-111/` | Ausführungsbestimmungen über den Kulturgüterschutz (GDB 454.111) | 2 | as enacted, then each consolidated version: 1 June 2010 to 1 July 2016 |
+| `510-4-ikapol/` | Vereinbarung über die interkantonalen Polizeieinsätze (GDB 510.4) | 2 | as enacted, then each consolidated version: 9 November 2006 to 1 January 2025 |
+| `510-5/` | Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen (GDB 510.5) | 1 | one version (the oldest available), 21 March 2013 |
+| `510-7-viclas-konkordat/` | Interkantonale Vereinbarung (bzw. Konkordat) über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten (GDB 510.7) | 1 | as enacted, 1 August 2010 |
+| `510-111-ab-polg/` | Ausführungsbestimmungen zum Polizeigesetz (GDB 510.111) | 4 | as enacted, then each consolidated version: 1 January 2011 to 1 May 2025 |
+| `510-112-ab-kfp/` | Ausführungsbestimmungen über Kosten für Polizeidienste (GDB 510.112) | 4 | oldest version available, then each consolidated version: 1 January 2012 to 1 January 2020 |
+| `510-113/` | Ausführungsbestimmungen über die zentrale Alarmanlage (GDB 510.113) | 1 | as enacted, 1 January 2013 |
+| `510-116/` | Ausführungsbestimmungen über die Aufsicht über die nachrichtendienstlichen Tätigkeiten (GDB 510.116) | 1 | as enacted, 1 October 2018 |
+| `510-511/` | Ausführungsbestimmungen zum Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen (GDB 510.511) | 2 | oldest version available, then each consolidated version: 1 January 2011 to 21 March 2013 |
+| `510-711/` | Ausführungsbestimmungen zur interkantonalen Vereinbarung (bzw. Konkordat) über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten (ViCLAS-Konkordat) (GDB 510.711) | 1 | as enacted, 1 August 2010 |
+| `510-911/` | Ausführungsbestimmungen zum Waffengesetz (GDB 510.911) | 1 | as enacted, 1 January 2012 |
+| `510-912/` | Ausführungsbestimmungen zum Sprengstoffgesetz (GDB 510.912) | 1 | as enacted, 1 January 2012 |
+| `530-111/` | Ausführungsbestimmungen über die Militärverwaltung (GDB 530.111) | 1 | one version (the oldest available), 1 January 2013 |
+| `540-111-ab-kbsg/` | Ausführungsbestimmungen über den Bevölkerungsschutz (GDB 540.111) | 2 | oldest version available, then each consolidated version: 1 January 2012 to 1 May 2017 |
+<!-- lexwork-runner:end -->

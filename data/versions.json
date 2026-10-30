@@ -3628,6 +3628,2228 @@
      "sha256": "652313d1c5551cd4de922ea6dc72a9cd242930e744dd710e936d37456e91c660"
     }
    ]
+  },
+  {
+   "slug": "101-1",
+   "short": "GDB 101.1",
+   "title": "Interpretation des Artikels 46 der Kantonsverfassung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/101.1",
+   "versions": [
+    {
+     "from": "1971-12-03",
+     "units": 3,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/101.1",
+     "sha256": "248fdb6572734c0eecfde1f04b3b97e9eedbb42fe20fb78198d78c0302b76920"
+    }
+   ]
+  },
+  {
+   "slug": "101-3",
+   "short": "GDB 101.3",
+   "title": "Kantonsratsbeschluss über die Interpretation von Artikel 66 der Kantonsverfassung (Wählbarkeit als Kantonsrat)",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/101.3",
+   "versions": [
+    {
+     "from": "1985-11-22",
+     "units": 3,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/101.3",
+     "sha256": "e2094bb90c9975702f9927b84be0035cf84e4354e09061758031105ddc180403"
+    }
+   ]
+  },
+  {
+   "slug": "111-211-ab-brv",
+   "short": "AB BRV",
+   "title": "Ausführungsbestimmungen zur Bürgerrechtsverordnung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/111.211",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 20,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/111.211/versions/213",
+     "sha256": "4f6b88f534ce1e06f68d695a8436cccee9d77a4a1915c1ca60cf381dcd28d2be"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 17,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/111.211/versions/1275",
+     "sha256": "56b47cbcf079589efc497e5761d59836622fc4ce5a3e57fb3c753f3df5b25fd4"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 17,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/111.211/versions/1645",
+     "sha256": "b85425bad74b6e773a89eb62acab02ad99fc407b0d4e648ae524d313448f8f9f"
+    },
+    {
+     "from": "2026-02-01",
+     "units": 17,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/111.211",
+     "sha256": "8a7ee3950f3037b6f93a8b29ec2474072cc8d5a3ae3f1852ac5e7ef89169232e"
+    }
+   ]
+  },
+  {
+   "slug": "113-111",
+   "short": "GDB 113.111",
+   "title": "Ausführungsbestimmungen über die Daten der Einwohnerregister",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/113.111",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/113.111/versions/239",
+     "sha256": "4c197ec909d403ec9c36c8c16ae65da3c681cad5c3c666f6ecf75639f5706bf1"
+    },
+    {
+     "from": "2025-02-01",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/113.111",
+     "sha256": "c58d5abea45a3b9229417a65465db4985efbe3be551b6bbb6844c023fc3fdd0c"
+    }
+   ]
+  },
+  {
+   "slug": "113-123",
+   "short": "GDB 113.123",
+   "title": "Ausführungsbestimmungen über die Gebühren für die Einwohnerkontrolle",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/113.123",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 9,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/113.123",
+     "sha256": "a63c7451139626964a1c4228254686d0f454c21b9f9efc318e95b1080b916497"
+    }
+   ]
+  },
+  {
+   "slug": "113-211",
+   "short": "GDB 113.211",
+   "title": "Ausführungsbestimmungen über den Fonds für die Wohnraumbeschaffung und Integration im Asyl- und Flüchtlingsbereich",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/113.211",
+   "versions": [
+    {
+     "from": "2010-06-01",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/113.211/versions/733",
+     "sha256": "a5fa23ab814f7000982705e764dd85c2e223047be374800c20af7911e8ee3772"
+    },
+    {
+     "from": "2017-11-01",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/113.211/versions/1244",
+     "sha256": "b409bf086d3a23c59bf5d7645e2c62e40061d27416a6e5e1c8190a05b8b5b155"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/113.211",
+     "sha256": "d75fe342e83f4cbe28fa3036cce788d060065c8f526636f953954d649c97cab4"
+    }
+   ]
+  },
+  {
+   "slug": "113-212",
+   "short": "GDB 113.212",
+   "title": "Ausführungsbestimmungen über die Gebühren des Amtes für Arbeit",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/113.212",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 5,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/113.212/versions/234",
+     "sha256": "fa9acb7f619200fecf80e44a1cfcd597584e4fe856123e84d76311727c3125d4"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 5,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/113.212",
+     "sha256": "8440cbfdc6c68e54191a0c468ebcf06fac3e5beb46bf898a81ff4cddbc071c00"
+    }
+   ]
+  },
+  {
+   "slug": "113-213",
+   "short": "GDB 113.213",
+   "title": "Ausführungsbestimmungen über die wirtschaftliche Sozialhilfe für Asylsuchende, Schutzbedürftige ohne Aufenthaltsbewilligung und vorläufig aufgenommene Personen in Bundeszuständigkeit",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/113.213",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 6,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/113.213/versions/691",
+     "sha256": "0610b73b296b5dd649c36b2086c2cfecf008de9beb3f3fd7c9480fc349c2b46c"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/113.213/versions/768",
+     "sha256": "52f3c74d5cf4aa96c518e50da225172805120a804f3f3b613e9fccf47ab729e2"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 5,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/113.213",
+     "sha256": "bd22255df0efbe367986f2b5f1ac2d57b66e0572f006fa7353979caaf2ef2474"
+    }
+   ]
+  },
+  {
+   "slug": "113-214",
+   "short": "GDB 113.214",
+   "title": "Ausführungsbestimmungen über den Fonds für Schutzbedürftige aus der Ukraine mit Status S",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/113.214",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 5,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/113.214/versions/1042",
+     "sha256": "f9e0ca5b3e652cfd93ff99f09f6899bb78277883101fd65a8f94e42ec35003f2"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 6,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/113.214",
+     "sha256": "a4f8dfeb55ab0ae546de4ea563470e8bdff0693edd73118845e664174866cd03"
+    }
+   ]
+  },
+  {
+   "slug": "113-215",
+   "short": "GDB 113.215",
+   "title": "Ausführungsbestimmungen über den Fonds Schwankungsreserven Flüchtlinge",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/113.215",
+   "versions": [
+    {
+     "from": "2017-11-01",
+     "units": 5,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/113.215",
+     "sha256": "1884615431162a103a5c38149b2a269c851ce380ae8a92da7595e00a32a4222d"
+    }
+   ]
+  },
+  {
+   "slug": "131-111",
+   "short": "GDB 131.111",
+   "title": "Ausführungsbestimmungen zum Publikationsgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/131.111",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 6,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/131.111",
+     "sha256": "e8c68a72bb7a1407405a3a198a5b11a2fc24c544508fb9f4ce23c6455bc3aeb4"
+    }
+   ]
+  },
+  {
+   "slug": "131-411-ab-krhg",
+   "short": "AB kRHG",
+   "title": "Ausführungsbestimmungen zum kantonalen Registerharmonisierungsgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/131.411",
+   "versions": [
+    {
+     "from": "2025-02-01",
+     "units": 14,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/131.411",
+     "sha256": "8f1b2abf725384bd64f8352b08ff431e7009a56965f2ee39a59168c931547c52"
+    }
+   ]
+  },
+  {
+   "slug": "131-511-ab-kgeoig",
+   "short": "AB kGeoIG",
+   "title": "Ausführungsbestimmungen zum Geoinformationsgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/131.511",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 24,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/131.511/versions/771",
+     "sha256": "a21f407ea706bde8f865aa2d208eadc248c55f03041badf03f65746b71e0b05a"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 24,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/131.511",
+     "sha256": "f6baa7b3bceffdb3b2e6a876bc638c8d8222f43215e3de51e89c10058d5c4b69"
+    }
+   ]
+  },
+  {
+   "slug": "132-11-go-kr",
+   "short": "GO KR",
+   "title": "Geschäftsordnung des Kantonsrats",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/132.11",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 59,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/132.11/versions/1657",
+     "sha256": "d0ee1a6113b07e743befacbeb040bed19f2baaa472e1067dd789b6a7b1548099"
+    },
+    {
+     "from": "2023-03-01",
+     "units": 59,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/132.11/versions/1785",
+     "sha256": "cbbeb1ee8341d4ca797774b9b5e1b32450e786d4d522e1cee0b02698a0eda114"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 59,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/132.11",
+     "sha256": "7b154aaebf82e5e933d13ed34e387095a8000aa15ac6208a4b823a5be34a4682"
+    }
+   ]
+  },
+  {
+   "slug": "133-111",
+   "short": "GDB 133.111",
+   "title": "Ausführungsbestimmungen über die Aufgaben und Gliederung der Departemente",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/133.111",
+   "versions": [
+    {
+     "from": "2013-02-01",
+     "units": 12,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/133.111/versions/557",
+     "sha256": "64b62cea6f054af8b6e28034900868017e10a6235db536d7419ceabab7f793b9"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 12,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/133.111/versions/994",
+     "sha256": "a22747b529ffa9849ba21ba72070c3518607c24f91435bbd8b382d0cdad9420b"
+    },
+    {
+     "from": "2016-11-01",
+     "units": 12,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/133.111/versions/1147",
+     "sha256": "b4a3c01843d78a8774d47948927664a4e290fb02d78c7912b7f01a5f10bc31ba"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 12,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/133.111/versions/1148",
+     "sha256": "75d0cdd21e1d3fc72f435863846562a19b0db832176a1695a5ee4c51e5166cc2"
+    },
+    {
+     "from": "2018-05-01",
+     "units": 12,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/133.111/versions/1285",
+     "sha256": "2d7bec281909dd743c5bc7e3b1995a2668d5d86c4f65ef809f4e996de1e71972"
+    },
+    {
+     "from": "2020-03-01",
+     "units": 12,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/133.111/versions/1412",
+     "sha256": "00807635fb3ec28935fde13beeeb20cf717011f90df6baa3d3d337d3db0c6f20"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 12,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/133.111/versions/1490",
+     "sha256": "6c3426d0a557e924266f528cd9c41f776f814e506e826b6197507383ab9cba09"
+    },
+    {
+     "from": "2021-10-01",
+     "units": 12,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/133.111/versions/1529",
+     "sha256": "b801b0cefe8ff5170d8d45e1b4ce2da763e3bd946ca003b2d1bd34a558574809"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 12,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/133.111/versions/1593",
+     "sha256": "181f4d805db4b214f24c6a0cb719cbf96b59f8e3dc799f558ff759d8e4512fd4"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 12,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/133.111/versions/1750",
+     "sha256": "59534279bfc179663cd01d8ae65ac3455018dce82308fc73165331eb42042aec"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 12,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/133.111/versions/1926",
+     "sha256": "831f2f4c63e790843290256728ac7047ecbc450ff22b49a89dc387b01b643c30"
+    },
+    {
+     "from": "2025-12-18",
+     "units": 12,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/133.111",
+     "sha256": "7e5b9aa43c4aa81aa8a7eb3649c596fa5ca17ce06741d04bb580871b2b3d12ee"
+    }
+   ]
+  },
+  {
+   "slug": "134-15-gebor",
+   "short": "GebOR",
+   "title": "Gebührenordnung für die Rechtspflege",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/134.15",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 59,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.15/versions/113",
+     "sha256": "11527c1c9df763121972943bcf461d8c52b44bbb6530e0fe8b2356367a458fc5"
+    },
+    {
+     "from": "2015-03-01",
+     "units": 60,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.15",
+     "sha256": "f588e64123d38803745ea40ab1bf6c1156f4585aa65df3b766636da90740cd67"
+    }
+   ]
+  },
+  {
+   "slug": "134-111",
+   "short": "GDB 134.111",
+   "title": "Ausführungsbestimmungen über die Inkraftsetzung der Gerichtsorganisationsgesetzgebung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/134.111",
+   "versions": [
+    {
+     "from": "1997-02-15",
+     "units": 4,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.111",
+     "sha256": "b30949fe0c9d5da2bd41589a699f2773512e2cc08db913e0afb82f2f6ce330d5"
+    }
+   ]
+  },
+  {
+   "slug": "134-118",
+   "short": "GDB 134.118",
+   "title": "Ausführungsbestimmungen über die Schlichtungsbehörde",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/134.118",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 16,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.118",
+     "sha256": "c440d06b53801c9776a78339ea85cad192961c1933c49af0fd6ec408f935db98"
+    }
+   ]
+  },
+  {
+   "slug": "134-311",
+   "short": "GDB 134.311",
+   "title": "Ausführungsbestimmungen zum Bundesgesetz über die Banken und Sparkassen vom 29. Februar 2000",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/134.311",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 8,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.311",
+     "sha256": "6089554beb1de37f3c4ab2d5e3a7bd1e37ffa8b123759746f0a81aaf526a73e9"
+    }
+   ]
+  },
+  {
+   "slug": "134-412",
+   "short": "GDB 134.412",
+   "title": "Ausführungsbestimmungen über die Entschädigung der Anwaltskommission und der Notariatskommission",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/134.412",
+   "versions": [
+    {
+     "from": "2002-10-01",
+     "units": 6,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.412/versions/762",
+     "sha256": "a486ecaee94bf992f675411635772c7b6e17f5f66ac62f433c422bacd1377fbc"
+    },
+    {
+     "from": "2013-12-01",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.412/versions/835",
+     "sha256": "9a7dcbcbfdb71850228fd76b7114e5ecd04575f92d8c2d4db4d51babff9f67b5"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/134.412",
+     "sha256": "3c963cb2911d43f9f5d7457fcaaac66f33cddf57f37f92f8d77233fa540e1503"
+    }
+   ]
+  },
+  {
+   "slug": "137-2",
+   "short": "GDB 137.2",
+   "title": "Vereinbarung der Kantone Schwyz, Obwalden und Nidwalden über die Zusammenarbeit im Datenschutz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/137.2",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 8,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/137.2",
+     "sha256": "7f90f647358ad1881b35ca2e4bcde869810d120594774f9b21fee41fe1bd0171"
+    }
+   ]
+  },
+  {
+   "slug": "138-2",
+   "short": "GDB 138.2",
+   "title": "Vereinbarung über das Informatikleistungszentrum der Kantone Obwalden und Nidwalden",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/138.2",
+   "versions": [
+    {
+     "from": "2006-07-01",
+     "units": 28,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/138.2/versions/1795",
+     "sha256": "7de3513de6f049dc26d043afca1dc777f92f2974949eafb7b3363c542a76432b"
+    },
+    {
+     "from": "2023-03-15",
+     "units": 28,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/138.2",
+     "sha256": "8382b9aab12aa9446fcf778c29fc4eb644fa6a58eaab716b03fd3586dffd69df"
+    }
+   ]
+  },
+  {
+   "slug": "138-3",
+   "short": "GDB 138.3",
+   "title": "Vereinbarung über die Zusammenarbeit im Bereich der Informatik",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/138.3",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 39,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/138.3",
+     "sha256": "f3787438103632a157f1678fb0b03ac06f4db0fd021c464f0396ff9043f13ab4"
+    }
+   ]
+  },
+  {
+   "slug": "141-111",
+   "short": "GDB 141.111",
+   "title": "Ausführungsbestimmungen über die Stellenbewertung und Entlöhnung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/141.111",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 20,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.111/versions/544",
+     "sha256": "6fbb482fdd8332602012f736824d5c5350ccaae865e7e529bfb1abb1c5fbb880"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 20,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.111/versions/882",
+     "sha256": "5d94f6b0d226bd661bcecbdf30ffd7256338319b54b811a41ba6cc6676c60d17"
+    },
+    {
+     "from": "2019-03-01",
+     "units": 21,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.111/versions/1347",
+     "sha256": "14dc081f2296043a7287c2ae1ebd6dc974d4b42c063b46c3c8ab6fd43e090f1c"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 21,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.111/versions/1475",
+     "sha256": "10958b8acaaf2d9713815cf59b37eba3ee3a2f2757f81d326103eb0dcfa1a2a6"
+    },
+    {
+     "from": "2021-08-01",
+     "units": 21,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.111/versions/1520",
+     "sha256": "1e4df04aeec9418ffe265ae67d2f357bedb2d4b0ba161542982f26f9ebf6d978"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 21,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.111/versions/1759",
+     "sha256": "3b283c2bacf2a7e3aa05ab629d6186f01aff7cfefbab35fd85bb6dbf0242d7a6"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 21,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.111/versions/1846",
+     "sha256": "f558d12ad8b36121d62871c4d473e97858d43764ea1c76939451f7b8a9db1e0a"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 21,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.111",
+     "sha256": "3f587fad145307ebb459fc4aa51e224266c1d0f2f7b9a6c4c986d7f83d82e3a7"
+    }
+   ]
+  },
+  {
+   "slug": "141-112",
+   "short": "GDB 141.112",
+   "title": "Ausführungsbestimmungen über die Anstellungsbefugnisse und das Personaldossier",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/141.112",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 14,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.112/versions/217",
+     "sha256": "439503bdff38b64bdcd2c9e7402484e8be0cbfc23047c7da885d4d62bc66e665"
+    },
+    {
+     "from": "2015-05-01",
+     "units": 15,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.112/versions/959",
+     "sha256": "dfd4ee4a8fd15081fa7352e8417cf2f78c4ff3d7d79b7fdc04e2e4a4c34142bb"
+    },
+    {
+     "from": "2016-02-01",
+     "units": 19,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.112",
+     "sha256": "bed513091e1655c4c5f3c190ae239467ae03a0bcdde2317f68e615ac27537c57"
+    }
+   ]
+  },
+  {
+   "slug": "141-113",
+   "short": "GDB 141.113",
+   "title": "Ausführungsbestimmungen über die Arbeitszeit bei der kantonalen Verwaltung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/141.113",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "units": 22,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.113/versions/168",
+     "sha256": "9e0a22060dc426a2adee724c94ab2de29cd302f2a54671b9ddee33adfa36c3cc"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 24,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.113/versions/1164",
+     "sha256": "0af5fbd86d3aa4a35fef4b051f828b78688c06f9171f3609951470d91f4f58f6"
+    },
+    {
+     "from": "2019-07-01",
+     "units": 24,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.113/versions/1356",
+     "sha256": "af152691147459ac918c727560fe0a0696f314ebbaa55f4c51d6ac816281f5a1"
+    },
+    {
+     "from": "2021-03-01",
+     "units": 24,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.113/versions/1506",
+     "sha256": "9ebbb12cb64f44bbf6b745729d24afb830ad1a52bb2c4a80790db2dd6f35b5a7"
+    },
+    {
+     "from": "2021-12-01",
+     "units": 24,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.113",
+     "sha256": "c3e89804595729526fee233338bf3718408182f85f1fad3a29a0d445be0efaf1"
+    }
+   ]
+  },
+  {
+   "slug": "141-114",
+   "short": "GDB 141.114",
+   "title": "Ausführungsbestimmungen über die Spesenentschädigungen und Zulagen im Staatsdienst",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/141.114",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 17,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.114/versions/622",
+     "sha256": "6a9fd087c8f6866df78fe07f0c95646fccc8e8112d665d64944047ce1b718b0b"
+    },
+    {
+     "from": "2013-06-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.114/versions/765",
+     "sha256": "0b8fa5af6c0f9a26b2201d4ce3c157b7c00fc0d06a9988bdad6e6e7d65c3a2b3"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.114",
+     "sha256": "12eebad31518340b3898ad0c64e0b60a919250a645b82c7047b719ca5fb52c16"
+    }
+   ]
+  },
+  {
+   "slug": "141-115",
+   "short": "GDB 141.115",
+   "title": "Ausführungsbestimmungen über die Weiterbildung bei der kantonalen Verwaltung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/141.115",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 21,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.115/versions/1001",
+     "sha256": "c145b3c6099d2d3d3fb90ffcf7fb058fc5461319ef7f8ea7924e865a273933f9"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 21,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.115",
+     "sha256": "3f081011aa854537a35722e7a111780f524d62497fd498872e2177a9fc842a90"
+    }
+   ]
+  },
+  {
+   "slug": "141-117",
+   "short": "GDB 141.117",
+   "title": "Ausführungsbestimmungen über die beschützenden Arbeitsplätze",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/141.117",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 8,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/141.117",
+     "sha256": "3885ffd756589b3d670458ce20796d7c20d955e929e1139beec9573d9d9d1961"
+    }
+   ]
+  },
+  {
+   "slug": "160-2",
+   "short": "GDB 160.2",
+   "title": "Kirchenorganisation der Evangelisch-reformierten Kirchgemeinde Obwalden (alter Kantonsteil)",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/160.2",
+   "versions": [
+    {
+     "from": "2004-12-02",
+     "units": 35,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/160.2",
+     "sha256": "51e42b55cf702892f56bd73a07626bd26b1459568179631cb3e85dba795f6e25"
+    }
+   ]
+  },
+  {
+   "slug": "160-3",
+   "short": "GDB 160.3",
+   "title": "Kirchenorganisation der Evangelisch-reformierten Kirchgemeinde Engelberg",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/160.3",
+   "versions": [
+    {
+     "from": "2004-12-02",
+     "units": 34,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/160.3",
+     "sha256": "053cc4509908da4080a20a6221e09d50470df1533e5204ebdac93469f58856ff"
+    }
+   ]
+  },
+  {
+   "slug": "210-115",
+   "short": "GDB 210.115",
+   "title": "Ausführungsbestimmungen über den Vollzug von gerichtlich angeordneten elektronischen Überwachungen gemäss Art. 28c ZGB",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/210.115",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 6,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/210.115",
+     "sha256": "fd5910f806327e0c8981f6ef3e50e5ddaa1297ae2e2b6c87f0e6f9165ffc4077"
+    }
+   ]
+  },
+  {
+   "slug": "211-111",
+   "short": "GDB 211.111",
+   "title": "Verwaltungsvereinbarung betreffend die Zusammenarbeit der Kantone Luzern und Obwalden bei der Aufsicht im Zivilstandswesen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/211.111",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/211.111",
+     "sha256": "ff6c885e7abb0a6c39e9d1f040660969dd944699c704a884bab905e41964ea18"
+    }
+   ]
+  },
+  {
+   "slug": "211-115",
+   "short": "GDB 211.115",
+   "title": "Ausführungsbestimmungen der ZBSA betreffend die Aufsicht über die Stiftungen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/211.115",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 16,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/211.115",
+     "sha256": "777855897c36fa80c1babbe118b88ac69cf58b1f69d88ba7122ac8591bfacc5d"
+    }
+   ]
+  },
+  {
+   "slug": "211-211",
+   "short": "GDB 211.211",
+   "title": "Ausführungsbestimmungen zum Kindes- und Adoptionsrecht",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/211.211",
+   "versions": [
+    {
+     "from": "2013-02-01",
+     "units": 17,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/211.211/versions/558",
+     "sha256": "b5d464620a66a13a8a31aca91d04734b2c668fecd5dbb7ac0e14704705ed626e"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/211.211/versions/809",
+     "sha256": "2a4dad0ede7888c1eada3dd38ab6e7326ccd3be6eac354a971c4a5870c7d49a2"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/211.211",
+     "sha256": "6b969524ba2839ca1182095c111a188a4fd27c2af2d7d14de16bf163d50a1c9b"
+    }
+   ]
+  },
+  {
+   "slug": "211-311",
+   "short": "GDB 211.311",
+   "title": "Ausführungsbestimmungen zum Personen- und Eherecht",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/211.311",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/211.311",
+     "sha256": "d42aaa4a606a86b16a66e223f54d1de788fa075993ca19a60300c1d8e0dece9f"
+    }
+   ]
+  },
+  {
+   "slug": "211-611-ab-kesr",
+   "short": "AB KESR",
+   "title": "Ausführungsbestimmungen zur Verordnung betreffend die Einführung des Kindes- und Erwachsenenschutzrechts",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/211.611",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 14,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/211.611/versions/100",
+     "sha256": "8a29fcf3d94a3b02d90e79214ce1c2d886046f5ff5c0abcfd85b5b837e07f64c"
+    },
+    {
+     "from": "2016-03-15",
+     "units": 14,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/211.611/versions/1054",
+     "sha256": "9936335b2f75e023ad5e2f33a8181adf341a931d3aef5e412bd5d328bcfed7f3"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 15,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/211.611/versions/1670",
+     "sha256": "0148f79578667559f13994816d0c9f304301f2bae3bffbe1475659db126ddf75"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 16,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/211.611",
+     "sha256": "231efbb54d8e75569b4ac827778369f32b1037d0fc710c7b7d685aab84c5ee5b"
+    }
+   ]
+  },
+  {
+   "slug": "213-111",
+   "short": "GDB 213.111",
+   "title": "Ausführungsbestimmungen über die Festlegung von Gebieten mit dauernden Bodenverschiebungen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/213.111",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 5,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.111",
+     "sha256": "ead2371a56d32eecab433d73ee2f6080b6072f642b28512b06e941f579fe5f3e"
+    }
+   ]
+  },
+  {
+   "slug": "213-410-ab-gb",
+   "short": "AB GB",
+   "title": "Ausführungsbestimmungen über das Grundbuch",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/213.410",
+   "versions": [
+    {
+     "from": "2017-06-01",
+     "units": 23,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.410/versions/1212",
+     "sha256": "4bd1d9f3cd325016aec12b8ebd59a7994c8ebf43be5b02e7145f586740983862"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 23,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.410/versions/1672",
+     "sha256": "9e51db7a99647beb1cd4f9a074a8121887a43f0f74b6f5ed93d4e1473affd57c"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 23,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.410",
+     "sha256": "cc7451fb643858dc4f780537642061e3792ae51230ecaaf1222b3fe39ac33457"
+    }
+   ]
+  },
+  {
+   "slug": "213-412",
+   "short": "GDB 213.412",
+   "title": "Ausführungsbestimmungen über den elektronischen Geschäftsverkehr und weitere Dienstleistungen mittels des informatisierten Grundbuchs",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/213.412",
+   "versions": [
+    {
+     "from": "2003-06-01",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.412/versions/714",
+     "sha256": "4c43a0e09f27d29cfe478cf2a411602e24a3dc55411cf816c2ff818014ab3fea"
+    },
+    {
+     "from": "2017-06-01",
+     "units": 8,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.412/versions/1210",
+     "sha256": "2023c7ce82aabf6780db3c0eedd5a0cf85e29513eb39b00d5429537cfbd00efd"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.412",
+     "sha256": "d399ffbc608d4c13eca66e7c50efadaec41c57ea051f05ceabd517d669725d84"
+    }
+   ]
+  },
+  {
+   "slug": "213-611",
+   "short": "GDB 213.611",
+   "title": "Ausführungsbestimmungen über die Rechnungsführung und Rechnungsstellung bezüglich der Beurkundungs-, Grundbuch- und Schatzungsgebühren",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/213.611",
+   "versions": [
+    {
+     "from": "1981-05-26",
+     "units": 6,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.611",
+     "sha256": "d2dd10b246a92ed03d442b1ef0c6b9af87fbaee17504e2e4a180eb45022f8dc5"
+    }
+   ]
+  },
+  {
+   "slug": "213-713",
+   "short": "GDB 213.713",
+   "title": "Ausführungsbestimmungen über die Gewährung eines Einschlags auf dem Eigenmietwert in Härtefällen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/213.713",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 8,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.713/versions/1126",
+     "sha256": "a99a187494dc9ade3e6474d68001b9ef0882fbf040ec56f18a3c1b566ed3650b"
+    },
+    {
+     "from": "2017-01-02",
+     "units": 9,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.713/versions/1187",
+     "sha256": "26cd30d1d10dca6cc17b463422d3ae34485df0103a7818b4d0a97281194538f3"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 10,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.713/versions/1906",
+     "sha256": "92b68feefec83187dce0c0f25436508d05d7ce01489727441751cc11455db936"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 10,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.713",
+     "sha256": "dc9e02e1eb888dff673f87a8903d8c3cd0a314dea7c5f7eaae2efb072714747a"
+    }
+   ]
+  },
+  {
+   "slug": "213-811",
+   "short": "GDB 213.811",
+   "title": "Ausführungsbestimmungen zur Vollziehungsverordnung zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/213.811",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 4,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.811",
+     "sha256": "6f1cc72b5de21df33327f76b720a2284291301f04529c5090a69d0eed25ccde1"
+    }
+   ]
+  },
+  {
+   "slug": "213-812",
+   "short": "GDB 213.812",
+   "title": "Regierungsratsbeschluss über die Förderungsorte und die Verteilung der Bewilligungen betreffend den Erwerb von Grundstücken durch Personen im Ausland für die Jahre 2025/2026",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/213.812",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 4,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.812/versions/226",
+     "sha256": "d5207348ed84b3be2b0fdbe34bb621c00673333388b4b4664a729e91d422a611"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 4,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.812/versions/891",
+     "sha256": "07b8762a37dba40aa5b2279723debbae13e78f71b4b897a6ae86539ced545359"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 4,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.812/versions/1145",
+     "sha256": "1b95bfde5919d33b451e54b16b35c519a4923e367e02e2c04b975a321186e26a"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 4,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.812/versions/1321",
+     "sha256": "a623cfe2f9b749b86152b758bd3b431a650fee2d38ed54febaceaf4c759ea55c"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 4,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.812/versions/1467",
+     "sha256": "02f2d7c3ccfb9c87f0699b95fcc37697a8603374b8d55926a43c0a4c1bbc3581"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 4,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.812/versions/1748",
+     "sha256": "3ec6ef3bbb2589c4a0a8a015e4bbd62109299dab6d9d7bfdadccba63e5e34baa"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 4,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.812",
+     "sha256": "038b07b76cc9f6e3cf76fb604fb20d38761466c8b0dfabe7196a80fdf4542f34"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 4,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/213.812/versions/2042",
+     "sha256": "bd133c1abf85e6a604ca8fe3be6b7516760058cd5c12705400abe0394481f7a9"
+    }
+   ]
+  },
+  {
+   "slug": "220-112",
+   "short": "GDB 220.112",
+   "title": "Ausführungsbestimmungen zum Verfahren bei der Gewährleistung im Viehhandel",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/220.112",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 3,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/220.112",
+     "sha256": "d824e2509c0538d79b2969725f71279b480ac2c6b1ec5b0dfcdab284a0f79106"
+    }
+   ]
+  },
+  {
+   "slug": "220-511",
+   "short": "GDB 220.511",
+   "title": "Ausführungsbestimmungen über die berufsmässige transnationale Ehe- oder Partnerschaftsvermittlung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/220.511",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 3,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/220.511",
+     "sha256": "5d1a22eb71812b617fcdef14fa94887e8a34d2f7cd3e73f07e31740b57db0bfb"
+    }
+   ]
+  },
+  {
+   "slug": "230-511",
+   "short": "GDB 230.511",
+   "title": "Ausführungsbestimmungen zur eidgenössischen Wappenschutzgesetzgebung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/230.511",
+   "versions": [
+    {
+     "from": "2020-03-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/230.511",
+     "sha256": "a75639944984fab8c0fda88c4340a8cb5e94e0d1aaf98492d9ad3d185b7b533e"
+    }
+   ]
+  },
+  {
+   "slug": "240-511",
+   "short": "GDB 240.511",
+   "title": "Ausführungsbestimmungen zum Lugano-Übereinkommen und zum Bundesgesetz über das Internationale Privatrecht",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/240.511",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 8,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/240.511",
+     "sha256": "d4e6b4d2f272271568c01136e1d34d629fce1c32f6ac9697a794bacd99b2fd5b"
+    }
+   ]
+  },
+  {
+   "slug": "310-711",
+   "short": "GDB 310.711",
+   "title": "Ausführungsbestimmungen über Praxen und Spitäler für den Schwangerschaftsabbruch",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/310.711",
+   "versions": [
+    {
+     "from": "2002-10-01",
+     "units": 5,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/310.711",
+     "sha256": "06eca24d1a2faf89458de78bb24c13d9c232929e70325e1cf39612dd6af7ed2e"
+    }
+   ]
+  },
+  {
+   "slug": "320-311",
+   "short": "GDB 320.311",
+   "title": "Vereinbarung über die Zusammenarbeit bei der Verfolgung von Wirtschaftsdelikten",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/320.311",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 16,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/320.311/versions/1855",
+     "sha256": "7dd990ad6b9028e59b247c1f8dc99ff9ff76440f121d2a873c6bc11a6cf278b4"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 16,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/320.311/versions/1856",
+     "sha256": "4c9109eff31f5aab2a9aa7442ffe46f7e77b511a1c849140fc84d48a8e1c64fb"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 17,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/320.311",
+     "sha256": "0d75766735f1d55f88b339215c002c49e1ea4de7c387e652bf3d4fc1d1818ff7"
+    }
+   ]
+  },
+  {
+   "slug": "320-511",
+   "short": "GDB 320.511",
+   "title": "Ausführungsbestimmungen zum Bundesgesetz betreffend die Überwachung des Post- und Fernmeldeverkehrs",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/320.511",
+   "versions": [
+    {
+     "from": "2018-11-01",
+     "units": 3,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/320.511",
+     "sha256": "75f0f3f039e2787ba12c601ad0364892e384a7526ffff5a8140ae122c7d29d44"
+    }
+   ]
+  },
+  {
+   "slug": "330-21",
+   "short": "GDB 330.21",
+   "title": "Gefängnisordnung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/330.21",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 35,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/330.21",
+     "sha256": "c9783501477a0e9dcf71c3a91f04c4cd8524e6eb83d4c386d1e04dd94607e0d3"
+    }
+   ]
+  },
+  {
+   "slug": "330-111",
+   "short": "GDB 330.111",
+   "title": "Ausführungsbestimmungen über die Bewährungshilfe im Strafvollzug",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/330.111",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 22,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/330.111",
+     "sha256": "a7e33abedbc093e91a5ed5f5bcde97c06fd94d367ffcc958baebd0e2114b8168"
+    }
+   ]
+  },
+  {
+   "slug": "330-211",
+   "short": "GDB 330.211",
+   "title": "Ausführungsbestimmungen zur Gefängnisordnung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/330.211",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 36,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/330.211/versions/1183",
+     "sha256": "caae3cdba0c5bcb79fd6f1830ef20053526b997cac46651dcac195ad0993cddc"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 36,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/330.211",
+     "sha256": "4cacbd8251533d08fd1f10a504665112a22243d199c84c760acf8ddb44de9bd3"
+    }
+   ]
+  },
+  {
+   "slug": "330-212",
+   "short": "GDB 330.212",
+   "title": "Ausführungsbestimmungen über das Disziplinarrecht im Freiheitsentzug",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/330.212",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 13,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/330.212",
+     "sha256": "486f4afcef204a2a723d900526d2de456e13511d6efe33fb607e6fc69248391e"
+    }
+   ]
+  },
+  {
+   "slug": "410-2",
+   "short": "GDB 410.2",
+   "title": "Konkordat über die Schulkoordination",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/410.2",
+   "versions": [
+    {
+     "from": "1971-06-09",
+     "units": 14,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.2",
+     "sha256": "db0d3f1193b7f3417e15c24e5b6d571bb3b69ff67f4ca2f48eec1a4ce26743c6"
+    }
+   ]
+  },
+  {
+   "slug": "410-3-rsz",
+   "short": "RSZ",
+   "title": "Regionales Schulabkommen Zentralschweiz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/410.3",
+   "versions": [
+    {
+     "from": "2012-08-01",
+     "units": 21,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.3",
+     "sha256": "eecc0b80480220ed62d04230e2b3cc24db8f3f1fcc30d94cca4eccb92fb9e7a8"
+    }
+   ]
+  },
+  {
+   "slug": "410-4",
+   "short": "GDB 410.4",
+   "title": "Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/410.4",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.4/versions/811",
+     "sha256": "650e97f809cbcb4ae383dcd91f7dfa3b38b21ffc33147520576ae758b20cce8a"
+    },
+    {
+     "from": "2014-09-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.4/versions/880",
+     "sha256": "2f308f6127ecd8adf35efb515a7b0f7a87e19befaf5eaeecc21c8875427c6736"
+    },
+    {
+     "from": "2015-05-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.4/versions/965",
+     "sha256": "6d99219d8dd247e1d6b6357c060c128c94e3acc054ca2bd21445f6ee7cebd187"
+    },
+    {
+     "from": "2015-11-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.4/versions/1023",
+     "sha256": "c6c7403140d606e618512223eeeb62c060fda6c464fba064b9ea746bdc016e6d"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.4/versions/1237",
+     "sha256": "1933c9e0ce8d6c912c59d47f2a834eb57402ddc18670a01efa13923afba6ce28"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.4",
+     "sha256": "c53eade61e755a94217ec7f926b72b83d6bef4b244f9da0fc30bba2d61d59d7f"
+    }
+   ]
+  },
+  {
+   "slug": "410-131",
+   "short": "GDB 410.131",
+   "title": "Ausführungsbestimmungen über die Schuldienste",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/410.131",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 13,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.131/versions/182",
+     "sha256": "19317e761e46e966f0189e3a7268cfacb9469fa2883447dfc1f16713cb1177ca"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 13,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.131",
+     "sha256": "4a50d7c68cddcb36723f8bd040e72b1429afa731f5b9903ad1f933db0ff4d460"
+    }
+   ]
+  },
+  {
+   "slug": "410-132",
+   "short": "GDB 410.132",
+   "title": "Ausführungsbestimmungen über die Sonderpädagogik in den Bereichen Sonderschulung, Förderangebote und Nachteilsausgleich",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/410.132",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 31,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.132/versions/122",
+     "sha256": "468866df124b6cdf6347ec40bc044a715b382dcdb285892f2453acb08c9cfc58"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 28,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.132/versions/1848",
+     "sha256": "3fd7299138add76c8aa6bef43c37e0228d27989cd44cdf5bee3304325baa8a93"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 27,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.132",
+     "sha256": "4d05921a4ca19f640608272f3c8d02042b8119a63cc2a08c24fb4c5a6cba3e1d"
+    }
+   ]
+  },
+  {
+   "slug": "410-133",
+   "short": "GDB 410.133",
+   "title": "Ausführungsbestimmungen zur Verordnung über Leistungsangebote in den Bereichen Sozialpädagogik, Sonderschulung und Förderung von Menschen mit einer Behinderung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/410.133",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.133/versions/668",
+     "sha256": "1733a6ce491c35a2c4d4f9f6ae6c520dd0e1cdb00183d531c19f088f4ab8f055"
+    },
+    {
+     "from": "2016-08-01",
+     "units": 12,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.133/versions/1091",
+     "sha256": "23c4791d780a662294ae8429358478e352bc2021535041db7d9b92ec16e606b5"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 12,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.133/versions/1620",
+     "sha256": "6510387ae6f846e21b2d71dc726bc334485980839b8a34afa20c0b68d9ab0743"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.133",
+     "sha256": "fa1213b0f98c898edb782120fe0e013f4da5a55b9bc3546d439a3a2d4e60352d"
+    }
+   ]
+  },
+  {
+   "slug": "410-134",
+   "short": "GDB 410.134",
+   "title": "Ausführungsbestimmungen über die Beteiligung an den Kosten des Grundschulunterrichts",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/410.134",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "units": 8,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.134/versions/87",
+     "sha256": "86ee5f8239fbac59162d75cd764316079e7141820a98f849cce0f8797816c368"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 4,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.134/versions/1314",
+     "sha256": "8c66354f8b6ff0dcd2b199cdca2b23de1fd92e1ecb53b4d6c4789114a9715f53"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 5,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.134",
+     "sha256": "ae56528db32cd547aa635df5ba3970723f87026e9fcc5543376a72ba8adf3371"
+    }
+   ]
+  },
+  {
+   "slug": "410-512",
+   "short": "GDB 410.512",
+   "title": "Ausführungsbestimmungen über die Schulgesundheit",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/410.512",
+   "versions": [
+    {
+     "from": "2016-02-01",
+     "units": 17,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.512/versions/1044",
+     "sha256": "62f24175885542c47ca391a4196d5caf412578b7c6bdf5aefa868317a8caf857"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.512/versions/1090",
+     "sha256": "5146ebed996d9c8fac722c12ddbb1be5651ff986ea596e0c54be7af71bb6a00d"
+    },
+    {
+     "from": "2019-07-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.512/versions/1348",
+     "sha256": "b93c89f957080bb7ca53b20323681b6f97e9456994de290661d879e80b3c68cd"
+    },
+    {
+     "from": "2022-08-01",
+     "units": 19,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.512/versions/1588",
+     "sha256": "6b26c16985e6122b4ad8697fe83269ab287341111666dc10a79ac5991ca99a40"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 19,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.512/versions/1865",
+     "sha256": "c42ba3d45067c4c07aa2c5c89b0303ea31e7d9af5acf4f2b039d239175554e7b"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.512",
+     "sha256": "41201713a0f0a5dc3a2611972a155e8c174c18c7256e0cc5dfece7a72997b433"
+    }
+   ]
+  },
+  {
+   "slug": "410-811",
+   "short": "GDB 410.811",
+   "title": "Ausführungsbestimmungen über die für Hochbegabte anerkannten Vertragsschulen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/410.811",
+   "versions": [
+    {
+     "from": "2012-08-01",
+     "units": 4,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.811/versions/146",
+     "sha256": "439e17af5334588789cdfc2ec24de91ca6126ede9cb17d3a71c2a58d96c9a7fb"
+    },
+    {
+     "from": "2014-08-01",
+     "units": 4,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.811/versions/837",
+     "sha256": "cc0c007226411c466b79a0607cca5198d6b304b07872edfb6a13a99763d4d565"
+    },
+    {
+     "from": "2015-08-01",
+     "units": 4,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.811/versions/953",
+     "sha256": "4bdab487580d8ca0f9894c0783472bb84941c7f39a73d1048f53c393b9fbae91"
+    },
+    {
+     "from": "2017-08-01",
+     "units": 5,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/410.811",
+     "sha256": "71f15a2f679306e7f62badece1f09b195e3f51579bb8419689b9780f2d9389d5"
+    }
+   ]
+  },
+  {
+   "slug": "412-111",
+   "short": "GDB 412.111",
+   "title": "Ausführungsbestimmungen über das Beurteilen, die Promotion und das Übertrittsverfahren in der Volksschule",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/412.111",
+   "versions": [
+    {
+     "from": "2011-08-01",
+     "units": 34,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/412.111/versions/154",
+     "sha256": "3cc086fdb8c5088434b5306bc6bd8ddc53db479e4fa28613c89dd0f0a7610dbf"
+    },
+    {
+     "from": "2017-08-01",
+     "units": 34,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/412.111/versions/1108",
+     "sha256": "fdc3d704f9c3d410b686079ccc6af20c9e7c5d7b00ee02311eeda85fa7f36c1a"
+    },
+    {
+     "from": "2020-08-01",
+     "units": 34,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/412.111/versions/1445",
+     "sha256": "53af491d7b96313a25bc965cf732665dffed5191f16f0657e710e623649bc97b"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 33,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/412.111",
+     "sha256": "7363a4b303d39c09a5b72f49b6e6fe4be67aaede72822e81d255a2720a2bbef7"
+    }
+   ]
+  },
+  {
+   "slug": "412-112",
+   "short": "GDB 412.112",
+   "title": "Ausführungsbestimmungen über die Stundentafel für die Volksschule",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/412.112",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 5,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/412.112/versions/943",
+     "sha256": "2cca008f3b2161b806932cfa66a2102e7c865be432b57005553966fbf88aad59"
+    },
+    {
+     "from": "2017-08-01",
+     "units": 6,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/412.112/versions/1000",
+     "sha256": "43ea4d562d2f63ddf1ce91820e076e0a891101156dce1e6021d44d87ce6c0329"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 5,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/412.112",
+     "sha256": "d3d969b05d93a25ac86a1caa3a803250eb85a3be09b13459ab61bbb16200e181"
+    }
+   ]
+  },
+  {
+   "slug": "412-114",
+   "short": "GDB 412.114",
+   "title": "Ausführungsbestimmungen über die Basisstufe",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/412.114",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 8,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/412.114",
+     "sha256": "62592cbc73263df894f48c80b504400a5f1f738b014e23f5fe4f14275fc18660"
+    }
+   ]
+  },
+  {
+   "slug": "412-115",
+   "short": "GDB 412.115",
+   "title": "Ausführungsbestimmungen über die kantonalen Vorgaben zu den schulergänzenden Tagesstrukturen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/412.115",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 21,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/412.115",
+     "sha256": "4341de3f697164db4de688ec8c909a6b73a70cd4eed7ff3790cc858ab4e5fa47"
+    }
+   ]
+  },
+  {
+   "slug": "414-62",
+   "short": "GDB 414.62",
+   "title": "Leistungsvereinbarung mit dem Kloster und der Stiftsschule Engelberg über die Aufnahme und Ausbildung von Schülerinnen und Schülern aus dem Kanton Obwalden",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/414.62",
+   "versions": [
+    {
+     "from": "2012-08-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/414.62/versions/621",
+     "sha256": "8d46a3ca3459ec1947f8815d9bcb8fed11424f54f069d5ccf91234ef4d0baba4"
+    },
+    {
+     "from": "2013-08-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/414.62/versions/791",
+     "sha256": "76943b16c4d4193f836d701addbac365c14f503367f10110abed43f6c5b3006e"
+    },
+    {
+     "from": "2014-08-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/414.62/versions/829",
+     "sha256": "e2e7e56465d3876cbc5aeb98cdb5bf6b633846ed643a7f5d5cf02cc3f1cda4e4"
+    },
+    {
+     "from": "2019-08-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/414.62",
+     "sha256": "3a66937b4c484465c573aaea796558d4a5c2541c3d923da428074770a6fc4c36"
+    }
+   ]
+  },
+  {
+   "slug": "414-64",
+   "short": "GDB 414.64",
+   "title": "Leistungsvereinbarung mit der Schweizerischen Sportmittelschule Engelberg AG",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/414.64",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/414.64/versions/1936",
+     "sha256": "eda56106706c7c48d937e602b5ac02cc80baec0b303778f9228bd3952da61256"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/414.64",
+     "sha256": "657b0e7d15c0a0b3f33cfa48cd1de8178c0df7fa0f71494f0459b49049d7b244"
+    }
+   ]
+  },
+  {
+   "slug": "414-211",
+   "short": "GDB 414.211",
+   "title": "Ausführungsbestimmungen über die Kantonsschule (Organisationsstatut)",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/414.211",
+   "versions": [
+    {
+     "from": "2012-02-01",
+     "units": 38,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/414.211/versions/151",
+     "sha256": "f6cd907c59a9c82625f521a5b7e83559eda3dbdaee1a7ffdb09da3da9461a42c"
+    },
+    {
+     "from": "2016-08-01",
+     "units": 38,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/414.211/versions/1053",
+     "sha256": "b97875e3c20a55e5c791b433338c1a4b6f723d556ec2cdfa8ecac6973aef29a9"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 38,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/414.211/versions/1144",
+     "sha256": "8eb917dc3facf682d9482ba8dfb0f32fd05d47d3f821274424fd6e533bed3f22"
+    },
+    {
+     "from": "2021-08-01",
+     "units": 38,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/414.211/versions/1416",
+     "sha256": "7efbecc52a3e6cc29a903500a3a05a009aeb7cca2cef239adc3f31ff4d791f75"
+    },
+    {
+     "from": "2022-08-01",
+     "units": 38,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/414.211/versions/1578",
+     "sha256": "d8bf910f1876174ff01bd11571ad06c3a4709eea1728dec025e1de3b411e6d03"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 38,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/414.211",
+     "sha256": "aec08402fc304cbb902fb765694207e328a1f351cc26a11f0270d6006623850a"
+    }
+   ]
+  },
+  {
+   "slug": "414-215",
+   "short": "GDB 414.215",
+   "title": "Ausführungsbestimmungen über die Maturitätsprüfungen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/414.215",
+   "versions": [
+    {
+     "from": "2011-08-01",
+     "units": 39,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/414.215/versions/183",
+     "sha256": "b7fa573b4fbcdc5d70c263f1a0f066cb5d0a75b0cf8cc6d4131a827ed59ce5b2"
+    },
+    {
+     "from": "2020-05-11",
+     "units": 40,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/414.215/versions/1425",
+     "sha256": "b77ec387335146e5eb7eefa91d1e8d3eafcb189923a564acadebfbb3b5d4eb95"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 42,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/414.215",
+     "sha256": "6c6b25cd3008e9c60e4978688470ec467c78161e90edda098a0f6d73b933e262"
+    }
+   ]
+  },
+  {
+   "slug": "415-31-interkantonale-universitatsvereinbarung-iuv",
+   "short": "Interkantonale Universitätsvereinbarung, IUV",
+   "title": "Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/415.31",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "units": 30,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/415.31/versions/1272",
+     "sha256": "21c300ed5e3198bf6974588b452b2c85c2b55416c75d18e795c6491d2f37ffc3"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 30,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/415.31",
+     "sha256": "bb6ef697e85b131d24fba47670902275c1f6e27c5510dc98214070faa62eb7f5"
+    }
+   ]
+  },
+  {
+   "slug": "415-52-hfsv",
+   "short": "HFSV",
+   "title": "Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/415.52",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 23,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/415.52",
+     "sha256": "c514a79842b69b04dd4a20fc0a920da61eed9c89a1d9b6344cf963a1fe743311"
+    }
+   ]
+  },
+  {
+   "slug": "415-111",
+   "short": "GDB 415.111",
+   "title": "Ausführungsbestimmungen über die gemäss Interkantonaler Fachschulvereinbarung anerkannten Vertragsschulen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/415.111",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 5,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/415.111",
+     "sha256": "65df2d7bbb8aad466e6734e11c4c43d1f9a6d97057b2a54dc1734d4b0694b6e6"
+    }
+   ]
+  },
+  {
+   "slug": "415-421-zfhvo",
+   "short": "ZFHVo",
+   "title": "Zentralschweizer Fachhochschul-Verordnung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/415.421",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 15,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/415.421/versions/249",
+     "sha256": "b7b6354ae80bf812aea98f51fa687494b205ca266af879781fb8cc4329f72b3c"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 15,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/415.421/versions/1516",
+     "sha256": "51cf901277452c8efa137c498ca816ce8e7bfc352d8f59bfc381636defa54426"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 16,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/415.421/versions/1803",
+     "sha256": "5f256567cc7f9f3ae3207c875083e3e6d8ab6913212a8d2a2dfeba7e9670b108"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 15,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/415.421",
+     "sha256": "c89c2fea813a91240fa7c96dc8f17f55da1ab6d54af2fbb8b04ec57be4f5ea6f"
+    }
+   ]
+  },
+  {
+   "slug": "416-111",
+   "short": "GDB 416.111",
+   "title": "Ausführungsbestimmungen über die Berufsbildung und die Weiterbildung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/416.111",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 56,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/416.111/versions/152",
+     "sha256": "5c24f2bf25562958e9c805031b57075230c9e4e0a97ef31659716b51b96362e0"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 57,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/416.111/versions/632",
+     "sha256": "066c14b15bb39272ffaec703be1f3178f3cec8668170e0cc6b4da4ea86b31135"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 57,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/416.111/versions/1238",
+     "sha256": "506b87ca855c0c650d4990a7a551920b98f1a28c3f444611c088a73349bd9382"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 56,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/416.111",
+     "sha256": "cf0725f97f6a3d06992e2942b2af8cec64de2d35474847c0b8c80d3a5280d1cf"
+    }
+   ]
+  },
+  {
+   "slug": "416-211",
+   "short": "GDB 416.211",
+   "title": "Ausführungsbestimmungen über die Brückenangebote",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/416.211",
+   "versions": [
+    {
+     "from": "2006-08-01",
+     "units": 25,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/416.211/versions/206",
+     "sha256": "8bff02cf00da54d75fa441d1a40878897fdd62cfff4b312ad6183c34bd63f9ba"
+    },
+    {
+     "from": "2018-08-01",
+     "units": 26,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/416.211/versions/1284",
+     "sha256": "d666ae14cbd0710cce5d7ffcd0912e8126e425dea5350a562db145ee5df61076"
+    },
+    {
+     "from": "2020-05-01",
+     "units": 26,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/416.211/versions/1421",
+     "sha256": "53417e966c5cc9b2371c848187f3f44ee81369cc449b7f29161a7490f5202f7e"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 25,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/416.211",
+     "sha256": "7c77d0c8de058bbbf460c64eda0a04e5a7cb047f2bcaba166efbbf95303b55c1"
+    }
+   ]
+  },
+  {
+   "slug": "416-212",
+   "short": "GDB 416.212",
+   "title": "Ausführungsbestimmungen über die Berufsmaturitätsschule",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/416.212",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 34,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/416.212/versions/155",
+     "sha256": "d1c8bef8da1dc91109c94071b7a31023701ce72546d3db9622fa0be6523e10fe"
+    },
+    {
+     "from": "2015-08-01",
+     "units": 33,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/416.212/versions/958",
+     "sha256": "54eb015c590c0daaf333b221a63f30fd66417c8f0dcd6f85b5a9d88c64d94344"
+    },
+    {
+     "from": "2020-05-01",
+     "units": 33,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/416.212/versions/1420",
+     "sha256": "92f2f26da0eba7140a6ef56f6b591ae0fd4559c3e5ca9d52be97e7225574f0ab"
+    },
+    {
+     "from": "2021-08-01",
+     "units": 24,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/416.212/versions/1522",
+     "sha256": "b1965829e343e9ac25548032c8ca504467d6060d65b6bc23f0563ec40575c553"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 24,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/416.212/versions/1840",
+     "sha256": "e31e328cb1926ead05477e2d68280c7b633e135e09d792bfd555a31d7b0dcf89"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 23,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/416.212",
+     "sha256": "86a1de3fd06cf783b9384fe9f4dce5d02b494ae4c84e19be87d08104fd7fdd98"
+    }
+   ]
+  },
+  {
+   "slug": "416-213",
+   "short": "GDB 416.213",
+   "title": "Ausführungsbestimmungen über die Aufnahme in Fachmittelschulen und Mittelschulen mit Berufsabschluss",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/416.213",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "units": 10,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/416.213/versions/755",
+     "sha256": "9a4eb019c04726e42f5cdc31a56c0450e749285716170a4f1889df1fb8d7c70a"
+    },
+    {
+     "from": "2021-08-01",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/416.213/versions/1523",
+     "sha256": "d7440d7ff3d642344302487530b4052acf3a2dfaab352a3b9b41919487e87456"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 10,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/416.213",
+     "sha256": "055eb401350e13fedeb7da53a375aba6806813cb62abe6d924db6ac57c029b15"
+    }
+   ]
+  },
+  {
+   "slug": "416-214",
+   "short": "GDB 416.214",
+   "title": "Ausführungsbestimmungen über die Aufnahme in Berufsmaturitätsschulen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/416.214",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 10,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/416.214/versions/1838",
+     "sha256": "d96544c37f1c031c2a7dddf4901ab2a313dd4145799d5f34d19670256d64f6c7"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 10,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/416.214",
+     "sha256": "afd4ef07e309b845aa89cea6c999fa7b71e252b49f2b0f6017015ee89c650417"
+    }
+   ]
+  },
+  {
+   "slug": "418-111",
+   "short": "GDB 418.111",
+   "title": "Ausführungsbestimmungen über die Beiträge an begabte Sportlerinnen und Sportler sowie die Entschädigung der Schulsportcoaches",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/418.111",
+   "versions": [
+    {
+     "from": "2011-08-01",
+     "units": 6,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/418.111/versions/754",
+     "sha256": "383eb79a743c0b1a9d4073b203710f8cd9f0542b7b0dd834d3dc549649220eb7"
+    },
+    {
+     "from": "2018-08-01",
+     "units": 7,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/418.111",
+     "sha256": "f1db330726e58b60cfc1da9894b50054f878553ad2389e4943cfe8f81be1bbc1"
+    }
+   ]
+  },
+  {
+   "slug": "419-2",
+   "short": "GDB 419.2",
+   "title": "Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/419.2",
+   "versions": [
+    {
+     "from": "2019-10-24",
+     "units": 29,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/419.2",
+     "sha256": "b6f207aadacb88dbd83a488e899e5e80a8d10eb28ab5fe3886e0816174af4b74"
+    }
+   ]
+  },
+  {
+   "slug": "419-111",
+   "short": "GDB 419.111",
+   "title": "Ausführungsbestimmungen über die Ausrichtung von Ausbildungsbeiträgen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/419.111",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 22,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/419.111/versions/240",
+     "sha256": "a02f2080353778db74bd053314760250ccb0c32bfa8599f64d50a20e5cc57dfd"
+    },
+    {
+     "from": "2014-08-01",
+     "units": 23,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/419.111/versions/867",
+     "sha256": "95a498b1facf73a78fc37d9ac1fe94c50ed8515563bea4d7b77257d04e35eb63"
+    },
+    {
+     "from": "2017-02-09",
+     "units": 23,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/419.111/versions/1178",
+     "sha256": "7b319a6811cf50ecdf178cd7fc27ef7e33e92f3def94eee20479032373a2cc50"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 23,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/419.111",
+     "sha256": "9d7cd496bacafd942bc01f9b2a4d59f7da14b4314ba5d21e9d4e23b1224a7318"
+    }
+   ]
+  },
+  {
+   "slug": "451-111",
+   "short": "GDB 451.111",
+   "title": "Ausführungsbestimmungen über die Kulturförderung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/451.111",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 9,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/451.111",
+     "sha256": "f9ea60fb846f8e5affaee66885302f64b6800a312e9a45ced98e696f87b0c243"
+    }
+   ]
+  },
+  {
+   "slug": "451-511",
+   "short": "GDB 451.511",
+   "title": "Ausführungsbestimmungen über die Kantonsbibliothek",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/451.511",
+   "versions": [
+    {
+     "from": "2009-12-01",
+     "units": 16,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/451.511/versions/582",
+     "sha256": "f6e2db873b727382fa16e85431f86db2abbf3773311936a5e845139a30f7f87c"
+    },
+    {
+     "from": "2016-06-01",
+     "units": 17,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/451.511/versions/1062",
+     "sha256": "cb7e8fcc62e1ca5fbccf416330e6ecfe075afc735c2bf3eff268a7895faad3e6"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 13,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/451.511",
+     "sha256": "eb3b215725e2bcf2a74b16d15c5bf43a9a64401b2e20fdd3608007dbfb8aa33b"
+    }
+   ]
+  },
+  {
+   "slug": "454-111",
+   "short": "GDB 454.111",
+   "title": "Ausführungsbestimmungen über den Kulturgüterschutz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/454.111",
+   "versions": [
+    {
+     "from": "2010-06-01",
+     "units": 17,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/454.111/versions/207",
+     "sha256": "9ffcece31a33c7544e5fc326d9c4c87a0c84ae71d685d0933314bc1fcd5d6ad0"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 17,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/454.111",
+     "sha256": "227b5d358fef42d71eecf942303b9470933aba78002e447a2d666d669ad6780b"
+    }
+   ]
+  },
+  {
+   "slug": "510-4-ikapol",
+   "short": "IKAPOL",
+   "title": "Vereinbarung über die interkantonalen Polizeieinsätze",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/510.4",
+   "versions": [
+    {
+     "from": "2006-11-09",
+     "units": 20,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.4/versions/1883",
+     "sha256": "516d7b9784623a9344742aa057b99a26a5c20875f97f15e3446465e455cbe8c4"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 20,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.4",
+     "sha256": "8f82adba673d04cf2802a99d1d6a76a7d228567ab3d7f699ac861f086d24709a"
+    }
+   ]
+  },
+  {
+   "slug": "510-5",
+   "short": "GDB 510.5",
+   "title": "Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/510.5",
+   "versions": [
+    {
+     "from": "2013-03-21",
+     "units": 22,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.5",
+     "sha256": "f88500bede4180b9949156a73f994c14f06d1003c0550e488c50b18fd450b8d2"
+    }
+   ]
+  },
+  {
+   "slug": "510-7-viclas-konkordat",
+   "short": "ViCLAS-Konkordat",
+   "title": "Interkantonale Vereinbarung (bzw. Konkordat) über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/510.7",
+   "versions": [
+    {
+     "from": "2010-08-01",
+     "units": 24,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.7",
+     "sha256": "c4afd4412cd03df2c03ac70054d2f20338aab4bb730a5c62a3e16b6b442bb7e3"
+    }
+   ]
+  },
+  {
+   "slug": "510-111-ab-polg",
+   "short": "AB PolG",
+   "title": "Ausführungsbestimmungen zum Polizeigesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/510.111",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 36,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.111/versions/143",
+     "sha256": "8bb9ac06b4e61d8ca6322ad1f2eb1357c615a349e9cd27ad63fbecb0c6c94e10"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 38,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.111/versions/1626",
+     "sha256": "8910df1acd5baf2e306a59f636978070a609561adf535fca87f3aad54470321a"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 38,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.111/versions/1892",
+     "sha256": "cbcb9e3e4829342aa2b0e8f961cac26ebda260609f3894bf0b3806e52feb84b8"
+    },
+    {
+     "from": "2025-05-01",
+     "units": 38,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.111",
+     "sha256": "8980e473bf20d8a420e073da852bf6ecbcb15c0b4f892a178f4c6c324ff1df5c"
+    }
+   ]
+  },
+  {
+   "slug": "510-112-ab-kfp",
+   "short": "AB KfP",
+   "title": "Ausführungsbestimmungen über Kosten für Polizeidienste",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/510.112",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.112/versions/542",
+     "sha256": "7bafc1e5b212636f21bc8198fe8f3be5554c21166ef06bc03bb38c6489e11eb9"
+    },
+    {
+     "from": "2014-04-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.112/versions/841",
+     "sha256": "4a60c6cdaf9acaa1efa4c21a7e64231332ec6e0e856b7eacf89921a327dcb399"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.112/versions/1169",
+     "sha256": "4efbb36985f855ed1517cdb04ce81d25c021517c7849ac6854f6778b593990d5"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 18,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.112",
+     "sha256": "a60c7e58dc1dc65753df6cce1e9bcaf72b2039f47f5e265325d21dbce24a3fd9"
+    }
+   ]
+  },
+  {
+   "slug": "510-113",
+   "short": "GDB 510.113",
+   "title": "Ausführungsbestimmungen über die zentrale Alarmanlage",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/510.113",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 9,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.113",
+     "sha256": "366f1a36f9693ddf6628dc2273e79b68c2b4fd02b376d0fb7dae1fedd02c1ae7"
+    }
+   ]
+  },
+  {
+   "slug": "510-116",
+   "short": "GDB 510.116",
+   "title": "Ausführungsbestimmungen über die Aufsicht über die nachrichtendienstlichen Tätigkeiten",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/510.116",
+   "versions": [
+    {
+     "from": "2018-10-01",
+     "units": 3,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.116",
+     "sha256": "23229535c889b98cb16f22846243b15143cf6909173a9725d69294e7bbf5576a"
+    }
+   ]
+  },
+  {
+   "slug": "510-511",
+   "short": "GDB 510.511",
+   "title": "Ausführungsbestimmungen zum Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/510.511",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 6,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.511/versions/613",
+     "sha256": "cdf8389c451c0a436cdc488c34ef10ad11393a7996d48360e4e8de8b18577b42"
+    },
+    {
+     "from": "2013-03-21",
+     "units": 6,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.511",
+     "sha256": "d848ddd6ab41aeb296f97fbb16242fc86ecd7c104dc94dc7a0265834ec47e1e7"
+    }
+   ]
+  },
+  {
+   "slug": "510-711",
+   "short": "GDB 510.711",
+   "title": "Ausführungsbestimmungen zur interkantonalen Vereinbarung (bzw. Konkordat) über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten (ViCLAS-Konkordat)",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/510.711",
+   "versions": [
+    {
+     "from": "2010-08-01",
+     "units": 5,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.711",
+     "sha256": "0d0515c02a2fe6270d0c79ab5d579c91a6ef3afd525b37aa94ef4de8dcc4ec0c"
+    }
+   ]
+  },
+  {
+   "slug": "510-911",
+   "short": "GDB 510.911",
+   "title": "Ausführungsbestimmungen zum Waffengesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/510.911",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 9,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.911",
+     "sha256": "fc4158492cd2634acc9000985f0f79058e1a32cb03d975f48769dc2b28d45117"
+    }
+   ]
+  },
+  {
+   "slug": "510-912",
+   "short": "GDB 510.912",
+   "title": "Ausführungsbestimmungen zum Sprengstoffgesetz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/510.912",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 11,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/510.912",
+     "sha256": "e2e17fe081d4b7503f64473f5d605cfd720fcaad3bd58119e74a517e857acf42"
+    }
+   ]
+  },
+  {
+   "slug": "530-111",
+   "short": "GDB 530.111",
+   "title": "Ausführungsbestimmungen über die Militärverwaltung",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/530.111",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 9,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/530.111",
+     "sha256": "0396439dd1e48bbbb5457ad217e72c555c40c528f2ea84aca36fd941e5ad1b1b"
+    }
+   ]
+  },
+  {
+   "slug": "540-111-ab-kbsg",
+   "short": "AB kBSG",
+   "title": "Ausführungsbestimmungen über den Bevölkerungsschutz",
+   "url": "http://gdb.ow.ch/app/de/texts_of_law/540.111",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 14,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/540.111/versions/609",
+     "sha256": "75d760f190f627b5f74795c9f84bf6b91b3d3869d68fa0df44a6eb762aa7c918"
+    },
+    {
+     "from": "2017-05-01",
+     "units": 14,
+     "source_url": "https://gdb.ow.ch/api/de/texts_of_law/540.111",
+     "sha256": "1c669e68ede1128adf2b914f178070a6e88ec9f8645e65e3ec7bb3f56744bd18"
+    }
+   ]
   }
  ]
 }
