@@ -1,6 +1,6 @@
 # How this repository was made (Obwalden)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-24, the day the source data was retrieved.
 
 ## Sources
 
@@ -269,20 +269,90 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `510-912` | Ausführungsbestimmungen zum Sprengstoffgesetz | 1 | 2012-01-01 to 2012-01-01 |
 | `530-111` | Ausführungsbestimmungen über die Militärverwaltung | 1 | 2013-01-01 to 2013-01-01 |
 | `540-111-ab-kbsg` | Ausführungsbestimmungen über den Bevölkerungsschutz | 2 | 2012-01-01 to 2017-05-01 |
+| `540-112-ab-kfs` | Ausführungsbestimmungen über den kantonalen Führungsstab | 2 | 2006-03-01 to 2017-05-01 |
+| `540-311` | Ausführungsbestimmungen über die Sicherstellung der Trinkwasserversorgung in Notlagen | 1 | 2006-05-01 to 2006-05-01 |
+| `543-111-ab-zsg` | Ausführungsbestimmungen über den Zivilschutz | 4 | 2012-01-01 to 2026-01-01 |
+| `546-111-ab-fewg` | Ausführungsbestimmungen zum Feuerwehrgesetz | 4 | 2013-01-01 to 2025-01-01 |
+| `546-112` | Ausführungsbestimmungen über die Stützpunktaufgaben der Feuerwehren der Gemeinden Sarnen und Engelberg | 2 | 2018-01-01 to 2023-01-01 |
+| `546-116` | Ausführungsbestimmungen über die Kosten der Feuerwehr-, Ölwehr-, Chemiewehr- und Strahlenschutzeinsätze | 2 | 2018-01-01 to 2021-01-01 |
+| `546-211` | Kaminfegertarif | 1 | 2009-01-01 to 2009-01-01 |
+| `610-111-ab-fhg` | Ausführungsbestimmungen über den Vollzug des Finanzhaushaltsgesetzes durch den Kanton | 5 | 2013-01-01 to 2024-01-01 |
+| `610-112` | Ausführungsbestimmungen über die Finanzkennzahlen und die Finanzstatistik | 1 | 2013-01-01 to 2013-01-01 |
+| `610-211` | Ausführungsbestimmungen über den Vollzug des Finanzhaushaltsgesetzes durch die Kirchgemeinden | 1 | 2021-01-01 to 2021-01-01 |
+| `610-221` | Ausführungsbestimmungen über das Interne Kontrollsystem IKS | 2 | 2021-10-01 to 2025-01-01 |
+| `641-111` | Ausführungsbestimmungen über die Erhebung der direkten Bundessteuer | 2 | 2009-01-01 to 2025-01-01 |
+| `641-211` | Ausführungsbestimmungen über die Rückerstattung der eidgenössischen Verrechnungssteuer | 2 | 2013-01-01 to 2022-01-01 |
+| `641-311` | Ausführungsbestimmungen über die Anrechnung ausländischer Quellensteuern | 2 | 2004-01-01 to 2022-01-01 |
+| `641-412` | Ausführungsbestimmungen über den steuerlichen Abzug von Berufskosten bei unselbstständiger Erwerbstätigkeit | 8 | 2011-01-01 to 2026-01-01 |
+| `641-413` | Ausführungsbestimmungen über den steuerlichen Abzug der Kosten von Liegenschaften des Privatvermögens | 2 | 2011-01-01 to 2025-01-01 |
+| `641-414` | Ausführungsbestimmungen über die Quellensteuern von natürlichen und juristischen Personen | 5 | 2005-03-01 to 2025-01-01 |
+| `641-415` | Ausführungsbestimmungen über die zeitliche Bemessung der Steuer bei juristischen Personen | 2 | 1995-10-01 to 2025-01-01 |
+| `641-416` | Ausführungsbestimmungen über die zeitliche Bemessung der Steuer bei natürlichen Personen | 2 | 2001-01-01 to 2025-01-01 |
+| `641-418` | Ausführungsbestimmungen über die Errichtung des steuerlichen Nachlassinventars | 2 | 2001-01-01 to 2025-01-01 |
+| `641-419` | Ausführungsbestimmungen über den Steuerbezug | 4 | 2002-01-01 to 2021-01-01 |
+| `641-420` | Ausführungsbestimmungen über die Steuerveranlagung | 15 | 2012-01-01 to 2026-01-01 |
+| `641-421` | Ausführungsbestimmungen über die Digitalisierung des Steuerverfahrens | 3 | 2016-01-01 to 2026-01-01 |
+| `641-427` | Ausführungsbestimmungen über die ermässigte Besteuerung von Gewinnen aus Patenten und vergleichbaren Rechten | 1 | 2020-01-01 to 2020-01-01 |
+| `641-428` | Ausführungsbestimmungen über Rückstellungen für Investitionen in ökologische Anlagen | 1 | 2025-01-01 to 2025-01-01 |
+| `643-111-ab-agg` | Ausführungsbestimmungen zum Allgemeinen Gebührengesetz | 4 | 2005-07-01 to 2025-01-01 |
+| `651-111` | Ausführungsbestimmungen über die Eignungsprüfung der Jägerinnen und Jäger | 4 | 2008-01-01 to 2021-02-01 |
+| `651-112` | Ausführungsbestimmungen über die Jagdbann-, Wildschutz- und Sondergebiete | 5 | 2011-07-01 to 2023-08-01 |
+| `651-113` | Ausführungsbestimmungen über die Hegegemeinschaft | 2 | 2007-08-01 to 2017-01-01 |
+| `651-115` | Ausführungsbestimmungen über die Gebühren der Hegejagd auf Steinwild | 2 | 1991-05-21 to 2016-05-01 |
+| `651-150` | Regierungsratsbeschluss über die kantonalen Wildruhezonen | 2 | 2014-03-20 to 2021-08-01 |
+| `651-211` | Ausführungsbestimmungen über die Fischerei | 7 | 2011-01-01 to 2026-01-01 |
+| `651-212` | Ausführungsbestimmungen über die Fischerei im Eugenisee in Engelberg | 4 | 2010-04-15 to 2026-01-01 |
+| `651-214` | Schonvorschriften über die Fischerei | 5 | 2013-01-01 to 2021-01-01 |
+| `651-215` | Ausführungsbestimmungen über die Fischerei im Lungerersee | 6 | 2013-01-01 to 2026-01-01 |
+| `651-311` | Ausführungsbestimmungen zur Vereinbarung über die Fischerei im Vierwaldstättersee | 4 | 2012-01-01 to 2023-09-01 |
+| `661-111` | Ausführungsbestimmungen zum Kantonalbankgesetz | 2 | 2007-06-01 to 2024-01-01 |
+| `663-111-ab-ewog` | Ausführungsbestimmungen zum Gesetz über das Elektrizitätswerk Obwalden | 2 | 2011-01-01 to 2020-01-01 |
+| `710-111-ab-vk` | Ausführungsbestimmungen über die Verfahrenskoordination im Baurecht | 2 | 2009-01-01 to 2016-02-01 |
+| `710-112` | Ausführungsbestimmungen über die Energieverwendung im Gebäudebereich | 3 | 2011-06-01 to 2020-07-01 |
+| `710-113-ab-solar` | Ausführungsbestimmungen über die Solaranlagen | 3 | 2016-04-01 to 2024-07-01 |
+| `710-114` | Ausführungsbestimmungen zur Sicherstellung und Steigerung der Baulandverfügbarkeit | 1 | 2020-07-01 to 2020-07-01 |
+| `710-221` | Regierungsratsbeschluss über eine Planungszone zur Sicherung der Gewässerräume | 3 | 2015-09-02 to 2025-09-02 |
+| `720-115` | Ausführungsbestimmungen über die Benützung von Parkplätzen des Kantons | 1 | 2020-07-01 to 2020-07-01 |
+| `720-711` | Ausführungsbestimmungen über Beiträge an Wanderwege | 3 | 2007-08-01 to 2022-01-01 |
+| `720-725` | Ausführungsbestimmungen zum Bundesgesetz über Velowege | 1 | 2025-01-01 to 2025-01-01 |
+| `730-511` | Ausführungsbestimmungen über die Benützung der kantonalen Gebäude und Anlagen | 2 | 2012-02-01 to 2020-07-01 |
+| `740-5-ivrv` | Interkantonale Vereinbarung über die Regulierung des Abflusses des Vierwaldstättersees | 1 | 2007-09-19 to 2007-09-19 |
+| `740-111` | Ausführungsbestimmungen zum Vollzug von Art. 23a des Wasserbaugesetzes | 1 | 2019-01-01 to 2019-01-01 |
+| `750-211` | Ausführungsbestimmungen über die Wärmenutzung aus dem Untergrund | 1 | 2008-06-01 to 2008-06-01 |
+| `771-4-vereinbarung-vsz` | Vereinbarung über ein Verkehrssicherheitszentrum der Kantone Obwalden und Nidwalden | 1 | 2011-07-01 to 2011-07-01 |
+| `772-111` | Ausführungsbestimmungen zum Gesetz über die Förderung des öffentlichen Verkehrs | 2 | 2015-01-01 to 2026-01-01 |
+| `774-3` | Interkantonale Vereinbarung über die Schifffahrt auf dem Vierwaldstättersee | 1 | 1998-07-01 to 1998-07-01 |
+| `774-115` | Ausführungsbestimmungen über das Einwassern von Schiffen | 1 | 2024-08-01 to 2024-08-01 |
+| `775-111` | Zuständigkeitsordnung für den Vollzug des Bundesgesetzes über die Luftfahrt | 1 | 1953-01-17 to 1953-01-17 |
+| `780-31` | Chemiewehr- und Strahlenschutzverordnung | 1 | 2011-01-01 to 2011-01-01 |
+| `780-35-chemiewehr-vereinbarung` | Vereinbarung über die Sicherstellung der Chemiewehr im Kanton Obwalden | 1 | 2021-01-01 to 2021-01-01 |
+| `780-114-ab-lrv` | Ausführungsbestimmungen zur Luftreinhalte-Verordnung | 2 | 2007-10-01 to 2024-01-01 |
+| `780-115` | Regierungsratsbeschluss über den Erlass des Katasters der belasteten Standorte | 1 | 2008-12-22 to 2008-12-22 |
+| `783-112` | Ausführungsbestimmungen über die Ausscheidung von Schutzzonen bei Grundwasserfassungen | 1 | 2006-06-01 to 2006-06-01 |
+| `783-113` | Ausführungsbestimmungen über die Ausscheidung von Grundwasserschutzarealen | 1 | 2006-06-01 to 2006-06-01 |
+| `783-114-ab-gwr` | Ausführungsbestimmungen über die Ausscheidung der Gewässerräume | 2 | 2012-07-15 to 2025-05-01 |
+| `786-42` | Regierungsratsbeschluss über die Landschaftsschutzgebiete von regionaler Bedeutung (Teilerlass I) | 1 | 2007-08-01 to 2007-08-01 |
+| `786-47` | Regierungsratsbeschluss über die Naturschutzzone Schlierenrüti, Gemeinde Alpnach | 1 | 1999-05-27 to 1999-05-27 |
+| `786-49` | Regierungsratsbeschluss über die Landschaftsschutzgebiete von regionaler Bedeutung (Teilerlass II) | 1 | 2007-08-01 to 2007-08-01 |
+| `786-52` | Regierungsratsbeschluss über die kantonale Naturschutzzone Wichelsee, Gemeinden Alpnach und Sarnen | 1 | 2006-03-16 to 2006-03-16 |
+| `786-111` | Ausführungsbestimmungen über ökologische Ausgleichszahlungen | 4 | 2008-01-01 to 2026-01-01 |
+| `786-112` | Ausführungsbestimmungen über geschützte Tier- und Pflanzenarten | 3 | 2007-08-01 to 2018-10-01 |
 
-The build made 531 commits:
+The build made 690 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 255 | first version of an act |
-| 276 | one law on its in-force day |
+| 167 | baseline texts where the record starts |
+| 523 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
+| 0 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 4 commits on the branch `zukunft`: laws not yet in force on 2026-10-30.
-- 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 769 laws in the record.
-- 999 tags.
+- 4 commits on the branch `zukunft`: laws not yet in force on 2026-11-24.
+- 1 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 959 laws in the record.
+- 1290 tags.
 
 ## Dates
 
@@ -294,9 +364,9 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `a1441166a41c5e040c649a424f486f55a92ae77b197e15012cacf2d99bbe4298` (6697185 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.14.4; git version 2.53.0.
+- Corpus: sha256 `994df017f7253b2421e49a5fce349641f13c0b68c9f2be0a5a157862c43789bc` (7790018 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
+- Python 3.14.0; git version 2.52.0.windows.1.
 
 ## Checks
 
@@ -314,7 +384,7 @@ No second build of this corpus has been compared yet.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 

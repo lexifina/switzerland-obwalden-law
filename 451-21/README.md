@@ -1,6 +1,6 @@
 # Verordnung über den Schutz von Bau- und Kulturdenkmälern (Denkmalschutzverordnung, DSV)
 
-GDB 451.21 · 4 versions, from 2008-07-01 (latest in force: 2026-03-01) · <http://gdb.ow.ch/app/de/texts_of_law/451.21>
+GDB 451.21 · 4 versions, from 2008-07-01 (latest in force: 2026-11-01) · <http://gdb.ow.ch/app/de/texts_of_law/451.21>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -10,6 +10,7 @@ GDB 451.21 · 4 versions, from 2008-07-01 (latest in force: 2026-03-01) · <http
 | Art. 6 | [art-006.md](art-006.md) | 0 |  |
 | Art. 7 | [art-007.md](art-007.md) | 1 | 2026-11-01 |
 | Art. 8 | [art-008.md](art-008.md) | 1 | 2026-03-01 |
+| Art. 8a | [art-008a.md](art-008a.md) | 1 | 2026-11-01 |
 | Art. 9 | [art-009.md](art-009.md) | 2 | 2026-11-01 |
 | Art. 10 | [art-010.md](art-010.md) | 1 | 2026-03-01 |
 | Art. 11 | [art-011.md](art-011.md) | 1 | 2026-11-01 |
@@ -37,6 +38,5 @@ GDB 451.21 · 4 versions, from 2008-07-01 (latest in force: 2026-03-01) · <http
 | Art. 34 | [art-034.md](art-034.md) | 0 |  |
 | Art. 35 | [art-035.md](art-035.md) | 0 |  |
 | Art. 30–32 | [art-3032.md](art-3032.md) | 0 |  |
-| Gliederung | [gliederung.md](gliederung.md) | 1 | 2026-11-01 |
 | Titel und Ingress | [ingress.md](ingress.md) | 2 | 2026-11-01 |
 | Schlussformel | [schluss.md](schluss.md) | 3 | 2026-11-01 |

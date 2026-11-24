@@ -1,0 +1,21 @@
+{
+ "corpus": "ch/obwalden/acts",
+ "path": "switzerland/obwalden/acts",
+ "scope": "selected-acts",
+ "acts": 323,
+ "future_branch": "zukunft",
+ "publisher": "Kanton Obwalden, GDB (gdb.ow.ch)",
+ "name": "Obwalden",
+ "language": "de",
+ "coverage": "323 acts of Obwalden with every dated version the source gives (802 versions), in force from 1953-01-17 to 2026-10-30",
+ "history": "in-force",
+ "history_from": "1953-01-17",
+ "record_to": "2026-10-30",
+ "checked_on": "2026-11-24",
+ "record_note": "Texts from Kanton Obwalden, GDB (gdb.ow.ch).",
+ "in_force_trailer": "In-force",
+ "citation": {
+  "file": "([^/]+)/art-0*([0-9]+[a-z]?)\\.md",
+  "cites": "Art(ikel|\\.) ?{n}([^0-9a-z]|$)"
+ }
+}
