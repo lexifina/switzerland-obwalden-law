@@ -1,6 +1,6 @@
 # How this repository was made (Obwalden)
 
-This file is written by the build on 2026-11-24, the day the source data was retrieved.
+This file is written by the build on 2026-11-25, the day the source data was retrieved.
 
 ## Sources
 
@@ -337,22 +337,77 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `786-52` | Regierungsratsbeschluss über die kantonale Naturschutzzone Wichelsee, Gemeinden Alpnach und Sarnen | 1 | 2006-03-16 to 2006-03-16 |
 | `786-111` | Ausführungsbestimmungen über ökologische Ausgleichszahlungen | 4 | 2008-01-01 to 2026-01-01 |
 | `786-112` | Ausführungsbestimmungen über geschützte Tier- und Pflanzenarten | 3 | 2007-08-01 to 2018-10-01 |
+| `810-111` | Ausführungsbestimmungen über die Berufe und die Einrichtungen des Gesundheitswesens | 2 | 2016-02-01 to 2022-07-01 |
+| `810-211-vereinbarung-ethikkommission-nordwest-und-zentralschweiz-eknz` | Vereinbarung über die Einsetzung einer gemeinsamen Ethikkommission Nordwest- und Zentralschweiz | 1 | 2014-01-01 to 2014-01-01 |
+| `811-6-weiterbildungsfinanzierungvereinbarung-wfv` | Interkantonale Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen | 1 | 2022-01-25 to 2022-01-25 |
+| `811-111` | Ausführungsbestimmungen über das Wartegeld für Hebammen | 3 | 2002-07-01 to 2023-01-01 |
+| `811-711-ab-ausbildungsforderung-pflege` | Ausführungsbestimmungen zum Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege | 1 | 2024-07-01 to 2024-07-01 |
+| `814-211` | Ausführungsbestimmungen über die Heilmittel und die Betäubungsmittel | 3 | 2016-02-01 to 2022-07-01 |
+| `814-411` | Ausführungsbestimmungen zur Chemikaliengesetzgebung | 2 | 1973-11-19 to 2017-02-01 |
+| `816-27` | Ausführungsbestimmungen zum Konkordat betreffend das Laboratorium der Urkantone | 1 | 2010-01-01 to 2010-01-01 |
+| `818-111-ab-vetg` | Ausführungsbestimmungen zum Veterinärgesetz | 4 | 2011-01-01 to 2024-12-01 |
+| `830-511` | Regierungsratsbeschluss über den Erlass der Spitalliste | 4 | 2012-01-01 to 2020-01-01 |
+| `830-711` | Ausführungsbestimmungen über die Beiträge des Kantons an die Organisationen der Hilfe und Pflege zu Hause | 2 | 2013-01-01 to 2016-02-01 |
+| `841-311` | Ausführungsbestimmungen zum Bundesgesetz über die Heimarbeit | 1 | 2007-08-01 to 2007-08-01 |
+| `843-3` | Interkantonale Vereinbarung über den Vollzug des Entsendegesetzes und des Bundesgesetzes gegen die Schwarzarbeit | 1 | 2007-05-01 to 2007-05-01 |
+| `843-21` | Vereinbarung über ein gemeinsames regionales Arbeitsvermittlungszentrum der Kantone Obwalden und Nidwalden | 1 | 2011-11-01 to 2011-11-01 |
+| `851-12` | Kantonsratsbeschluss über den Selbstbehalt bei der Individuellen Prämienverbilligung in der Krankenversicherung für das Jahr 2026 | 14 | 2013-01-01 to 2026-01-01 |
+| `851-211` | Regierungsratsbeschluss über die nach Krankenversicherungsgesetz zugelassenen Pflegeheime | 2 | 2006-03-21 to 2018-01-01 |
+| `851-311` | Ausführungsbestimmungen über die Kostenübernahme bei ausserkantonaler stationärer Spitalbehandlung | 1 | 2012-01-01 to 2012-01-01 |
+| `851-312` | Ausführungsbestimmungen über den Kostenteiler zwischen Kanton und Krankenversicherer | 1 | 2013-01-01 to 2013-01-01 |
+| `851-352` | Ausführungsbestimmungen über die Zulassung zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung und die Festlegung der Höchstzahlen für Ärztinnen und Ärzte im ambulanten Bereich | 3 | 2016-10-01 to 2023-07-01 |
+| `851-411` | Ausführungsbestimmungen zum Bundesgesetz über die Unfallversicherung | 1 | 2007-08-01 to 2007-08-01 |
+| `853-111` | Ausführungsbestimmungen zum Einführungsgesetz zum Bundesgesetz über die Alters- und Hinterlassenenversicherung | 4 | 2011-01-01 to 2026-01-01 |
+| `853-211` | Ausführungsbestimmungen über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen | 1 | 2011-01-26 to 2011-01-26 |
+| `855-111` | Vereinbarung über eine gemeinsame öffentliche Arbeitslosenkasse der Kantone Obwalden und Nidwalden | 1 | 2011-11-01 to 2011-11-01 |
+| `856-2` | Konkordat über die Zentralschweizer BVG- und Stiftungsaufsicht | 1 | 2006-01-01 to 2006-01-01 |
+| `856-211` | Ausführungsbestimmungen der Zentralschweizer BVG- und Stiftungsaufsicht (ZBSA) über die berufliche Vorsorge | 4 | 2012-01-01 to 2022-07-01 |
+| `857-111` | Ausführungsbestimmungen über die Familienzulagen | 2 | 2011-01-01 to 2016-01-01 |
+| `870-111` | Ausführungsbestimmungen über die Ehe- und Familienberatungsstelle | 1 | 2008-01-01 to 2008-01-01 |
+| `870-125` | Ausführungsbestimmungen über den Vollzug der Verordnung über die Inkassohilfe bei familienrechtlichen Unterhaltsansprüchen | 2 | 2022-01-01 to 2023-07-01 |
+| `870-711` | Ausführungsbestimmungen über die Beiträge in der familienergänzenden Kinderbetreuung | 4 | 2011-01-01 to 2026-01-01 |
+| `910-114-ab-covid-19-hartefallmassnahmen` | Ausführungsbestimmungen zur Finanzierung von Covid-19-Härtefallmassnahmen für Unternehmen | 2 | 2021-01-28 to 2022-05-05 |
+| `910-115-ab-2-covid-19-hartefallmassnahmen` | Ausführungsbestimmungen 2 zur Finanzierung von Covid-19-Härtefallmassnahmen für Unternehmen | 1 | 2022-05-05 to 2022-05-05 |
+| `921-111` | Ausführungsbestimmungen über die Förderung der Tierzucht, der arbeitsteiligen Jungviehaufzucht und des Viehabsatzes | 2 | 2010-05-01 to 2018-03-01 |
+| `921-112` | Ausführungsbestimmungen über die Strukturverbesserungen mit Finanzhilfen | 4 | 2010-05-01 to 2017-01-01 |
+| `921-113` | Ausführungsbestimmungen über die Förderung der Landschaftsqualität und Vernetzung | 3 | 2010-01-01 to 2023-01-01 |
+| `921-114` | Ausführungsbestimmungen über Innovationsbeiträge zur Absatzförderung in der Landwirtschaft | 1 | 2008-03-01 to 2008-03-01 |
+| `921-115` | Ausführungsbestimmungen über den Gewässerschutz in der Landwirtschaft | 1 | 2006-05-01 to 2006-05-01 |
+| `921-116` | Ausführungsbestimmungen über Pflanzenschutzmassnahmen in der Landwirtschaft | 3 | 2007-06-15 to 2024-03-01 |
+| `921-117` | Ausführungsbestimmungen über die kontrollierte Ursprungsbezeichnung für Weine | 2 | 2010-05-01 to 2015-10-01 |
+| `921-119` | Ausführungsbestimmungen über Klimamassnahmen in der Landwirtschaft | 1 | 2024-07-01 to 2024-07-01 |
+| `925-111-ab-bgbb` | Ausführungsbestimmungen zum bäuerlichen Boden- und Pachtrecht | 2 | 2011-10-01 to 2016-07-01 |
+| `930-312` | Ausführungsbestimmungen über den Fonds für Walderhaltung und ökologische Ersatzleistungen | 2 | 2005-01-01 to 2017-05-01 |
+| `930-315` | Ausführungsbestimmungen über die Rodung | 1 | 2017-05-01 to 2017-05-01 |
+| `930-316` | Regierungsratsbeschluss über die Bezeichnung der Gebiete mit zunehmender Waldfläche | 1 | 2019-08-12 to 2019-08-12 |
+| `930-318` | Ausführungsbestimmungen über das Waldfeststellungsverfahren | 1 | 2017-05-01 to 2017-05-01 |
+| `930-321` | Ausführungsbestimmungen über das Befahren von Waldstrassen und -wegen | 1 | 2017-05-01 to 2017-05-01 |
+| `930-324` | Ausführungsbestimmungen über die forstliche Planung und Bewirtschaftung | 1 | 2017-05-01 to 2017-05-01 |
+| `930-327` | Ausführungsbestimmungen über die Finanzierung im Forstbereich | 1 | 2017-05-01 to 2017-05-01 |
+| `930-330` | Ausführungsbestimmungen über die Rechte und Pflichten der Revierförster und Revierförsterinnen | 1 | 2017-05-01 to 2017-05-01 |
+| `952-111` | Ausführungsbestimmungen zum Bundesgesetz über das Messwesen | 2 | 2005-03-01 to 2018-05-01 |
+| `971-311-ab-tv` | Ausführungsbestimmungen zur Tourismusverordnung | 1 | 2013-01-01 to 2013-01-01 |
+| `975-41-ikv-2020` | Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen | 2 | 1984-03-12 to 2021-01-01 |
+| `975-42-gsk` | Gesamtschweizerisches Geldspielkonkordat | 1 | 2021-01-01 to 2021-01-01 |
+| `975-115` | Ausführungsbestimmungen zum Bundesgesetz über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten | 1 | 2014-01-01 to 2014-01-01 |
+| `975-312-ab-bgs` | Ausführungsbestimmungen zum Einführungsgesetz zum Geldspielgesetz | 1 | 2021-01-01 to 2021-01-01 |
+| `975-611-ab-submg` | Ausführungsbestimmungen zum Submissionsgesetz | 1 | 2004-02-01 to 2004-02-01 |
 
-The build made 690 commits:
+The build made 796 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 167 | baseline texts where the record starts |
-| 523 | named laws, court decisions and treaties |
+| 186 | baseline texts where the record starts |
+| 610 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
-- 4 commits on the branch `zukunft`: laws not yet in force on 2026-11-24.
+- 4 commits on the branch `zukunft`: laws not yet in force on 2026-11-25.
 - 1 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 959 laws in the record.
-- 1290 tags.
+- 1077 laws in the record.
+- 1480 tags.
 
 ## Dates
 
@@ -364,7 +419,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `994df017f7253b2421e49a5fce349641f13c0b68c9f2be0a5a157862c43789bc` (7790018 bytes).
+- Corpus: sha256 `ee0be45446a025e53b224b839e12a0dd8b766268e40550e9b9574194256d483a` (8446278 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
