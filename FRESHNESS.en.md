@@ -8,9 +8,9 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Obwalden: systematic collection (gdb.ow.ch) · `switzerland/obwalden/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 12:23 UTC**.
-- Acts held here: 255; current at the source: 255; changed at the source since the version held here: 230; no longer at the source: 0.
-- Compared with the source in this read: 105 of the 255 acts held here; the others were not compared in this read (see the check's note).
-- Not published: 163 (held here, no longer at the source: 82, new at the source, not published here yet: 80, in force later: 1); with no reason: 0.
+- The official source last read and every act held here checked against it: **2026-11-25 07:34 UTC**.
+- Acts held here: 323; current at the source: 323; changed at the source since the version held here: 80; no longer at the source: 0.
+- Compared with the source in this read: 102 of the 323 acts held here; the others were not compared in this read (see the check's note).
+- Not published: 107 (held here, no longer at the source: 107); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.en.md). For programs: [data/checks/latest.json](data/checks/latest.json).
