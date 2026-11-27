@@ -8,9 +8,9 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 
 ### Obwalden: Systematische Sammlung (gdb.ow.ch) · `switzerland/obwalden/acts`
 
-- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-26 06:37 UTC**.
+- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-27 06:39 UTC**.
 - Vorschriften hier: 378; aktuell gegenüber der Quelle: 378; an der Quelle geändert seit der Fassung hier: 0; nicht mehr an der Quelle: 0.
 - In diesem Lesen mit der Quelle verglichen: 54 der 378 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
-- Nicht veröffentlicht: 110 (hier vorhanden, an der Quelle nicht mehr: 107, tritt später in Kraft: 3); ohne Grund: 0.
+- Nicht veröffentlicht: 108 (hier vorhanden, an der Quelle nicht mehr: 107, tritt später in Kraft: 1); ohne Grund: 0.
 
 Im Einzelnen: [monitoring/](monitoring/README.md). Für Programme: [data/checks/latest.json](data/checks/latest.json).

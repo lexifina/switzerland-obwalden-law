@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:19:42Z",
+ "generated": "2026-11-27T07:13:38Z",
  "latest": {
   "lexwork-obwalden|switzerland/obwalden/acts": {
    "attempt": 1,
@@ -23,13 +23,13 @@
     "repo": 378,
     "source_in_scope": 378
    },
-   "check_id": "ch-lexwork-obwalden-20261126T063505Z",
+   "check_id": "ch-lexwork-obwalden-20261127T063641Z",
    "commits": null,
    "corpus": "switzerland/obwalden/acts",
    "error": null,
-   "finished": "2026-11-26T06:37:54Z",
+   "finished": "2026-11-27T06:39:05Z",
    "flags": [],
-   "gap": 110,
+   "gap": 108,
    "note": "gdb.ow.ch: index of 516 acts (516 in force); held 378; 0 in force and in scope not held yet, 31 out of scope (land-use plans, concessions, directives, forms: as the builder), 107 published only as PDF; 54 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "no-change",
    "published": {
@@ -37,7 +37,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 160,
+   "requests": 135,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -47,7 +47,7 @@
    },
    "snapshot": "516 entries, 516 in force (gdb.ow.ch)",
    "source": "lexwork-obwalden",
-   "started": "2026-11-26T06:35:05Z",
+   "started": "2026-11-27T06:36:41Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -68,7 +68,7 @@
     "not_compared_why": null,
     "ok": true,
     "swept": 54,
-    "versions_checked": 146,
+    "versions_checked": 140,
     "versions_differ": 0
    }
   }
