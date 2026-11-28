@@ -8,6 +8,6 @@ How global-law watches every country's sources: [global-law WATCHING.md](https:/
 
 | Source | What is read | Folders | How often | Last read | State |
 | --- | --- | --- | --- | --- | --- |
-| [Obwalden: systematic collection (gdb.ow.ch)](https://gdb.ow.ch/) | the collection's index of acts in force each check, the act document (every consolidated version, its change table) of new acts and of a seventh of the held acts, version documents once | `<act>/` | daily | 2026-11-27 06:36 UTC | watched |
+| [Obwalden: systematic collection (gdb.ow.ch)](https://gdb.ow.ch/) | the collection's index of acts in force each check, the act document (every consolidated version, its change table) of new acts and of a seventh of the held acts, version documents once | `<act>/` | daily | 2026-11-28 06:28 UTC | watched |
 
 Sources are read within their robots.txt and terms, with pauses between requests.
